@@ -1,6 +1,6 @@
 total = 0
 i=0
-puts "Podaj ostatnią liczbę"
+puts "Podaj liczbę:"
 n = gets.chop
 while i<n.to_i
 if i%3==0
