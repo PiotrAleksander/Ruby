@@ -1,0 +1,44 @@
+require 'csv'
+require 'sunlight/congress'
+require 'erb'
+
+Sunlight::Congress.api_key = "2ff0cf63048d45ec879fcf87b4d28a88" #klucz ze strony Sunlight - zajmują się przejrzystością kongresu
+
+def clean_zipcode(zipcode) #
+  zipcode.to_s.rjust(5,"0")[0..4]
+end
+
+def legislators_by_zipcode(zipcode)
+  Sunlight::Congress::Legislator.by_zipcode(zipcode)
+end
+
+def save_thank_you_letters(id,form_letter)
+  Dir.mkdir("output") unless Dir.exists?("output") #tworzy katalog "output", jeżeli nie istnieje
+
+  filename = "output/thanks_#{id}.html" #tworzy szablony pod legislatora(członka senatu)
+
+  File.open(filename,'w') do |file|
+    file.puts form_letter
+  end
+end
+
+puts "EventManager initialized." #zostaje po angielsku, póki są legislatorzy
+
+contents = CSV.open 'event_attendees.csv', headers: true, header_converters: :symbol
+
+template_letter = File.read "form_letter.erb" # wczytuje szablon z wpisanymi formułami ruby (tworzą spersonalizowane wersje strony)
+erb_template = ERB.new template_letter
+
+contents.each do |row|
+  id = row[0]
+  name = row[:first_name]
+  zipcode = clean_zipcode(row[:zipcode])
+  legislators = legislators_by_zipcode(zipcode)
+
+  form_letter = erb_template.result(binding)
+
+  save_thank_you_letters(id,form_letter)
+end
+
+
+koniec = gets.chop
