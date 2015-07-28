@@ -4,40 +4,40 @@ require 'erb'
 
 Sunlight::Congress.api_key = "2ff0cf63048d45ec879fcf87b4d28a88" #klucz ze strony Sunlight - zajmują się przejrzystością kongresu
 
-def clean_zipcode(zipcode) #
-  zipcode.to_s.rjust(5,"0")[0..4]
+def oczysc_kod_pocztowy(kod_pocztowy) #
+  kod_pocztowy.to_s.rjust(5,"0")[0..4]
 end
 
-def legislators_by_zipcode(zipcode)
-  Sunlight::Congress::Legislator.by_zipcode(zipcode)
+def poslowie_kod_pocztowy(kod_pocztowy)
+  Sunlight::Congress::Legislator.by_zipcode(kod_pocztowy)
 end
 
-def save_thank_you_letters(id,form_letter)
-  Dir.mkdir("output") unless Dir.exists?("output") #tworzy katalog "output", jeżeli nie istnieje
+def list_z_podziekowaniem(id,szablon_list)
+  Dir.mkdir("listy") unless Dir.exists?("listy") #tworzy katalog "listy", jeżeli nie istnieje
 
-  filename = "output/thanks_#{id}.html" #tworzy szablony pod legislatora(członka senatu)
+  nazwa_pliku = "listy/dzieki_#{id}.html" #tworzy szablony pod legislatora(członka senatu)
 
-  File.open(filename,'w') do |file|
-    file.puts form_letter
+  File.open(nazwa_pliku,'w') do |plik|
+    plik.puts szablon_list
   end
 end
 
-puts "EventManager initialized." #zostaje po angielsku, póki są legislatorzy
+puts "EventManager zainicjowany." #zostaje po angielsku, póki są legislatorzy
 
 contents = CSV.open 'event_attendees.csv', headers: true, header_converters: :symbol
 
-template_letter = File.read "form_letter.erb" # wczytuje szablon z wpisanymi formułami ruby (tworzą spersonalizowane wersje strony)
+template_letter = File.read "szablon_list.erb" # wczytuje szablon z wpisanymi formułami ruby (tworzą spersonalizowane wersje strony)
 erb_template = ERB.new template_letter
 
 contents.each do |row|
   id = row[0]
   name = row[:first_name]
-  zipcode = clean_zipcode(row[:zipcode])
-  legislators = legislators_by_zipcode(zipcode)
+  kod_pocztowy = oczysc_kod_pocztowy(row[:zipcode]) # zipcode to nazwa wiersz z event_attendees.csv
+  legislators = poslowie_kod_pocztowy(kod_pocztowy)
 
-  form_letter = erb_template.result(binding)
+  szablon_list = erb_template.result(binding)
 
-  save_thank_you_letters(id,form_letter)
+  list_z_podziekowaniem(id,szablon_list)
 end
 
 
