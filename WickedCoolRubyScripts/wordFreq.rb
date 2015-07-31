@@ -1,12 +1,12 @@
-unless ARGV[0]
-  print "\nMusisz podać plik do sprawdzenia. "
-  print "Sposób użycia: ruby wordFreq.rb plik_do_sprawdzenia.txt"
+﻿unless ARGV[0]
+  print "\nMusisz podać plik do sprawdzenia."
+  print "Sposób użycia: ruby wordFreq.rb plik_do_sprawdzenia.txt "
   exit
 end
 
 unless File.exist?(ARGV[0])
-  print "\nNie można znaleźć pliku - sprawdź ścieżkę. "
-  print "Sposób użycia: ruby wordFreq.rb plik_do_sprawdzenia.txt"
+  print "\nNie można znaleźć pliku - sprawdź ścieżkę."
+  print "Sposób użycia: ruby wordFreq.rb plik_do_sprawdzenia.txt "
   exit
 end
 
@@ -20,7 +20,7 @@ sorted = words.sort_by {|a| a[1]}
 
 temp = sorted.length
 
-20.times do
+50.times do
   temp -= 1
   print "\"#{sorted[temp][0]}\": liczba wystąpień to #{sorted[temp][1]}\n"
 end

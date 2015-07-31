@@ -18,10 +18,12 @@ end
 
 big_array = Array.new
 big_array_sorted = Array.new
-IO.foreach("1000RanNum.txt", $\ = ' ') {|num| big_array.push num.to_i}
-print Benchmark.measure {big_array_sorted = selection_sort(big_array)}
+IO.foreach("10000RanNum.txt", $\ = ' ') {|num| big_array.push num.to_i}
+a = Benchmark.measure {big_array_sorted = selection_sort(big_array)}
+print a
 
-File.open("output_selectionSort.txt", "w") do |out|
+File.open("output_10xselection_sort.txt", "w") do |out|
+  out.puts a
   out.puts big_array_sorted
 end
 

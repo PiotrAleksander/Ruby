@@ -33,9 +33,10 @@ print sortowanie_babelkowe("zdanie, które zaraz zostanie posortowanie".split)
 
 big_array = Array.new
 big_array_sorted = Array.new
-IO.foreach("1000RanNum.txt", $\ = ' ') {|num| big_array.push num.to_i}
-print Benchmark.measure {big_array_sorted = sortowanie_babelkowe(big_array)}
-
-File.open("output_bubbleSort.txt", "w") do |out|
+IO.foreach("10000RanNum.txt", $\ = ' ') {|num| big_array.push num.to_i}
+a = Benchmark.measure {big_array_sorted = sortowanie_babelkowe(big_array)}
+print a 
+File.open("output_10xbubble_sort.txt", "w") do |out|
+  out.puts a
   out.puts big_array_sorted
 end
