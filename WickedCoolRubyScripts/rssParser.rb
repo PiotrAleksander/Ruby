@@ -1,14 +1,14 @@
 require 'rss'
 require 'open-uri'
 
-source = "http://helion.pl/rss/"
+source = "http://startups.antyweb.pl/startups.rss"
 content = ""
 
 open(source) do |s|
   content = s.read
 end
 
-rss = RSS::Parser/parse(content, false)
+rss = RSS::Parser.parse(content, false)
 
 print "Czy chcesz zobaczyć opisy kanałów (t/n)? "
 input = gets.chomp
