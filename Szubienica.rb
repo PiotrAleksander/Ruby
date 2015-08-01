@@ -2,7 +2,7 @@ require 'yaml'
 
 class Szubienica
   def initialize
-    zawartosc = File.open('5desk.txt', 'r') { |file| file.read } # odczytuje słownik z pliku (tutaj plik angielski od JBerczel)
+    zawartosc = File.open('slowa-win.txt', 'r') { |file| file.read } # odczytuje słownik z pliku (tutaj plik angielski od JBerczel)
     poprawne_wyraz = zawartosc.split.select { |slowo| slowo.length.between?(5,12) }  # wybiera słowa 5-12 literowe
     @slowo = poprawne_wyraz[rand(poprawne_wyraz.size)].downcase.split('') #wybiera losowe słowo
     @wyswietl = Array.new(@slowo.length, '_')
