@@ -2,11 +2,11 @@ require 'jumpstart_auth'
 require 'bitly'
 require 'klout'
 
-class MicroBlogger
+class MikroBlogger
   attr_reader :client
 
   def initialize
-    print "Zainicjowano MicroBloggera\n"
+    print "Zainicjowano MikroBloggera\n"
 	@client = JumpstartAuth.twitter #pierwsza inicjalizacja wysyła na stronę Twittera, gdzie autoryzujemy jumpstartlab.com i przepisujemy pin do konsoli
     Klout.api_key = 'xu9ztgnacmjx3bu82warbr3h' #dzięki uprzejmości jumstartlab  
   end
