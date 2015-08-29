@@ -8,7 +8,7 @@ class Pole
 
   def Pole.nazwa(s)
     a = (' '..'z').to_a #zbiera alfabet, później przydadzą się indeksy
-    Pole.new(a.index(s.downcase[0]) - a.index('a') +1, a.index(s.downcase[1] ) - a.index('1') +1) #zamienia pierwszą część nazwy pola na współrzędną x, drugą na y. Przy ustalaniu współrzędnych porównuje kolejno indeksy litery i cyfry i odejmuje od nich indeksy a i 1.
+    Pole.new(a.index(s.downcase[0]) - a.index('a'), a.index(s.downcase[1] ) - a.index('1')) #zamienia pierwszą część nazwy pola na współrzędną x, drugą na y. Przy ustalaniu współrzędnych porównuje kolejno indeksy litery i cyfry i odejmuje od nich indeksy a i 1.
   end
   
   def prawidlowe?
@@ -20,7 +20,7 @@ class Pole
   end
 
   def to_str
-    %w(a b c d e f g h)[@x -1] + %w(1 2 3 4 5 6 7 8)[@y -1] if prawidlowe?
+    %w(a b c d e f g h)[@x] + %w(1 2 3 4 5 6 7 8)[@y] if prawidlowe?
   end
 
   def ==(c)

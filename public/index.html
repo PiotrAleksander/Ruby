@@ -1,0 +1,108 @@
+﻿<html>
+  <head>
+  </head>
+  <body>
+    <form style="BORDER-RIGHT: #ff9933 1px outset; PADDING-RIGHT: 4px;
+                 BORDER-TOP: #ff9933 1px outset; PADDING-LEFT: 4px;
+                 PADDING-BOTTOM: 1px; BORDER-LEFT: #ff9933 1px outset;
+                 PADDING-TOP: 1px; BORDER-BOTTOM: #ff9933 1px outset;
+                 BACKGROUND-COLOR: #ffcc66" name="frmbincode">
+      <h3 style="TEXT-ALIGN: center">
+        Obliczanie pierwiastka funkcji metodą Newtona
+      </h3>
+      <p style="TEXT-ALIGN: center">
+        <i>f(x) = x<sup>3</sup>(x + sin(x<sup>2</sup> - 1) - 1) - 1</i>
+      </p>
+      <p style="TEXT-ALIGN: center">
+        (C)2006 mgr Jerzy Wałaszek I LO w Tarnowie
+      </p>
+      <hr>
+      <p style="text-align: center">
+        Wpisz do pola edycyjnego punkt startowy
+      </p>
+      <div align="center">
+        <table border="0" id="table144" cellpadding="8"
+               style="border-collapse: collapse">
+          <tr>
+            <td>
+              x<sub>0</sub> = <input type="text" name="wsp_x0" size="20"
+                                     value="1" style="text-align: right">
+            </td>
+            <td>
+              <input type="button" value="Szukaj pierwiastka" name="B1"
+                     onclick="main()">
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div id="out" align=center>...</div>
+    </form>
+
+<script language=javascript>
+
+// Program znajduje miejsce zerowe funkcji f(x)
+// za pomocą algorytmu Newtona
+//---------------------------------------------
+// (C)2006 mgr J.Wałaszek I LO w Tarnowie
+
+var EPS0 = 0.0000000001; // dokładność porównania z zerem
+var EPSX = 0.0000000001; // dokładność wyznaczenia pierwiastka
+
+// Funkcja, której miejsce zerowe obliczamy
+// f(x) = x^3*(x+sin(x^2-1)-1)-1
+// <-1,0> i <1,2>
+//-----------------------------------------
+
+function f(x)
+{
+  return x * x * x * (x + Math.sin(x * x - 1) - 1) - 1;
+}
+
+// Oblicza pochodną funkcji f(x)
+// f'(x) =2x^4*COS(x^2 - 1) + 3x^2*SIN(x^2 - 1) + 4x^3 - 3x^2
+//-----------------------------------------------------------
+
+function fp(x)
+{
+  return x * x * (2 * x * x * Math.cos(x * x - 1) +
+         3 * Math.sin(x * x - 1) + 4 * x - 3);
+}
+
+//-----------------------------------------------------
+// Program główny
+//-----------------------------------------------------
+
+function main()
+{
+
+  var x0,x1,f0,f1,i,t;
+
+  x0 = parseFloat(document.frmbincode.wsp_x0.value);
+  if(isNaN(x0))
+    t = "<font color=red><b>Błędne dane wejściowe</b></font>";
+  else
+  {
+    x1 = x0 - 1; f0 = f(x0); i = 64;
+    while (i && (Math.abs(x1 - x0) > EPSX) && (Math.abs(f0) > EPS0))
+    {
+      f1 = fp(x0);
+      if(Math.abs(f1) < EPS0)
+      {
+        t = "<font color=red><b>Zly punkt startowy</b></font>";
+        i = 0;
+        break;
+      }
+      x1 = x0;
+      x0 = x0 - f0 / f1;
+      f0 = f(x0);
+      if(!(--i)) t = "<font color=red><b>Przekroczony limit obiegow</b></font>";
+    }
+    if(i) t = "x<sub>0</sub> = " + x0;
+  }
+  document.getElementById("out").innerHTML = t;
+}
+
+</script>
+    </div>
+  </body>
+</html> 

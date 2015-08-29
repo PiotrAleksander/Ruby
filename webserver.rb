@@ -10,8 +10,8 @@ while (sesja = serwer.accept)
    end
    begin
       wyswietl = File.open(plik, 'r') #html jak zwyczajny plik
-      content = wyswietl.read() #ten read jest raczej z biblioteki socket
-      sesja.print content
+      zawartosc = wyswietl.read() #ten read jest raczej z biblioteki socket
+      sesja.puts zawartosc
    rescue Errno::ENOENT
       sesja.print "Nie odnaleziono pliku index.html."
    end
