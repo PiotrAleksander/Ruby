@@ -11,10 +11,18 @@ class Fifo #first in first out
   end
   
   def pop
-    p @kolejka.shift
+    @kolejka.shift
   end
   
   def czolo
-    p @kolejka.first
+    @kolejka.first
+  end
+  
+  def length
+    @kolejka.length
+  end
+  
+  def empty?
+    @kolejka.empty?
   end
 end
