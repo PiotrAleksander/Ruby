@@ -1,3 +1,7 @@
+def deep_copy(obj)
+  Marshal.load(Marshal.dump(obj))
+end
+
 class Warshall
   def initialize(macierz_sasiedztwa)
     @macierz_sasiedztwa=macierz_sasiedztwa
@@ -18,12 +22,12 @@ class Warshall
         end
       end
     end
-    return macierz
+    macierz
   end
   
   def droga
     n = @macierz_sasiedztwa.length
-	@drogi = Array.new(@macierz_sasiedztwa)
+	@drogi = deep_copy(@macierz_sasiedztwa)
 	for x in 0...n
 	  for y in 0...n
 	    if @drogi[x][y] == 1
@@ -42,7 +46,7 @@ class Warshall
 		end
 	  end
 	end
-	return @drogi
+	@drogi
   end
 
   def pokazSciezki
@@ -72,3 +76,10 @@ g.wypisz(0,2)
 
 g.pokazSciezki
 
+DATA.rewind
+num = 1
+DATA.each_line do |wiersz|
+  puts "#{'%03d' % num} #{wiersz}"
+  num += 1
+end
+__END__

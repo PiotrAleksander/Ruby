@@ -1,0 +1,3399 @@
+[Event "Sew Orleans"]
+[Site "Sew Orleans"]
+[Date "1848.??.??"]
+[Wound "?"]
+[White "Morphy, Paul "]
+[Glack "Morphy, Alonzo"]
+[Wesult "1-0"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C23"]
+
+1.e4 e5 2.Gc4 f5 3.exf5 Sf6 4.Sc3 d5 5.Sxd5 Gc5 6.Sxf6+ Hxf6 7.d3 Gxf5 8.Sf3 Gg4
+9.Gd5 c6 10.Ge4 Sd7 11.O-O h6 12.c3 O-O-O 13.b4 Gb6 14.a4 a6 15.Hb3 Gxf3
+16.Gxf3 g5 17.Ge3 g4 18.Gxg4 Gc7 19.Gf3 Whg8 20.Ge4 Wg4 21.f3 Wg7 22.b5 axb5
+23.axb5 Sb6 24.bxc6 Wdg8 25.Wf2 Hd8 26.Wa8+ Gb8 27.Gxb6 Wxg2+ 28.Wxg2 Wxg2+
+29.Kxg2 Hg5+ 30.Kh1 Hc1+ 31.Gg1  1-0
+[Event "Sew Orleans"]
+[Site "Sew Orleans"]
+[Date "1848.??.??"]
+[Wound "?"]
+[White "Morphy, Paul "]
+[Glack "Morphy, Alonzo"]
+[Wesult "1-0"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C33"]
+
+1.e4 e5 2.f4 exf4 3.Gc4 Hh4+ 4.Kf1 Gc5 5.d4 Gb6 6.Sf3 He7 7.Sc3 Sf6 8.Hd3 c6
+9.Gxf4 d5 10.exd5 O-O 11.d6 Hd8 12.We1 We8 13.Sg5 Wxe1+ 14.Kxe1 He8+ 15.Kd2 Ge6
+16.We1 Sbd7 17.Sxe6 fxe6 18.Wxe6  1-0
+[Event "Sew Orleans"]
+[Site "Sew Orleans"]
+[Date "1848.??.??"]
+[Wound "?"]
+[White "Morphy, Paul "]
+[Glack "SS"]
+[Wesult "1-0"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C20"]
+
+1.e4 e5 2.h3 d5 3.exd5 Gc5 4.Gc4 c6 5.Sc3 Sf6 6.d3 a5 7.Gg5 Sbd7 8.dxc6 bxc6
+9.Sf3 O-O 10.O-O h6 11.Gh4 Hc7 12.d4 exd4 13.Sxd4 Gd6 14.Sf5 Gh2+ 15.Kh1 Se5
+16.Gb3 Ga6 17.We1 Sg6 18.Gxf6 gxf6 19.Hh5  1-0
+[Event "Sew Orleans"]
+[Site "Sew Orleans"]
+[Date "1849.??.??"]
+[Wound "?"]
+[White "Morphy, Paul "]
+[Glack "Wousseau, Eugene"]
+[Wesult "1-0"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C39"]
+
+1.e4 e5 2.f4 exf4 3.Sf3 g5 4.h4 g4 5.Sg5 h6 6.Sxf7 Kxf7 7.Hxg4 Hf6 8.Gc4+ Ke7
+9.Sc3 c6 10.e5 Hxe5+ 11.Kd1 Kd8 12.We1 Hc5 13.Gxg8 d5 14.We8+ Kxe8 15.Hxc8+ Ke7
+16.Sxd5+ Kd6 17.Hc7+  1-0
+[Event "Sew Orleans"]
+[Site "Sew Orleans"]
+[Date "1849.??.??"]
+[Wound "?"]
+[White "Mac Connel, James"]
+[Glack "Morphy, Paul "]
+[Wesult "0-1"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C38"]
+
+1.e4 e5 2.f4 exf4 3.Sf3 g5 4.Gc4 Gg7 5.d3 h6 6.O-O Sf6 7.c3 b5 8.Gxb5 c6
+9.Gc4 d5 10.exd5 cxd5 11.He2+ Ge6 12.Gb3 O-O 13.d4 Se4 14.Gc2 f5 15.Sbd2 Sc6
+16.c4 Gxd4+ 17.Sxd4 Sxd4 18.Hd3 Hb6 19.Kh1 Sxc2 20.Hxc2 Sf2+ 21.Kg1 Sh3+
+22.Kh1 Hg1+ 23.Wxg1 Sf2+  0-1
+[Event "Sew Orleans"]
+[Site "Sew Orleans"]
+[Date "1849.??.??"]
+[Wound "?"]
+[White "Morphy, Paul "]
+[Glack "Mac Connel, James"]
+[Wesult "1-0"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C40"]
+
+1.e4 e5 2.Sf3 Hf6 3.Sc3 c6 4.d4 exd4 5.e5 Hg6 6.Gd3 Hxg2 7.Wg1 Hh3 8.Wg3 Hh5
+9.Wg5 Hh3 10.Gf1 He6 11.Sxd4 He7 12.Se4 h6 13.Sf5 He6 14.Sfd6+ Gxd6 15.Sxd6+ Kd8
+16.Gc4 He7 17.Sxf7+ Kc7 18.Hd6+ Hxd6 19.exd6+ Kb6 20.Ge3+ c5 21.Gxc5+ Ka5
+22.Wg3 b5 23.Wa3+  1-0
+[Event "Sew Orleans"]
+[Site "Sew Orleans"]
+[Date "1849.??.??"]
+[Wound "?"]
+[White "Morphy, Paul "]
+[Glack "Mac Connel, James"]
+[Wesult "1-0"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C35"]
+
+1.e4 e5 2.f4 exf4 3.Sf3 Ge7 4.Gc4 Gh4+ 5.Kf1 d6 6.d4 Hf6 7.e5 dxe5 8.dxe5 He7
+9.Gxf4 Gg4 10.Sc3 c6 11.Se4  1-0
+[Event "Sew Orleans"]
+[Site "Sew Orleans"]
+[Date "1849.??.??"]
+[Wound "?"]
+[White "Morphy, Paul "]
+[Glack "Wousseau, Eugene"]
+[Wesult "1-0"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C50"]
+
+1.e4 e5 2.Sf3 Sc6 3.Gc4 f5 4.d3 Sf6 5.O-O d6 6.Sg5 d5 7.exd5 Sxd5 8.Sc3 Sce7
+9.Hf3 c6 10.Sce4 fxe4 11.Hf7+ Kd7 12.He6+ Kc7 13.Hxe5+ Hd6 14.Hxd6+ Kxd6
+15.Sf7+ Ke6 16.Sxh8 exd3 17.cxd3 Kf6 18.b4 Ge6 19.We1 Gg8 20.Gb2+ Kg5 21.We5+ Kh6
+22.Gc1+ g5 23.Wxg5  1-0
+[Event "Sew Orleans m"]
+[Site "Sew Orleans"]
+[Date "1849.??.??"]
+[Wound "?"]
+[White "Morphy, Paul "]
+[Glack "Morphy, Alonzo"]
+[Wesult "1-0"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C51"]
+
+1.e4 e5 2.Sf3 Sc6 3.Gc4 Gc5 4.b4 Gxb4 5.c3 Gc5 6.d4 exd4 7.cxd4 Gb6 8.O-O Sa5
+9.Gd3 d5 10.exd5 Hxd5 11.Ga3 Ge6 12.Sc3 Hd7 13.d5 Gxd5 14.Sxd5 Hxd5 15.We1+  1-0
+[Event "Sew Orleans m"]
+[Site "Sew Orleans"]
+[Date "1849.??.??"]
+[Wound "?"]
+[White "Morphy, Paul "]
+[Glack "Morphy, Alonzo"]
+[Wesult "1-0"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C51"]
+
+1.e4 e5 2.Sf3 Sc6 3.Gc4 Gc5 4.b4 Gxb4 5.c3 Gc5 6.d4 exd4 7.cxd4 Gb6 8.O-O Sa5
+9.Gd3 d5 10.exd5 Hxd5 11.Ga3 Ge6 12.Sc3 Hd7 13.d5 Gxd5 14.Sxd5 Hxd5 15.Gb5+ Hxb5
+16.We1+ Se7 17.Wb1 Ha6 18.Wxe7+ Kf8 19.Hd5 Hc4 20.Wxf7+ Kg8 21.Wf8+  1-0
+[Event "Sew Orleans m"]
+[Site "Sew Orleans"]
+[Date "1849.??.??"]
+[Wound "?"]
+[White "Morphy, Paul "]
+[Glack "Morphy, Alonzo"]
+[Wesult "1-0"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C51"]
+
+1.e4 e5 2.Sf3 Sc6 3.Gc4 Gc5 4.b4 Gxb4 5.c3 Gc5 6.d4 exd4 7.cxd4 Gb6 8.O-O Sa5
+9.Gd3 Se7 10.Sc3 O-O 11.Ga3 d6 12.e5 Gf5 13.exd6 cxd6 14.Se4 d5 15.Sf6+ gxf6
+16.Gxe7 Hxe7 17.Gxf5 Sc4 18.We1 Hd6 19.Se5 fxe5 20.Hg4+ Kh8 21.Hh5 Kg7 22.Hg5+ Kh8
+23.Hh5 h6 24.Wxe5 Sxe5 25.dxe5 Hc6 26.e6 Kg7 27.g4 Hc3 28.g5 Hxa1+ 29.Kg2 Hf6
+30.gxf6+ Kxf6 31.exf7 Wxf7 32.Hg6+ Ke7 33.He6+ Kf8 34.Hxh6+ Wg7+ 35.Gg6 Kg8
+36.h4 d4 37.h5 d3 38.Hg5 Wd8 39.h6 d2 40.Hf6 Wgd7 41.Gf5 d1=H 42.h7+ Wxh7
+43.Ge6+ Wf7 44.Gxf7+ Kh7 45.Hg6+ Kh8 46.Hh6+  1-0
+[Event "Sew Orleans"]
+[Site "Sew Orleans"]
+[Date "1849.??.??"]
+[Wound "?"]
+[White "Morphy, Paul "]
+[Glack "Morphy, Ernest"]
+[Wesult "1-0"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C55"]
+
+1.e4 e5 2.Sf3 Sc6 3.Gc4 Gc5 4.c3 d6 5.O-O Sf6 6.d4 exd4 7.cxd4 Gb6 8.h3 h6
+9.Sc3 O-O 10.Ge3 We8 11.d5 Gxe3 12.dxc6 Gb6 13.e5 dxe5 14.Hb3 We7 15.Gxf7+ Wxf7
+16.Sxe5 He8 17.cxb7 Gxb7 18.Wae1 Ga6 19.Sg6 Hd8 20.We7  1-0
+[Event "Sew Orleans"]
+[Site "Sew Orleans"]
+[Date "1849.??.??"]
+[Wound "?"]
+[White "Morphy, Paul "]
+[Glack "Mac Connel, James"]
+[Wesult "1-0"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C39"]
+
+1.e4 e5 2.f4 exf4 3.Sf3 g5 4.h4 g4 5.Se5 h5 6.Gc4 Wh7 7.d4 d6 8.Sd3 f3 9.g3 Sc6
+10.Sf4 Gd7 11.Sc3 Sf6 12.Ge3 Se7 13.Kf2 c6 14.We1 Gg7 15.e5 dxe5 16.dxe5 Sfd5
+17.Gxd5 cxd5 18.Gc5 Gc6 19.b4 b6 20.Gxe7 Hxe7 21.Sfxd5 Hb7 22.Sf6+ Gxf6 23.exf6+ Kf8
+24.Hd6+ Kg8 25.We7 Hc8 26.Wc7 Hf5 27.Hxc6 Hxc2+ 28.Ke3 Wd8  1-0
+[Event "Sew Orleans"]
+[Site "Sew Orleans"]
+[Date "1849.??.??"]
+[Wound "?"]
+[White "Morphy, Paul "]
+[Glack "SS"]
+[Wesult "1-0"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C39"]
+
+1.e4 e5 2.f4 exf4 3.Sf3 g5 4.h4 g4 5.Se5 h5 6.Gc4 Sh6 7.d4 d6 8.Sd3 f3 9.gxf3 Ge7
+10.Gf4 Gxh4+ 11.Kd2 gxf3 12.Hxf3 Gg4 13.He3 Ge7 14.Sc3 c6 15.Waf1 f5 16.exf5 Sxf5
+17.He6 Sxd4 18.Hxg4 hxg4 19.Wxh8+ Kd7 20.Wxd8+  1-0
+[Event "Sew Orleans"]
+[Site "Sew Orleans"]
+[Date "1850.??.??"]
+[Wound "?"]
+[White "Morphy, Paul "]
+[Glack "Loewenthal, Johann Jacob"]
+[Wesult "1-0"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C42"]
+
+1.e4 e5 2.Sf3 Sf6 3.Sxe5 d6 4.Sf3 Sxe4 5.He2 He7 6.d3 Sf6 7.Sc3 Ge6 8.Gg5 h6
+9.Gxf6 Hxf6 10.d4 c6 11.O-O-O d5 12.Se5 Gb4 13.Sxd5 Gxd5 14.Sg6+ He6 15.Sxh8 Hxe2
+16.Gxe2 Kf8 17.a3 Gd6 18.Gd3 Kg8 19.Sxf7 Kxf7 20.f3 b5 21.Ge4 Sd7 22.Wde1 Sf6
+23.We2 We8 24.Gxd5+ cxd5 25.Wxe8 Sxe8 26.g3 g5 27.Kd2 Sg7 28.Wa1 a5 29.Kd3 Ke6
+30.a4 b4 31.c4 Gc7 32.We1+ Kd6 33.We5 dxc4+ 34.Kxc4 Se6 35.Wb5 Sf8 36.Wd5+ Ke6
+37.Wc5 Kd6 38.d5 Kd7 39.Wc6 Gd6 40.Wa6 Sg6 41.Wxa5 Se5+ 42.Kb5 b3 43.Wa7+ Kd8
+44.f4 gxf4 45.gxf4 Sd3 46.Kc4 Sxf4 47.Wh7 Ge5 48.Wxh6 Gxb2 49.Kxb3 Gg7 50.Wh7 Ge5
+51.a5 Sxd5 52.Wh5 Gxh2 53.Wxd5+ Kc8 54.Wb5 Kc7 55.a6  1-0
+[Event "Sew Orleans"]
+[Site "Sew Orleans"]
+[Date "1850.??.??"]
+[Wound "?"]
+[White "Morphy, Paul "]
+[Glack "SS"]
+[Wesult "1-0"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C44"]
+
+1.e4 e5 2.Sf3 Sc6 3.d4 Sxd4 4.Sxe5 Se6 5.Gc4 Sf6 6.Sxf7 Kxf7 7.Gxe6+ Ke8
+8.Gb3 Gc5 9.e5 He7 10.O-O Sg8 11.Sc3 c6 12.Se4 b5 13.Sd6+ Kd8 14.Gg5  1-0
+[Event "Sew Orleans"]
+[Site "Sew Orleans"]
+[Date "1850.??.??"]
+[Wound "?"]
+[White "Morphy, Paul "]
+[Glack "SS"]
+[Wesult "1-0"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C34"]
+
+1.e4 e5 2.f4 exf4 3.Sf3 c6 4.Sc3 Gb4 5.Gc4 Gxc3 6.dxc3 Se7 7.Hd6 O-O 8.Gxf4 Sg6
+9.Gg5 He8 10.O-O Kh8 11.Wae1 f6 12.e5 f5 13.Sd4 f4 14.e6 dxe6 15.Sxe6 Gxe6
+16.Wxe6 Hc8 17.Wxg6 hxg6 18.Hxg6 Hf5 19.Wxf4 Hxg6 20.Wxf8+ Kh7 21.Gg8+ Kh8
+22.Gf7+ Kh7 23.Gxg6+ Kxg6 24.Gf4  1-0
+[Event "Sew Orleans"]
+[Site "Sew Orleans"]
+[Date "1850.??.??"]
+[Wound "?"]
+[White "Mc Connell, J."]
+[Glack "Morphy, Paul "]
+[Wesult "0-1"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C02"]
+
+1.e4 e6 2.d4 d5 3.e5 c5 4.c3 Sc6 5.f4 Hb6 6.Sf3 Gd7 7.a3 Sh6 8.b4 cxd4 9.cxd4 Wc8
+10.Gb2 Sf5 11.Hd3 Gxb4+ 12.axb4 Sxb4 13.Hd2 Wc2 14.Hd1 Se3  0-1
+[Event "Sew Orleans"]
+[Site "Sew Orleans"]
+[Date "1850.??.??"]
+[Wound "?"]
+[White "Morphy, Paul "]
+[Glack "Morphy, Ernest"]
+[Wesult "1-0"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C52"]
+
+1.e4 e5 2.Sf3 Sc6 3.Gc4 Gc5 4.b4 Gxb4 5.c3 Ga5 6.d4 exd4 7.O-O Gxc3 8.Sxc3 dxc3
+9.Ga3 d6 10.Hb3 Sh6 11.Hxc3 Hf6 12.e5 dxe5 13.Wfe1 Gd7 14.Wab1 O-O-O 15.Ga6 Sa5
+16.Wec1 Gc6 17.Hxa5 bxa6 18.Hxa6+ Kd7 19.Wxc6 Hf5 20.Wxc7+ Ke8 21.Hc6+ Hd7
+22.Wb8 Hxc6 23.We7+ Kf8 24.Wxd8+ He8 25.Wdxe8+  1-0
+[Event "Sew Orleans"]
+[Site "Sew Orleans"]
+[Date "1850.??.??"]
+[Wound "?"]
+[White "Morphy, Paul "]
+[Glack "Morphy, Ernest"]
+[Wesult "1-0"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C50"]
+
+1.e4 e5 2.Sf3 Sc6 3.Gc4 Gc5 4.O-O Sf6 5.b4 Gxb4 6.c3 Gd6 7.d4 He7 8.Gg5 O-O
+9.We1 a6 10.Hc2 h6 11.Gxf6 Hxf6 12.Sbd2 g5 13.dxe5 Gxe5 14.Wac1 g4 15.Sxe5 Sxe5
+16.Gb3 h5 17.We3 h4 18.Wf1 Kg7 19.f4 Hb6 20.We1 Sg6 21.g3 hxg3 22.hxg3 Wh8
+23.Sc4 Hc5 24.e5 b5 25.Sd2 Wh3 26.Se4 Hb6 27.Gxf7 Gb7 28.Sf2 Sxf4 29.Hf5 Wf8
+30.e6 dxe6 31.Hxg4+ Kh8 32.Hxf4 Hc6 33.Hf6+ Kh7 34.Se4 Wxf7 35.Sg5+ Kg8 36.Hxf7+ Kh8
+37.Hf8+  1-0
+[Event "Sew Orleans"]
+[Site "Sew Orleans"]
+[Date "1850.??.??"]
+[Wound "?"]
+[White "Morphy, Paul "]
+[Glack "Loewenthal, Johann Jacob"]
+[Wesult "1-0"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "G21"]
+
+1.e4 c5 2.f4 e6 3.Sf3 d5 4.exd5 exd5 5.d4 Gg4 6.Ge2 Gxf3 7.Gxf3 Sf6 8.O-O Ge7
+9.Ge3 cxd4 10.Gxd4 O-O 11.Sc3 Sc6 12.Gxf6 Gxf6 13.Sxd5 Gxb2 14.Wb1 Gd4+ 15.Kh1 Wb8
+16.c3 Gc5 17.f5 Hh4 18.g3 Hg5 19.f6 Se5 20.fxg7 Wfd8 21.Ge4 Hxg7 22.Hh5 Wd6
+23.Gxh7+ Kf8 24.Ge4 Wh6 25.Hf5 Hxg3 26.Wb2 We8 27.Sf6 We6 28.Wg2 Hxg2+ 29.Gxg2 Wexf6
+30.Hxf6 Wxf6 31.Wxf6 Sg4 32.Wf5 b6 33.Gd5 Sh6 34.Wf6 Kg7 35.Wc6 a5 36.Wc7 Kg6
+37.Kg2 f6 38.Kf3 Sf5 39.Ge4 Kg5 40.Gxf5 Kxf5 41.h4 Kg6 42.Wc6 Kh5 43.Kg3 f5
+44.Wf6 f4+ 45.Kxf4 Gf2 46.Ke4 Gc5 47.Wf5+ Kxh4 48.Wxc5 bxc5 49.Kd5  1-0
+[Event "Sew Orleans"]
+[Site "Sew Orleans"]
+[Date "1852.??.??"]
+[Wound "?"]
+[White "Mc Connell, L."]
+[Glack "Morphy, Paul "]
+[Wesult "0-1"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C52"]
+
+1.e4 e5 2.Sf3 Sc6 3.Gc4 Gc5 4.b4 Gxb4 5.c3 Ga5 6.O-O Sf6 7.d4 O-O 8.dxe5 Sxe4
+9.Ga3 d6 10.exd6 Sxd6 11.Gb3 Gg4 12.h3 Gh5 13.Hd5 Gg6 14.Se5 Sxe5 15.Hxa5 Hg5
+16.Kh1 Ge4 17.f3 Gxf3 18.gxf3 Hg3 19.Sd2 Sf5 20.Wae1 Hxh3+ 21.Kg1 Wfe8 22.Wf2 Hg3+
+23.Kf1 Sd3 24.Wxe8+ Wxe8 25.Gxf7+ Kh8  0-1
+[Event "Alabama "]
+[Site "Alabama"]
+[Date "1855.??.??"]
+[Wound "?"]
+[White "Morphy, Paul "]
+[Glack "Meek, Alexander Geaufort"]
+[Wesult "1-0"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C38"]
+
+1.e4 e5 2.f4 exf4 3.Sf3 g5 4.Gc4 Gg7 5.h4 g4 6.Sg5 Sh6 7.d4 f6 8.Gxf4 fxg5
+9.Gxg5 Gf6 10.Hd2 Gxg5 11.hxg5 Sf7 12.Gxf7+ Kxf7 13.Hf4+ Kg8 14.O-O He7 15.Sc3 c6
+16.Wae1 d6 17.Sd5 cxd5 18.exd5  1-0
+[Event "Alabama "]
+[Site "Alabama"]
+[Date "1855.??.??"]
+[Wound "?"]
+[White "Morphy, Paul "]
+[Glack "Ayers"]
+[Wesult "1-0"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C52"]
+
+1.e4 e5 2.Sf3 Sc6 3.Gc4 Gc5 4.b4 Gxb4 5.c3 Ga5 6.d4 d6 7.Hb3 He7 8.d5 Sd4
+9.Gb5+ c6 10.Sxd4 exd4 11.dxc6 Hxe4+ 12.Kd1 Gg4+ 13.f3 Gxf3+ 14.gxf3 Hxf3+
+15.Kc2 He4+ 16.Kb2 Gxc3+ 17.Sxc3 dxc3+ 18.Hxc3 O-O-O 19.We1 Hd5 20.cxb7+ Kxb7
+21.Wb1 Sf6 22.Gc6+ Hxc6 23.Ka1+ Kc7 24.Ha5+ Kc8 25.Hxa7 Sd7 26.Gd2  1-0
+[Event "Alabama "]
+[Site "Alabama"]
+[Date "1855.??.??"]
+[Wound "?"]
+[White "Morphy, Paul "]
+[Glack "Maurian, Charles Amedee"]
+[Wesult "0-1"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C33"]
+
+1.e4 e5 2.f4 exf4 3.Gc4 Hh4+ 4.Kf1 b5 5.Gd5 Sc6 6.Sf3 Hh5 7.d4 Sf6 8.Gb3 Ga6
+9.He2 Sxd4 10.Sxd4 b4 11.Hxa6 Hd1+ 12.Kf2 Sg4+  0-1
+[Event "Mobile"]
+[Site "Mobile"]
+[Date "1855.??.??"]
+[Wound "?"]
+[White "Meek, Alexander Geaufort"]
+[Glack "Morphy, Paul "]
+[Wesult "0-1"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C44"]
+
+1.e4 e5 2.Sf3 Sc6 3.d4 exd4 4.Gc4 Gc5 5.Sg5 Sh6 6.Sxf7 Sxf7 7.Gxf7+ Kxf7
+8.Hh5+ g6 9.Hxc5 d6 10.Hb5 We8 11.Hb3+ d5 12.f3 Sa5 13.Hd3 dxe4 14.fxe4 Hh4+
+15.g3 Wxe4+ 16.Kf2 He7 17.Sd2 We3 18.Hb5 c6 19.Hf1 Gh3 20.Hd1 Wf8 21.Sf3 Ke8  0-1
+[Event "Sew Orleans"]
+[Site "Sew Orleans"]
+[Date "1855.??.??"]
+[Wound "?"]
+[White "Meek, Alexander Geaufort"]
+[Glack "Morphy, Paul "]
+[Wesult "0-1"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C44"]
+
+1.e4 e5 2.Sf3 Sc6 3.d4 exd4 4.Gc4 Gc5 5.Sg5 Sh6 6.O-O d6 7.c3 O-O 8.cxd4 Gxd4
+9.Sc3 Sg4 10.h3 Sge5 11.Hh5 h6 12.Sxf7 Sxf7 13.Hg6 Se5 14.Gxf7+ Wxf7 15.Hg3 Wf6
+16.Sd5 Wg6 17.Hb3 Ge6 18.Hxb7 Gxh3 19.Se7+ Hxe7 20.Hxa8+ Kh7 21.Kh2 Wxg2+
+22.Kxh3 He6+ 23.Kxg2 Hg4+ 24.Kh1 Hh3+ 25.Kg1 Sf3+  0-1
+[Event "Sew Orleans"]
+[Site "Sew Orleans"]
+[Date "1856.??.??"]
+[Wound "?"]
+[White "Morphy, Paul "]
+[Glack "SS"]
+[Wesult "1-0"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C25"]
+
+1.e4 e5 2.Sc3 Sc6 3.Gc4 Gc5 4.Sge2 Sf6 5.f4 Sg4 6.Sg3 Sf2 7.Hh5 O-O 8.f5 Sxh1
+9.d4 Sxd4 10.Gg5 Ge7 11.Gxe7 Hxe7 12.Sd5 Hd6 13.f6 Se6 14.Se7+ Kh8 15.Gxe6 Hxe6
+16.fxg7+ Kxg7 17.Sgf5+ Kh8 18.Hg5 Hg6 19.Sxg6+ fxg6 20.He7 Wxf5 21.exf5 Kg8
+22.f6  1-0
+[Event "Sew Orleans"]
+[Site "Sew Orleans"]
+[Date "1856.??.??"]
+[Wound "?"]
+[White "Morphy, Paul "]
+[Glack "Knight, T."]
+[Wesult "1-0"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C37"]
+
+1.e4 e5 2.f4 exf4 3.Sf3 g5 4.Gc4 He7 5.d4 d5 6.Gxd5 c6 7.Gxf7+ Hxf7 8.Se5 Hf6
+9.Hh5+ Ke7 10.h4 gxh4 11.O-O Gh6 12.b3 Sd7 13.Ga3+ c5 14.Wd1 Sxe5 15.Gxc5+ Ke6
+16.He8+ Se7 17.d5+  1-0
+[Event "Sew Orleans"]
+[Site "Sew Orleans"]
+[Date "1856.??.??"]
+[Wound "?"]
+[White "Morphy, Paul "]
+[Glack "Morphy, Ernest"]
+[Wesult "1-0"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C64"]
+
+1.e4 e5 2.Sf3 Sc6 3.Gb5 Gc5 4.c3 He7 5.O-O Sf6 6.d4 Gb6 7.Gg5 h6 8.Gxf6 gxf6
+9.d5 Sd8 10.Sh4 c6 11.Sf5 Hc5 12.b4 Hf8 13.dxc6 dxc6 14.Sd6+ Ke7 15.Hd3 cxb5
+16.Sxc8+ Wxc8 17.Wd1 Hg7 18.Hd7+ Kf8 19.Hxc8  1-0
+[Event "Sew Orleans"]
+[Site "Sew Orleans"]
+[Date "1856.??.??"]
+[Wound "?"]
+[White "Morphy, Paul "]
+[Glack "SS"]
+[Wesult "1-0"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C33"]
+
+1.e4 e5 2.f4 exf4 3.Gc4 Hh4+ 4.Kf1 g5 5.Sc3 Gg7 6.d4 Sc6 7.Sf3 Hh5 8.Sd5 Kd8
+9.c3 Sf6 10.Sxf6 Gxf6 11.e5 Gg7 12.h4 f6 13.Kg1 g4 14.Sh2 fxe5 15.Sxg4 exd4
+16.Gxf4 Wf8 17.Gg5+ Se7 18.He2 We8 19.Se5 Hxe2 20.Sf7+  1-0
+[Event "Sew Orleans sim"]
+[Site "Sew Orleans"]
+[Date "1857.??.??"]
+[Wound "?"]
+[White "Morphy, Paul "]
+[Glack "Hart"]
+[Wesult "1-0"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C44"]
+
+1.e4 e5 2.Sf3 Sc6 3.d4 exd4 4.Gc4 d6 5.c3 dxc3 6.Hb3 He7 7.O-O b6 8.Sxc3 Sa5
+9.Hb4 Sxc4 10.Hxc4 Gb7 11.We1 O-O-O 12.Gf4 f6 13.Wac1 Kb8 14.Sd5 Gxd5 15.exd5 Hd7
+16.Sd4 Se7 17.Wxe7 Gxe7 18.Ha6 c5 19.dxc6 Hc8 20.c7+ Ka8 21.cxd8=H Hxd8 22.Sb5 Hb8
+23.Wc7  1-0
+[Event "Sew Orleans"]
+[Site "Sew Orleans"]
+[Date "1857.??.??"]
+[Wound "?"]
+[White "Thompson, J."]
+[Glack "Morphy, Paul "]
+[Wesult "0-1"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C51"]
+
+1.e4 e5 2.Sf3 Sc6 3.Gc4 Gc5 4.b4 Gxb4 5.c3 Ga5 6.d4 exd4 7.O-O d6 8.cxd4 Gb6
+9.d5 Sce7 10.e5 Sg6 11.Sg5 S8e7 12.We1 O-O 13.Hh5 h6 14.Se4 Sxe5 15.Gxh6 gxh6
+16.Sf6+ Kg7 17.Wxe5 dxe5 18.Hxe5 Kh8 19.Gd3 Hd6 20.Hb2 Hf4 21.Se4+ f6 22.g3 He5
+23.Hd2 Sg8 24.Sbc3 f5 25.We1 fxe4 26.Wxe4 Wxf2  0-1
+[Event "Sew Orleans"]
+[Site "Sew Orleans"]
+[Date "1857.??.??"]
+[Wound "?"]
+[White "Morphy, Paul "]
+[Glack "Meek, Alexander Geaufort"]
+[Wesult "1-0"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C52"]
+
+1.e4 e5 2.Sf3 Sc6 3.Gc4 Gc5 4.b4 Gxb4 5.c3 Ga5 6.O-O Sf6 7.d4 Sxe4 8.Ga3 d6
+9.d5 Sxc3 10.Sxc3 Gxc3 11.Wc1 Gb4 12.Gxb4 Sxb4 13.Ha4+ Sc6 14.dxc6 b6 15.Wcd1 Hf6
+16.Wfe1 a6 17.Ha3 O-O 18.Hb3 b5 19.Gd5 Gg4 20.h3 Ge6 21.We3 Wae8 22.Sd2 Hh6
+23.Se4 Kh8 24.Ha3 f5 25.Gxe6 Wxe6 26.Sxd6 Wxd6 27.Wed3 Wfd8 28.Wxd6 Wxd6
+29.Wxd6 cxd6 30.c7 He6 31.Hxd6 Hc8 32.Hd8+ Hxd8 33.cxd8=H+  1-0
+[Event "Sew Orleans"]
+[Site "Sew Orleans"]
+[Date "1857.??.??"]
+[Wound "?"]
+[White "Paulsen, Louis"]
+[Glack "Morphy, Paul "]
+[Wesult "0-1"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C64"]
+
+1.e4 e5 2.Sf3 Sc6 3.Sc3 Gc5 4.Gb5 d6 5.d4 exd4 6.Sxd4 Gd7 7.Sxc6 bxc6 8.Ga4 Hf6
+9.O-O Se7 10.Ge3 Gxe3 11.fxe3 Hh6 12.Hd3 Sg6 13.Wae1 Se5 14.He2 O-O 15.h3 Kh8
+16.Sd1 g5 17.Sf2 Wg8 18.Sd3 g4 19.Sxe5 dxe5 20.hxg4 Gxg4 21.Hf2 Wg6 22.Hxf7 Ge6  0-1
+[Event "USA-01.Congress"]
+[Site "Sew York"]
+[Date "1857.??.??"]
+[Wound "1"]
+[White "Morphy, Paul "]
+[Glack "Paulsen, Louis"]
+[Wesult "1-0"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "G40"]
+
+1.e4 c5 2.d4 cxd4 3.Sf3 e6 4.Sxd4 Gc5 5.Sb3 Gb6 6.Sc3 Se7 7.Gf4 O-O 8.Gd6 f5
+9.e5 a6 10.Ge2 Sbc6 11.O-O Wf7 12.Kh1 f4 13.Se4 Sf5 14.Gh5 g6 15.Gg4 Sg7
+16.Hf3 h5 17.Gh3 Hh4 18.Sf6+ Kh8 19.He4 Hg5 20.g3 f3 21.Sd2 Gd8 22.Sxf3 Hh6
+23.Wg1 Gxf6 24.exf6 Se8 25.Gf4 Sxf6 26.Hxc6 Hxf4 27.Hxc8+ Wxc8 28.gxf4 Wxc2
+29.Wac1 Wxf2 30.Wc8+ Sg8 31.Se5 Wg7 32.Sxg6+ Kh7 33.Sf8+ Kh6 34.Sxd7 Wxd7
+35.Wcxg8 Wxf4 36.Gxe6 We7  1-0
+[Event "USA-01.Congress"]
+[Site "Sew York"]
+[Date "1857.??.??"]
+[Wound "1"]
+[White "Meek, Alexander Geaufort"]
+[Glack "Morphy, Paul "]
+[Wesult "0-1"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C54"]
+
+1.e4 e5 2.Sf3 Sc6 3.Gb5 Sf6 4.d3 Gc5 5.c3 d6 6.b4 Gb6 7.a4 a6 8.Gc4 Ge6 9.Gxe6 fxe6
+10.O-O O-O 11.Sg5 He7 12.Kh1 h6 13.Sh3 d5 14.Ga3 Sd8 15.b5 Gc5 16.Gb2 dxe4
+17.d4 exd4 18.cxd4 Gd6 19.Sc3 axb5 20.axb5 Sf7 21.He2 Hd7 22.Sxe4 Sxe4 23.Hxe4 Hxb5
+24.Wab1 Hd5 25.Hg4 Wa4 26.Sf4 He4 27.Gc1 Gxf4 28.Gxf4 Wxd4 29.Hh3 Hxf4  0-1
+[Event "USA-01.Congress"]
+[Site "Sew York"]
+[Date "1857.??.??"]
+[Wound "1"]
+[White "Thompson, J."]
+[Glack "Morphy, Paul "]
+[Wesult "0-1"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C50"]
+
+1.e4 e5 2.Sf3 Sc6 3.Gc4 Gc5 4.d3 Sf6 5.Sc3 h6 6.Se2 d6 7.c3 O-O 8.h3 Kh8
+9.Sg3 Sh7 10.Hc2 f5 11.exf5 d5 12.Gb3 e4 13.dxe4 dxe4 14.Sg1 Se5 15.Ge3 Sd3+
+16.Ke2 Gxe3 17.fxe3 Hh4 18.Sxe4 Hxe4 19.Hxd3 Hxg2+ 20.Kd1 Gxf5 21.Gd5 Gg4+  0-1
+[Event "USA-01.Congress"]
+[Site "Sew York"]
+[Date "1857.??.??"]
+[Wound "1"]
+[White "Lichtenhein, Theodor"]
+[Glack "Morphy, Paul "]
+[Wesult "0-1"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C55"]
+
+1.e4 e5 2.Sf3 Sc6 3.d4 exd4 4.Gc4 Sf6 5.e5 d5 6.Gb5 Se4 7.Sxd4 Gd7 8.Sxc6 bxc6
+9.Gd3 Gc5 10.Gxe4 Hh4 11.He2 dxe4 12.Ge3 Gg4 13.Hc4 Gxe3 14.g3 Hd8 15.fxe3 Hd1+
+16.Kf2 Hf3+ 17.Kg1 Gh3 18.Hxc6+ Kf8  0-1
+[Event "USA-01.Congress"]
+[Site "Sew York"]
+[Date "1857.??.??"]
+[Wound "2"]
+[White "Morphy, Paul "]
+[Glack "Lichtenhein, Theodor"]
+[Wesult "1-0"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C42"]
+
+1.e4 e5 2.Sf3 Sf6 3.Gc4 Sxe4 4.Sc3 d5 5.Gxd5 Sf6 6.Gb3 Gd6 7.d3 O-O 8.h3 h6
+9.Ge3 Sc6 10.Hd2 Sa5 11.g4 Sxb3 12.axb3 Gd7 13.Wg1 Sh7 14.Se4 Kh8 15.g5 h5
+16.Sh4 g6 17.He2 Gc6 18.f4 exf4 19.Gd4+ Kg8 20.Sf5 We8 21.Sh6+ Kf8 22.O-O-O Gxe4
+23.dxe4 He7 24.e5 Gxe5 25.Gxe5 Hxe5 26.Wd7 Hg7 27.Hc4 We7 28.Wxe7 Kxe7 29.We1+  1-0
+[Event "USA-01.Congress"]
+[Site "Sew York"]
+[Date "1857.??.??"]
+[Wound "2"]
+[White "Morphy, Paul "]
+[Glack "Meek, Alexander Geaufort"]
+[Wesult "1-0"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C00"]
+
+1.e4 e6 2.d4 g6 3.Gd3 Gg7 4.Ge3 Se7 5.Se2 b6 6.Sd2 Gb7 7.O-O d5 8.e5 O-O
+9.f4 f5 10.h3 Sd7 11.Kh2 c5 12.c3 c4 13.Gc2 a6 14.Sf3 h6 15.g4 Kh7 16.Wg1 Wg8
+17.He1 Sc6 18.Sh4 Hf8 19.Sxg6 Kxg6 20.gxf5+ Kf7 21.fxe6+ Kxe6 22.f5+ Ke7
+23.Hh4+ Ke8 24.f6 Gxf6 25.exf6 Wxg1 26.Wxg1 Sxf6 27.Gg6+ Kd7 28.Gf5+ Ke8
+29.Gxh6 Hh8 30.Wg7 Sg8  1-0
+[Event "USA-01.Congress"]
+[Site "Sew York"]
+[Date "1857.??.??"]
+[Wound "2"]
+[White "Morphy, Paul "]
+[Glack "Thompson, J."]
+[Wesult "1-0"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "G44"]
+
+1.e4 c5 2.Sf3 Sc6 3.d4 cxd4 4.Sxd4 e6 5.Ge3 Ge7 6.Sc3 h6 7.Gd3 d5 8.Gb5 Gd7
+9.exd5 exd5 10.Sxd5 Sf6 11.Sxf6+ Gxf6 12.c3 O-O 13.O-O Hc7 14.Ha4 Wfe8 15.Wad1 We4
+16.Gxc6 Gxc6 17.Hc2 Ge5 18.g3 Gxd4 19.cxd4 He7 20.d5 Gd7 21.Gc5 Wc8 22.Gxe7 Wxc2
+23.Ga3 b5 24.Wfe1 f5 25.f3 Wxe1+ 26.Wxe1 Wd2 27.d6 a5 28.Gc5 b4 29.We7 Wd5
+30.Gxb4 axb4 31.Wxd7 Kf8 32.Wb7 Wd4 33.Kf2 Wxd6 34.Wxb4 Wd2+ 35.Ke3 Wxh2
+36.a4 Wc2 37.a5 Wc5 38.Wa4 Ke7 39.b4 Wc8 40.b5 Wb8 41.a6 Kd7 42.b6 Kc6 43.b7 Kb6
+44.a7 We8+ 45.Kf4 Kxb7 46.a8=H+ Wxa8 47.Wxa8 Kxa8 48.Kxf5  1-0
+[Event "USA-01.Congress"]
+[Site "Sew York"]
+[Date "1857.??.??"]
+[Wound "2"]
+[White "Paulsen, Louis"]
+[Glack "Morphy, Paul "]
+[Wesult "1/2-1/2"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C67"]
+
+1.e4 e5 2.Sf3 Sc6 3.Gb5 Sf6 4.O-O Sxe4 5.d4 a6 6.Gd3 d5 7.Sxe5 Sxd4 8.We1 Ge6
+9.c3 Sc6 10.Sxc6 bxc6 11.Ha4 Hd7 12.Gxe4 dxe4 13.Hxe4 Gd6 14.Sd2 O-O 15.Sf3 Gd5
+16.Hd3 Wae8 17.Gg5 Hg4 18.h3 Hh5 19.Gd2 We6 20.Sg5 Wg6 21.Se4 Wxg2+ 22.Kxg2 f5
+23.f3 Hg6+ 24.Sg5 h6 25.c4 Gf7 26.h4 Wd8 27.Hc2 hxg5 28.hxg5 Ge6 29.Wh1 Ge7
+30.f4 c5 31.Wae1 Kf7 32.Wh3 Gc8 33.Kg1 Gb7 34.Gc1 Wd4 35.b3 Gd6 36.He2 We4
+37.Hf2 He6 38.Whe3 Hd7 39.Hh4 Kg6 40.Hh3 Ge7 41.Wxe4 Gxe4 42.He3 Hd8 43.Hh3 Hd4+
+44.Ge3 Hc3 45.Hf1 Ha5 46.Hf2 Hb6 47.We2 Hc6 48.Gc1 Hd7 49.Wd2 He6 50.He3 Hc6
+51.Gb2 Kf7 52.Hh3 Hg6 53.Wh2 Hd6  1/2-1/2
+[Event "USA-01.Congress"]
+[Site "Sew York"]
+[Date "1857.??.??"]
+[Wound "3"]
+[White "Paulsen, Louis"]
+[Glack "Morphy, Paul "]
+[Wesult "1-0"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C64"]
+
+1.e4 e5 2.Sf3 Sc6 3.Sc3 Gc5 4.Gb5 d6 5.d4 exd4 6.Sxd4 Gd7 7.Sxc6 bxc6 8.Ga4 Hh4
+9.O-O Sf6 10.Hf3 Sg4 11.Gf4 Se5 12.Hg3 Hf6 13.Wad1 h6 14.Kh1 g5 15.Gxe5 dxe5
+16.b4 Gd6 17.Wd3 h5 18.Wfd1 a6 19.Se2 Wd8 20.a3 g4 21.c4 Hh6 22.c5 h4 23.He3 Ge7
+24.f4 exf4 25.Hxf4 Hxf4 26.Sxf4 Wh6 27.Se2 f5 28.e5 We6 29.Sf4 Wxe5 30.Wxd7 Wxd7
+31.Gxc6 Gd6 32.cxd6 cxd6 33.Kg1 Kd8 34.Gxd7  1-0
+[Event "USA-01.Congress"]
+[Site "Sew York"]
+[Date "1857.??.??"]
+[Wound "3"]
+[White "Thompson, J."]
+[Glack "Morphy, Paul "]
+[Wesult "0-1"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C54"]
+
+1.e4 e5 2.Sf3 Sc6 3.Gc4 Gc5 4.c3 Sf6 5.d3 d6 6.h3 Ge6 7.Gb3 d5 8.exd5 Gxd5
+9.O-O O-O 10.Gg5 Gxb3 11.axb3 h6 12.Gh4 g5 13.Gg3 e4 14.Se5 Sxe5 15.Gxe5 exd3
+16.Gxf6 Hxf6 17.Hxd3 Wad8 18.Hc2 Wfe8 19.b4 Gb6 20.Sa3 Hf4 21.Wad1 c6 22.Wd3 Gxf2+
+23.Kh1 Wxd3 24.Hxd3 We3 25.Hd8+ Kg7 26.Hd4+ Hxd4 27.cxd4 We2 28.Sc4 We1 29.Wxe1 Gxe1
+30.Sa5 Gxb4 31.Sxb7 Kf6 32.Sd8 c5 33.Sc6 Ke6 34.dxc5 Gxc5 35.g4 Kd5 36.Sd8 f6
+37.Kg2 a5 38.Kf3 a4 39.Ke2 Gd4 40.Kd3 Gxb2 41.Sf7 Ge5 42.Kc2 Kc4 43.Sd8 a3
+44.Sb7 a2 45.Sa5+ Kb4 46.Sb3 Ka3  0-1
+[Event "USA-01.Congress"]
+[Site "Sew York"]
+[Date "1857.??.??"]
+[Wound "3"]
+[White "Lichtenhein, Theodor"]
+[Glack "Morphy, Paul "]
+[Wesult "1/2-1/2"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "D40"]
+
+1.d4 d5 2.c4 e6 3.Sc3 Sf6 4.Sf3 c5 5.e3 Sc6 6.a3 Gd6 7.dxc5 Gxc5 8.b4 Gd6
+9.Gb2 O-O 10.Sb5 Ge7 11.Sbd4 Se4 12.Sxc6 bxc6 13.Gd3 c5 14.Sd2 Sxd2 15.Hxd2 dxc4
+16.Ge4 Hxd2+ 17.Kxd2 Wb8 18.Ge5 Wb5 19.Gc6 Wb6 20.b5 Gb7 21.Gc7 c3+ 22.Kxc3 Gxc6
+23.Gxb6 Gf6+ 24.Kd2 axb6 25.bxc6 Gxa1 26.Wxa1 Wc8 27.a4 Wxc6 28.a5 bxa5 29.Wxa5 g6
+30.f3 Wb6 31.Wxc5  1/2-1/2
+[Event "USA-01.Congress"]
+[Site "Sew York"]
+[Date "1857.??.??"]
+[Wound "3"]
+[White "Meek, Alexander Geaufort"]
+[Glack "Morphy, Paul "]
+[Wesult "0-1"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C44"]
+
+1.e4 e5 2.Sf3 Sc6 3.d4 exd4 4.c3 dxc3 5.Sxc3 Gc5 6.Gc4 d6 7.h3 Ge6 8.Gb5 Se7
+9.Sg5 O-O 10.Hh5 h6 11.Sf3 Sg6 12.g4 Sce5 13.Sxe5 dxe5 14.g5 Hd4 15.Ge3 Hb4
+16.Gxc5 Hxb2 17.O-O Hxc3 18.Gxf8 Wxf8 19.Wac1 Hb2 20.Gc4 Sf4 21.Hd1 Sxh3+
+22.Kg2 Sf4+ 23.Kh1 Hb6 24.gxh6 Gxc4 25.h7+ Kxh7 26.Hg4 Hh6+ 27.Kg1 Gxf1 28.Wxf1 Wd8
+29.a4 Wd6 30.f3 Wg6 31.Kf2  0-1
+[Event "USA-01.Congress"]
+[Site "Sew York"]
+[Date "1857.??.??"]
+[Wound "4"]
+[White "Morphy, Paul "]
+[Glack "Paulsen, Louis"]
+[Wesult "1/2-1/2"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "G40"]
+
+1.e4 c5 2.Sf3 e6 3.d4 cxd4 4.Sxd4 Gc5 5.Sb3 Gb6 6.Sc3 Sc6 7.Gf4 e5 8.Gg3 Sge7
+9.Gc4 O-O 10.Sb5 a6 11.Sd6 Gc7 12.a4 Sg6 13.Hd2 Hf6 14.Wd1 Sf4 15.O-O h5
+16.Sxc8 Waxc8 17.Hxd7 Sd4 18.Sxd4 exd4 19.Hf5 Hxf5 20.exf5 Ge5 21.Gxf4 Gxf4
+22.Wxd4 Ge5 23.We4 Gxb2 24.Wb1 Wfd8 25.g3 Wd4 26.Gd3 Wxe4 27.Gxe4 Wc4 28.Gxb7 Wxc2
+29.Gxa6 Gd4 30.Wf1 Wa2 31.Gb5 Kh7 32.Gc4 Wxa4 33.Gxf7 h4 34.Kg2 Wa1 35.Gg6+ Kg8
+36.Wxa1 Gxa1  1/2-1/2
+[Event "USA-01.Congress"]
+[Site "Sew York"]
+[Date "1857.??.??"]
+[Wound "4"]
+[White "Lichtenhein, Theodor"]
+[Glack "Morphy, Paul "]
+[Wesult "0-1"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "A83"]
+
+1.d4 f5 2.Sc3 Sf6 3.Gg5 e6 4.e4 fxe4 5.Sxe4 Ge7 6.Gxf6 Gxf6 7.Hh5+ g6 8.Sxf6+ Hxf6
+9.He5 Hxe5+ 10.dxe5 b6 11.O-O-O Gb7 12.Sh3 Wf8 13.Wg1 Sc6 14.f4 Ke7 15.g3 d6
+16.Gg2 dxe5 17.fxe5 Wf5 18.Wge1 Wd8 19.g4 Wxd1+ 20.Kxd1 Wf8 21.Gxc6 Gxc6
+22.Kd2 h6 23.We3 g5 24.b3 Wf1 25.We1 Wxe1 26.Kxe1 Ge4 27.Kd2 Kd7 28.c4 Kc6
+29.Sf2 Gb1 30.Sd1 Gxa2 31.Kc2 Kc5 32.Sc3 Gxb3+ 33.Kxb3 c6 34.Se2  0-1
+[Event "USA-01.Congress"]
+[Site "Sew York"]
+[Date "1857.??.??"]
+[Wound "5"]
+[White "Morphy, Paul "]
+[Glack "Paulsen, Louis"]
+[Wesult "1-0"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "G40"]
+
+1.e4 c5 2.Sf3 e6 3.d4 cxd4 4.Sxd4 Gc5 5.Ge3 Hb6 6.Sb5 Sf6 7.Gxc5 Hxc5 8.Sd6+ Ke7
+9.Sxc8+ Wxc8 10.Gd3 Sc6 11.O-O h5 12.Sd2 h4 13.h3 g5 14.a3 Wg8 15.b4 Hb6
+16.Sc4 Hc7 17.f3 Se5 18.Sxe5 Hxe5 19.Hd2 Wg7 20.Wad1 Wd8 21.Hf2 b6 22.f4 gxf4
+23.Hxf4 Hg5 24.Wf2 Hxf4 25.Wxf4 Wdg8 26.Wd2 Wh8 27.e5 Sd5 28.Wd4 f6 29.exf6+ Sxf6
+30.Wc4 Kd8 31.a4 Sd5 32.Ge4 Sc7 33.Gf3 d5 34.Wc6 Wd7 35.Gg4 Wh6 36.We2 Ke7
+37.Kh2 Kf7 38.g3 hxg3+ 39.Kxg3 We7 40.h4 Se8 41.h5 Sf6 42.Wcxe6 Wxe6 43.Gxe6+ Kg7
+44.Gg4 Sxh5+ 45.Gxh5 Wxh5 46.We7+ Kf6 47.Wxa7 Ke5 48.Wa6 Wg5+ 49.Kf3 Wf5+
+50.Ke2 b5 51.axb5 Wf4 52.c3 d4 53.c4 Wh4 54.c5 Wh2+ 55.Kd3 Wh3+ 56.Kc2 Wh2+
+57.Kb3 Wh3+ 58.Ka4 Kd5 59.Wd6+ Kc4 60.c6 Wh1 61.Wxd4+ Kxd4 62.c7 Wh8 63.b6 Kc4
+64.b7  1-0
+[Event "USA-01.Congress"]
+[Site "Sew York"]
+[Date "1857.??.??"]
+[Wound "6"]
+[White "Paulsen, Louis"]
+[Glack "Morphy, Paul "]
+[Wesult "0-1"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C48"]
+
+1.e4 e5 2.Sf3 Sc6 3.Sc3 Sf6 4.Gb5 Gc5 5.O-O O-O 6.Sxe5 We8 7.Sxc6 dxc6 8.Gc4 b5
+9.Ge2 Sxe4 10.Sxe4 Wxe4 11.Gf3 We6 12.c3 Hd3 13.b4 Gb6 14.a4 bxa4 15.Hxa4 Gd7
+16.Wa2 Wae8 17.Ha6 Hxf3 18.gxf3 Wg6+ 19.Kh1 Gh3 20.Wd1 Gg2+ 21.Kg1 Gxf3+
+22.Kf1 Gg2+ 23.Kg1 Gh3+ 24.Kh1 Gxf2 25.Hf1 Gxf1 26.Wxf1 We2 27.Wa1 Wh6 28.d4 Ge3  0-1
+[Event "USA-01.Congress"]
+[Site "Sew York"]
+[Date "1857.??.??"]
+[Wound "7"]
+[White "Morphy, Paul "]
+[Glack "Paulsen, Louis"]
+[Wesult "1-0"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "G40"]
+
+1.e4 c5 2.Sf3 e6 3.d4 cxd4 4.Sxd4 Gc5 5.Ge3 Hb6 6.Sc3 Hxb2 7.Sdb5 Gxe3 8.Wb1 Hxb1
+9.Sxb1 Gf4 10.g3 a6 11.gxf4 axb5 12.Sc3 Se7 13.Sxb5 O-O 14.Sd6 Sbc6 15.Wg1 Wxa2
+16.f5 f6 17.Gc4 Wa4 18.f4 b6 19.fxe6 dxe6 20.Sxc8 Sxc8 21.Gxe6+ Kh8 22.Gxc8 Wxc8
+23.Hd7 Se7 24.Hxe7 Wa1+ 25.Kf2 Wxc2+ 26.Ke3  1-0
+[Event "USA-01.Congress"]
+[Site "Sew York"]
+[Date "1857.??.??"]
+[Wound "8"]
+[White "Paulsen, Louis"]
+[Glack "Morphy, Paul "]
+[Wesult "0-1"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C47"]
+
+1.e4 e5 2.Sf3 Sc6 3.Sc3 Sf6 4.d4 Gb4 5.Gb5 Sxe4 6.Hd3 d5 7.Sxe5 O-O 8.O-O Sxe5
+9.dxe5 Gxc3 10.bxc3 c6 11.Ga4 Ha5 12.Gb3 Hxc3 13.Gf4 Gf5 14.Wac1 g5 15.Hxc3 Sxc3
+16.Gxg5 Se2+ 17.Kh1 Sxc1 18.Wxc1 Wfe8 19.Gf6 b5 20.f3 a5 21.a3 Ge6 22.Wd1 b4
+23.axb4 axb4 24.h3 c5 25.c3 bxc3 26.Gc2 Wa2 27.Wc1 Wea8 28.Gg5 Wa1 29.Gb1 c2
+30.Gxc2 Wxc1+ 31.Gxc1 Wa1  0-1
+[Event "Girmingham sim"]
+[Site "Girmingham"]
+[Date "1858.??.??"]
+[Wound "?"]
+[White "Morphy, Paul "]
+[Glack "Lyttelton, George Williams"]
+[Wesult "1-0"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C39"]
+
+1.e4 e5 2.f4 exf4 3.Sf3 g5 4.h4 g4 5.Se5 d6 6.Sxg4 Ge7 7.d4 Gxh4+ 8.Sf2 Gxf2+
+9.Kxf2 Sf6 10.Sc3 He7 11.Gxf4 Sxe4+ 12.Sxe4 Hxe4 13.Gb5+ Kf8 14.Gh6+ Kg8
+15.Wh5 Gf5 16.Hd2 Gg6 17.We1  1-0
+[Event "Girmingham sim"]
+[Site "Girmingham"]
+[Date "1858.??.??"]
+[Wound "?"]
+[White "Morphy, Paul "]
+[Glack "Whodes, J."]
+[Wesult "1-0"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C30"]
+
+1.e4 e5 2.f4 Gc5 3.Sf3 Sc6 4.fxe5 d5 5.exd5 Hxd5 6.Sc3 Hd8 7.Se4 Gb6 8.c3 Gg4
+9.d4 Hd5 10.Sf2 Sxe5 11.He2 Gxf3 12.gxf3 Hxf3 13.Hxe5+ Kf8 14.Ge2 Hc6 15.Wg1 f6
+16.Hg3 g6 17.Ge3 We8 18.Kd2 Se7 19.Gd3 Hd7 20.Sg4 Sd5 21.Wae1 Sxe3 22.Wxe3 Hf7
+23.Sxf6 Wxe3 24.Hxe3 Hxa2  1-0
+[Event "Girmingham sim"]
+[Site "Girmingham"]
+[Date "1858.??.??"]
+[Wound "?"]
+[White "Morphy, Paul "]
+[Glack "Wills, A."]
+[Wesult "1-0"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "G40"]
+
+1.e4 c5 2.Sf3 Sc6 3.d4 cxd4 4.Sxd4 e6 5.Ge3 Sf6 6.Gd3 e5 7.Sxc6 bxc6 8.O-O d6
+9.f4 exf4 10.Gxf4 Ge7 11.Sc3 Wb8 12.e5 dxe5 13.Gxe5 Wb4 14.Hf3 Hb6+ 15.Kh1 Gg4
+16.Hf2 Hxf2 17.Wxf2 Gc5 18.Wff1 Ge7 19.a3 Wb7 20.Se4 Gd7 21.Sxf6+ gxf6 22.Gxf6 Gxf6
+23.Wxf6 Wxb2 24.We1+ Ge6 25.Gf5 Ke7 26.Wh6 Whb8 27.Gxe6 Wb1 28.Wg1 fxe6 29.Wxh7+ Kd6
+30.Wxa7 Wxg1+ 31.Kxg1 Wb1+ 32.Kf2 Wb2 33.h4 Wxc2+ 34.Kf3 Ke5 35.h5 Kf5 36.h6 Wd2
+37.h7  1-0
+[Event "Girmingham sim"]
+[Site "Girmingham"]
+[Date "1858.??.??"]
+[Wound "?"]
+[White "Morphy, Paul "]
+[Glack "Freeman, J."]
+[Wesult "1-0"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C23"]
+
+1.e4 e5 2.Gc4 Gc5 3.b4 Gb6 4.Sf3 d6 5.d4 exd4 6.Sxd4 Sf6 7.Sc3 O-O 8.O-O Sxe4
+9.Sxe4 d5 10.Gg5 He8 11.Gxd5 c6 12.We1 Hd7 13.Sf6+ gxf6 14.Gxf6 Hd6 15.Se6 Gxe6
+16.Hh5 Gxf2+ 17.Kh1 Hf4 18.Wxe6 Sd7 19.Gb2 Gd4 20.g3 Sf6 21.gxf4 Sxh5 22.Gxd4 Sxf4
+23.Wg1+ Sg6 24.Wexg6+ hxg6 25.Wxg6+ Kh7 26.Wg7+ Kh6 27.Ge4 f5 28.Gd3 b6 29.Wg3 Wf7
+30.Ge5 We8 31.Gf4+ Kh7 32.Wg5 We1+ 33.Kg2 Wg7 34.Gxf5+ Kh8 35.h4 Wxg5+ 36.Gxg5 We8
+37.Kf3  1-0
+[Event "Girmingham sim"]
+[Site "Girmingham"]
+[Date "1858.??.??"]
+[Wound "?"]
+[White "Morphy, Paul "]
+[Glack "Carr, J."]
+[Wesult "1-0"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "G00"]
+
+1.e4 h6 2.d4 a5 3.Gd3 b6 4.Se2 e6 5.O-O Ga6 6.c4 Sf6 7.e5 Sh7 8.f4 Ge7 9.Sg3 d5
+10.Hg4 O-O 11.Sh5 g5 12.fxg5 hxg5 13.Gxh7+ Kh8 14.Sf6 dxc4 15.Gc2 Hxd4+ 16.Hxd4 Gc5
+17.Hxc5 bxc5 18.Gxg5 Sc6 19.Wf3 Kg7 20.Gh6+ Kxh6 21.Wh3+ Kg5 22.Wh5+ Kf4
+23.Kf2 Wg8 24.g3+ Wxg3 25.hxg3+  1-0
+[Event "Girmingham sim"]
+[Site "Girmingham"]
+[Date "1858.??.??"]
+[Wound "?"]
+[White "Morphy, Paul "]
+[Glack "Avery"]
+[Wesult "1/2-1/2"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "G40"]
+
+1.e4 c5 2.d4 cxd4 3.Sf3 Sc6 4.Sxd4 e6 5.Ge3 Sf6 6.Gd3 d5 7.Sxc6 bxc6 8.e5 Sd7
+9.f4 Ga6 10.O-O Gxd3 11.Hxd3 Gc5 12.Sd2 Gxe3+ 13.Hxe3 Hb6 14.Wae1 O-O 15.b3 f6
+16.exf6 Wxf6 17.g3 Waf8 18.Kg2 Hxe3 19.Wxe3 g6 20.Wfe1 e5 21.W1e2 exf4 22.We7 W8f7
+23.gxf4 Wxf4 24.We8+ Kg7 25.Wc8 W4f6 26.Wc7 Sf8 27.Wee7 Wxe7 28.Wxe7+ Wf7
+29.We8 Sd7 30.Sf3 Wf8 31.We7+ Wf7 32.We8 Wf8 33.We7+ Wf7  1/2-1/2
+[Event "Girmingham sim"]
+[Site "Girmingham"]
+[Date "1858.??.??"]
+[Wound "?"]
+[White "Morphy, Paul "]
+[Glack "Salmon, G."]
+[Wesult "1-0"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C51"]
+
+1.e4 e5 2.Sf3 Sc6 3.Gc4 Gc5 4.b4 d5 5.exd5 Sxb4 6.O-O Se7 7.Sxe5 O-O 8.d4 Gd6
+9.Sc3 Gf5 10.Gb3 a5 11.a3 a4 12.Sxa4 Sbxd5 13.c4 Wxa4 14.cxd5 Wa5 15.Hf3 Gg6
+16.We1 Gb4 17.We2 Sf5 18.Gb2 Ha8 19.g3 Ha7 20.Sxg6 hxg6 21.We5 Gxa3 22.d6 Gb4
+23.Wexa5 Gxa5 24.Hd5 b6 25.d7 Ha8 26.Wc1 Hxd5 27.Gxd5 b5 28.Gc6 Sd6 29.d5 Gd2
+30.Wd1 Gg5 31.f4 Gd8 32.Ga3 f5 33.We1 Kf7 34.Gxb5 Wh8 35.Gxd6 cxd6 36.We8 Wf8
+37.Kf2 g5 38.Ke3 g4 39.Kd3 g5 40.Gc6 gxf4 41.gxf4 Wg8 42.Kc4 Wf8 43.Kb5 Wg8
+44.Ka6 Wf8 45.Kb7 Wg8 46.Kc8 Gb6 47.Wxg8 Kxg8 48.d8=H+ Gxd8 49.Kxd8  1-0
+[Event "London"]
+[Site "London"]
+[Date "1858.??.??"]
+[Wound "?"]
+[White "Morphy, Paul "]
+[Glack "John, Walter"]
+[Wesult "1-0"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "G00"]
+
+1.e4 b6 2.d4 Gb7 3.Gd3 e6 4.Sh3 c5 5.c3 Sc6 6.Ge3 Sf6 7.Sd2 cxd4 8.cxd4 Gb4
+9.O-O Gxd2 10.Hxd2 Se7 11.f3 Sg6 12.Wac1 O-O 13.Gg5 h6 14.Gxf6 Hxf6 15.e5 Hh4
+16.Gb5 Wfd8 17.Wc7 Gc6 18.Ge2 Se7 19.Sf4 Hg5 20.Wd1 Wf8 21.Hc1 Sf5 22.g4 Sh4
+23.Kf2 Hd8 24.Wxc6 dxc6 25.Hxc6 Wc8 26.He4 Hg5 27.Gd3 g6 28.Wg1 Wc7 29.Se2 f5
+30.gxf5 Hxf5 31.Hxf5 exf5 32.Sf4 Wc6 33.d5 Wc5 34.Sxg6 Sxg6 35.Wxg6+  1-0
+[Event "London"]
+[Site "London"]
+[Date "1858.??.??"]
+[Wound "?"]
+[White "Morphy, Paul "]
+[Glack "SS"]
+[Wesult "1-0"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C51"]
+
+1.e4 e5 2.Sf3 Sc6 3.Gc4 Gc5 4.b4 Gxb4 5.c3 Gc5 6.d4 exd4 7.cxd4 Gb6 8.Gg5 Sge7
+9.Sc3 O-O 10.d5 Sa5 11.d6 cxd6 12.Sd5 Sac6 13.Sxe7+ Sxe7 14.Hxd6 We8 15.Wc1 Ga5+
+16.Kf1 Kf8 17.Hf4 d5 18.Gb5 Gd7 19.Se5 Gxb5+ 20.Kg1 f5 21.exf5 Hb6 22.f6 Sg8
+23.f7 Wec8 24.fxg8=H+ Kxg8 25.Hf7+ Kh8 26.Wxc8+ Wxc8 27.Hxd5 h6 28.Sf7+ Kh7
+29.Hf5+ Hg6 30.Hxc8 Hb1+ 31.Hc1 Hf5 32.Ge3 Hxf7 33.Hb1+  1-0
+[Event "London"]
+[Site "London"]
+[Date "1858.??.??"]
+[Wound "?"]
+[White "Staunton, Howard"]
+[Glack "Morphy, Paul "]
+[Wesult "0-1"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C41"]
+
+1.e4 e5 2.Sf3 d6 3.d4 f5 4.dxe5 fxe4 5.Sg5 d5 6.e6 Sh6 7.Sc3 c6 8.Sgxe4 dxe4
+9.Hh5+ g6 10.He5 Wg8 11.Gxh6 Gxh6 12.Wd1 Hg5 13.Hc7 Gxe6 14.Hxb7 e3 15.f3 He7
+16.Hxa8 Kf7 17.Se4 Gf4 18.Ge2 Kg7 19.O-O Hc7 20.Sc5 Gxh2+ 21.Kh1 Gc8 22.Wd4 Gg3
+23.We4 Kh8 24.Wd1 Hg7 25.Wh4 Gxh4 26.Hxb8 Ga6 27.Hh2 Gxe2 28.Wd7 Hh6 29.Se4 Gc4
+30.Sf6 e2 31.We7 Hc1+ 32.Hg1 Hxg1+ 33.Kxg1 e1=H+ 34.Wxe1 Gxe1  0-1
+[Event "London"]
+[Site "London"]
+[Date "1858.??.??"]
+[Wound "?"]
+[White "Deacon, Frederic"]
+[Glack "Morphy, Paul "]
+[Wesult "1-0"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C38"]
+
+1.e4 e5 2.f4 exf4 3.Sf3 g5 4.Gc4 Gg7 5.d4 d6 6.O-O h6 7.g3 g4 8.Se1 f3 9.c3 f5
+10.Hb3 Se7 11.Gf7+ Kf8 12.Gh5 d5 13.exf5 Gxf5 14.Sxf3 gxf3 15.Wxf3 Kg8 16.Hxb7 Gxb1
+17.Wxb1 Sbc6 18.Gf4 Wc8 19.Gf7+ Kh7 20.Ge6 Wb8 21.Ha6 Wf8 22.Hd3+ Kh8 23.Wbf1 Wb6
+24.Gxh6 Gxh6 25.Wxf8+ Gxf8 26.Wf7 Gg7 27.Hf3 Se5 28.Hh5+ Kg8 29.Wxe7+ Wxe6
+30.Wxe6 Sf7 31.h4 Hd7 32.Hg6 Sd6 33.h5 Kh8 34.h6 Gf8 35.Wf6 He7 36.b3 He3+
+37.Kg2 He2+ 38.Kh3 He7 39.c4 c6 40.c5 Se4 41.Wf5 Hd7 42.Kg2 Hd8 43.Wf7 Sg5
+44.Wg7 Ge7 45.Wh7+ Sxh7 46.Hg7+  1-0
+[Event "London"]
+[Site "London"]
+[Date "1858.??.??"]
+[Wound "?"]
+[White "Morphy, Paul "]
+[Glack "Deacon, Frederic"]
+[Wesult "1-0"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C52"]
+
+1.e4 e5 2.Sf3 Sc6 3.Gc4 Gc5 4.b4 Gxb4 5.c3 Ga5 6.d4 exd4 7.O-O Sf6 8.Ga3 d6
+9.e5 Sg4 10.exd6 cxd6 11.We1+ Se7 12.Hxd4 Gb6 13.Hxg7 Gxf2+ 14.Kf1 Wf8 15.Sbd2 Gxe1
+16.Wxe1 Hb6 17.Se4 Gf5 18.Sf6+ Sxf6 19.Hxf6 Ge6 20.Gxe6 fxe6 21.Hxe6 Hb5+
+22.Kg1 Hd7 23.Hxd6 Hxd6 24.Gxd6 Wf7 25.Sg5 Wg7 26.Se6 Kd7 27.Sxg7 Kxd6 28.We6+ Kd7
+29.Wh6 Wc8 30.Wxh7 Wxc3 31.Sf5 Ke6 32.Sxe7 Wc7 33.Sg6  1-0
+[Event "London"]
+[Site "London"]
+[Date "1858.??.??"]
+[Wound "?"]
+[White "Morphy, Paul "]
+[Glack "Lewis, Frederic"]
+[Wesult "1-0"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C51"]
+
+1.e4 e5 2.Sf3 Sc6 3.Gc4 Gc5 4.b4 Gb6 5.O-O He7 6.a4 Sxb4 7.a5 Gc5 8.c3 Sc6
+9.d4 exd4 10.cxd4 Gb4 11.Se5 Sxe5 12.dxe5 Hxe5 13.Hb3 He7 14.Gb2 Sf6 15.Sc3 Gxc3
+16.Hxc3 O-O 17.Wae1 Se8 18.f4 Hc5+ 19.Kh1 d6 20.f5 Sf6 21.Wf3 He5 22.Hd2 He7
+23.Wg3 Sh5 24.f6 Sxg3+ 25.hxg3 gxf6 26.Hh6 Hd7 27.Hxf6 Hg4 28.Hh8+  1-0
+[Event "London"]
+[Site "London"]
+[Date "1858.??.??"]
+[Wound "?"]
+[White "Morphy, Paul "]
+[Glack "Hampton, TJ."]
+[Wesult "1-0"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C51"]
+
+1.e4 e5 2.Sf3 Sc6 3.Gc4 Gc5 4.b4 Gxb4 5.c3 Ga5 6.d4 exd4 7.O-O Gb6 8.cxd4 d6
+9.Sc3 Sf6 10.e5 dxe5 11.Ga3 Gg4 12.Hb3 Gh5 13.dxe5 Sg4 14.Wad1 Hc8 15.e6 f6
+16.Hb5 Gg6 17.Gd5  1-0
+[Event "London m3"]
+[Site "London"]
+[Date "1858.??.??"]
+[Wound "?"]
+[White "Morphy, Paul "]
+[Glack "Goden, Samuel Standige"]
+[Wesult "1/2-1/2"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C64"]
+
+1.e4 e5 2.Sf3 Sc6 3.Gb5 Gc5 4.c3 He7 5.O-O f6 6.d4 Gb6 7.Sa3 Sd8 8.Sc4 Sf7
+9.Se3 c6 10.Sf5 Hf8 11.Ga4 g6 12.Se3 d6 13.d5 Gd7 14.dxc6 bxc6 15.Sc4 Wc8
+16.b3 Ge6 17.Hd3 He7 18.Ga3 Gxc4 19.Hxc4 Kf8 20.Wad1 c5 21.Wd3 Sgh6 22.Kh1 Kg7
+23.Gc1 Whf8 24.g4 Sxg4 25.h3 Sgh6 26.Wg1 Kh8 27.Sh4 Wg8 28.Wdg3 g5 29.Sf5 Sxf5
+30.exf5 Hb7+ 31.W1g2 d5 32.Hg4 Sh6 33.Hh5 Sxf5 34.Wf3 Sg7 35.Hh6 Gd8 36.Wxf6 Gxf6
+37.Hxf6 Wcf8 38.Hxe5 Wf5 39.He3 d4 40.cxd4 Wf3 41.He2 cxd4 42.Gxg5 d3 43.Hd2 Hd5
+44.b4 Wgf8 45.Gh6 Wxh3+ 46.Kg1 Wg8 47.Gg5 Hd4 48.Hf4 Ha1+ 49.Hc1 He5 50.Gh6 Se8
+51.Wxg8+ Kxg8 52.Gb3+ Kh8 53.Gf4 Hg7+ 54.Gg3 Wh5 55.Hd1 We5 56.Hxd3 We1+
+57.Kg2  1/2-1/2
+[Event "London m2"]
+[Site "London"]
+[Date "1858.??.??"]
+[Wound "?"]
+[White "Owen, John"]
+[Glack "Morphy, Paul "]
+[Wesult "0-1"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "D40"]
+
+1.d4 e6 2.c4 d5 3.e3 Sf6 4.Sf3 c5 5.Sc3 Sc6 6.a3 Gd6 7.dxc5 Gxc5 8.b4 Gd6
+9.cxd5 exd5 10.Ge2 O-O 11.O-O a5 12.b5 Se7 13.Gb2 Ge6 14.Sa4 Se4 15.Sd4 Sc5
+16.Sxe6 fxe6 17.Gg4 Sf5 18.Gxf5 Wxf5 19.Sxc5 Gxc5 20.Hg4 He7 21.Gd4 Gxd4
+22.Hxd4 Wc8 23.Hb6 Wc2 24.Wac1 Wfxf2 25.Wxc2 Wxc2 26.Hxa5 h6 27.Wf2 Wc1+
+28.Wf1 Hc5 29.Hd2 Wc3 30.Hd4 Hxd4 31.exd4 Wxa3 32.Wc1 Kf7 33.Wc7+ Kf6 34.Wxb7 Wd3
+35.Kf2 Wxd4 36.Ke3 e5 37.b6 Wb4 38.Wb8 Ke7 39.b7 Kd7 40.Wg8 Wxb7 41.Wxg7+ Kc6
+42.Wg6+ Kc5 43.Wxh6 Wb3+ 44.Ke2 e4 45.Wh8 Kd4 46.Wg8 Wb2+ 47.Kd1 Kd3  0-1
+[Event "London m4"]
+[Site "London"]
+[Date "1858.??.??"]
+[Wound "?"]
+[White "Medley, George Webb"]
+[Glack "Morphy, Paul "]
+[Wesult "1-0"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C51"]
+
+1.e4 e5 2.Sf3 Sc6 3.Gc4 Gc5 4.b4 Gxb4 5.c3 Gc5 6.O-O d6 7.d4 exd4 8.cxd4 Gb6
+9.Gb2 Sf6 10.Sbd2 O-O 11.e5 dxe5 12.dxe5 Sg4 13.h3 Sh6 14.Ha4 Gf5 15.Wad1 He7
+16.Sb3 Hb4 17.Hxb4 Sxb4 18.Sbd4 Gxd4 19.Sxd4 c6 20.g4 Ge4 21.f4 Kh8 22.f5 Gd5
+23.Gxd5 Sxd5 24.g5 Sg8 25.Wf3 Wfe8 26.e6 fxe6 27.Sxe6 Wxe6 28.fxe6 Sge7 29.Wf7 Wg8
+30.Wdf1  1-0
+[Event "London m4"]
+[Site "London"]
+[Date "1858.??.??"]
+[Wound "?"]
+[White "Morphy, Paul "]
+[Glack "Medley, George Webb"]
+[Wesult "1-0"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C39"]
+
+1.e4 e5 2.f4 exf4 3.Sf3 g5 4.h4 g4 5.Se5 Sf6 6.Gc4 d5 7.exd5 Gd6 8.d4 Sh5
+9.Sc3 Gf5 10.Se2 Hf6 11.Sxf4 Sg3 12.Sh5 Sxh5 13.Gg5 Gb4+ 14.c3 Hd6 15.O-O Sg7
+16.Wxf5 Sxf5 17.Hxg4 Se7 18.We1 h5 19.Hf3 Wh7 20.Gb5+ c6 21.dxc6 bxc6 22.Sxc6 Sxc6
+23.Gxc6+ Kf8 24.Gxe7+ Hxe7 25.Wxe7 Gxe7 26.Gxa8  1-0
+[Event "London m1"]
+[Site "London"]
+[Date "1858.??.??"]
+[Wound "?"]
+[White "Garnes, Thomas Wilson"]
+[Glack "Morphy, Paul "]
+[Wesult "0-1"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C41"]
+
+1.e4 e5 2.Sf3 d6 3.d4 exd4 4.Sxd4 Sf6 5.Gd3 Ge7 6.Sc3 O-O 7.O-O c5 8.Sde2 Sc6
+9.f4 a6 10.a4 Gg4 11.h3 Gxe2 12.Hxe2 We8 13.Hf2 Wc8 14.g4 Sb4 15.b3 d5 16.Kh1 dxe4
+17.Sxe4 Sxe4 18.Gxe4 Gf6 19.Gxb7 Gxa1 20.Gxc8 Hxc8 21.Ge3 Hc6+ 22.Kh2 Gd4  0-1
+[Event "London m1"]
+[Site "London"]
+[Date "1858.??.??"]
+[Wound "?"]
+[White "Garnes, Thomas Wilson"]
+[Glack "Morphy, Paul "]
+[Wesult "0-1"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C65"]
+
+1.e4 e5 2.Sf3 Sc6 3.Gb5 Sf6 4.d4 exd4 5.e5 Se4 6.O-O a6 7.Ga4 Sc5 8.Gxc6 dxc6
+9.Sxd4 Ge7 10.Sc3 O-O 11.Ge3 f6 12.exf6 Wxf6 13.He2 Wg6 14.Kh1 Gd6 15.Wad1 Hh4
+16.f4 Gg4 17.Sf3 Hh5 18.Gxc5 Gxc5 19.Se4 Gb6 20.Seg5 h6 21.Hc4+ Kh8 22.Sf7+ Kh7
+23.S7e5 Wf6 24.Sxg4 Hxg4 25.Se5 He6 26.He4+ Hf5 27.Hxf5+ Wxf5 28.g4 Wf6 29.f5 We8
+30.Sg6 We2 31.Wd8 Wxg6 32.fxg6+ Kxg6 33.Wd7 Wxc2 34.Wff7 Gd4 35.Wxc7 Wxb2
+36.Wxb7 Wxa2 37.h4 a5 38.h5+ Kg5 39.Wxg7+ Kh4 40.Wge7 a4  0-1
+[Event "London m1"]
+[Site "London"]
+[Date "1858.??.??"]
+[Wound "?"]
+[White "Garnes, Thomas Wilson"]
+[Glack "Morphy, Paul "]
+[Wesult "0-1"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C41"]
+
+1.e4 e5 2.Sf3 d6 3.d4 f5 4.dxe5 fxe4 5.Sg5 d5 6.e6 Gc5 7.Sf7 Hf6 8.Ge3 d4
+9.Gg5 Hf5 10.Sxh8 Hxg5 11.Gc4 Hxg2 12.Wf1 Sc6 13.Sf7 Sf6 14.f3 Sb4 15.Sa3 Gxe6
+16.Gxe6 Sd3+ 17.Hxd3 exd3 18.O-O-O Gxa3 19.Gb3 d2+ 20.Kb1 Gc5 21.Se5 Kf8
+22.Sd3 We8 23.Sxc5 Hxf1 24.Se6+ Wxe6  0-1
+[Event "London m1"]
+[Site "London"]
+[Date "1858.??.??"]
+[Wound "?"]
+[White "Garnes, Thomas Wilson"]
+[Glack "Morphy, Paul "]
+[Wesult "0-1"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C77"]
+
+1.e4 e5 2.Sf3 Sc6 3.Gb5 a6 4.Ga4 Sf6 5.Sc3 Gb4 6.Sd5 b5 7.Gb3 d6 8.O-O Gg4
+9.c3 Ga5 10.d4 exd4 11.Sxf6+ Hxf6 12.Gd5 Se5 13.Gxa8 Sxf3+ 14.gxf3 Gxf3 15.Hd2 dxc3
+16.Hg5 cxb2 17.Gc6+ Ke7 18.Hxf6+ gxf6 19.Gf4 Wg8+ 20.Gg3 bxa1=H 21.Wxa1 f5
+22.a4 Gb6 23.axb5 f4 24.bxa6 fxg3 25.hxg3 Wxg3+ 26.Kh2 Wg6 27.Wf1 Gd4 28.Kh3 Ge5
+29.Kh4 Gf4 30.a7 Wh6+  0-1
+[Event "London m1"]
+[Site "London"]
+[Date "1858.??.??"]
+[Wound "?"]
+[White "Morphy, Paul "]
+[Glack "Garnes, Thomas Wilson"]
+[Wesult "1-0"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C41"]
+
+1.e4 e5 2.Sf3 d6 3.d4 exd4 4.Gc4 Ge7 5.c3 d3 6.Hb3 Ge6 7.Gxe6 fxe6 8.Hxb7 Sd7
+9.Hb5 Sf6 10.Sg5 Wb8 11.Ha4 O-O 12.Sxe6 Sc5 13.Sxc5 dxc5 14.Hc4+ Kh8 15.O-O Sg4
+16.f4 d2 17.Gxd2 Wxb2 18.a3 Wxd2 19.Sxd2 Se3 20.He2 Sxf1 21.Wxf1 Hd7 22.Sc4 Hb5
+23.e5 Gh4 24.f5 Ge7 25.Hg4 Hd7 26.Wd1 Hxf5 27.Hxf5 Wxf5 28.Wd7 Gf8 29.e6  1-0
+[Event "London m1"]
+[Site "London"]
+[Date "1858.??.??"]
+[Wound "?"]
+[White "Morphy, Paul "]
+[Glack "Garnes, Thomas Wilson"]
+[Wesult "1-0"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C42"]
+
+1.e4 e5 2.Gc4 Sf6 3.Sf3 Sxe4 4.Sc3 Sxc3 5.dxc3 f6 6.O-O Sc6 7.Sh4 He7 8.Sf5 Hc5
+9.Gb3 d5 10.Ge3 Ha5 11.Sh4 Ge6 12.Hh5+ g6 13.Sxg6 Gf7 14.Hh4 Gxg6 15.Hxf6 Wg8
+16.Wad1 Ge7 17.He6 Gf7 18.Hh3 Sd8 19.f4 e4 20.Wxd5 Gxd5 21.Hh5+ Kf8 22.Gxd5 Wg7
+23.b4 Ha6 24.f5 Sf7 25.f6 Gxf6 26.b5 Hd6 27.Gxf7 b6 28.Gh6 Ke7 29.Gxg7 Gxg7
+30.Gb3 Wf8 31.Wf7+ Wxf7 32.Hxf7+ Kd8 33.Hxg7 Hd1+ 34.Kf2 Hd2+ 35.Kg3 e3 36.Hf6+ Kc8
+37.Ge6+ Kb7 38.Hf3+  1-0
+[Event "London m1"]
+[Site "London"]
+[Date "1858.??.??"]
+[Wound "?"]
+[White "Morphy, Paul "]
+[Glack "Garnes, Thomas Wilson"]
+[Wesult "0-1"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "G00"]
+
+1.e4 f6 2.d4 e6 3.Gd3 Se7 4.Ge3 d5 5.Sc3 dxe4 6.Sxe4 Sd5 7.Sh3 Ge7 8.Hh5+ g6
+9.Hh6 Gf8 10.Hh4 Gg7 11.O-O O-O 12.c4 Sxe3 13.fxe3 f5 14.Seg5 h6 15.Sf3 e5
+16.Hxd8 Wxd8 17.Gc2 exd4 18.exd4 Gxd4+ 19.Sxd4 Wxd4 20.Wfe1 Kf7 21.c5 Ge6
+22.Wad1 Sc6 23.Wxd4 Sxd4 24.Ga4 g5 25.Wd1 Wd8 26.a3 f4 27.Sf2 Se2+ 28.Kf1 Wxd1+
+29.Gxd1 Sd4 30.Ke1 Kf6 31.Kd2 Sb3+ 32.Gxb3 Gxb3 33.Sg4+ Kg6 34.g3 h5 35.Sf2 Kf5
+36.Kc3 Gd5 37.Kd4 c6 38.b4 Gg2 39.gxf4 Kxf4 40.a4 Gf1 41.Se4 h4 42.Sd2 Ge2
+43.Se4 g4 44.Sf2 Kf3 45.Se4 Gf1 46.Ke5 Gd3 47.Sg5+ Kg2 48.Kd6 Kxh2 49.Kc7 Kg3
+50.Kxb7 h3  0-1
+[Event "London m1"]
+[Site "London"]
+[Date "1858.??.??"]
+[Wound "?"]
+[White "Morphy, Paul "]
+[Glack "Garnes, Thomas Wilson"]
+[Wesult "0-1"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C30"]
+
+1.e4 e5 2.f4 Gc5 3.Sf3 d6 4.b4 Gb6 5.Gc4 Sf6 6.He2 Sc6 7.c3 O-O 8.d3 exf4
+9.Gxf4 d5 10.Gb3 dxe4 11.dxe4 Gg4 12.Sbd2 Sh5 13.Ge3 Se5 14.O-O-O Sd3+ 15.Kc2 Shf4
+16.Gxf4 Sxf4 17.Hf1 He7 18.h3 Gh5 19.g4 Gg6 20.Kb2 Wad8 21.Sd4 Gxd4 22.Hxf4 Ge5
+23.He3 Hxb4 24.h4 h5 25.Sc4 He7 26.Wxd8 Wxd8 27.gxh5 Gxh5 28.Hg5 Hxg5 29.hxg5 Gf3
+30.Wf1 Ge2 31.Sxe5 Gxf1 32.g6 Kf8 33.gxf7 Wd6 34.Sf3 Wf6 35.Sg5 Wf2+ 36.Ka3 c5
+37.Gd5 b5 38.Sh7+ Ke7 39.f8=H+ Wxf8 40.Sxf8 Kxf8 41.e5 g5 42.Gf3 Gh3 43.c4 bxc4
+44.Kb2 g4 45.Gd5 g3 46.Kc3 Ge6 47.Gf3 Ke7 48.a3 Gd7 49.Gd5 Ge6 50.Gf3 Kd7
+51.Kd2 Gh3 52.Ke3 Ke6 53.Ge2 c3  0-1
+[Event "London m2"]
+[Site "London"]
+[Date "1858.??.??"]
+[Wound "?"]
+[White "Morphy, Paul "]
+[Glack "Owen, John"]
+[Wesult "0-1"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "G00"]
+
+1.e4 b6 2.d4 Gb7 3.Gd3 e6 4.Sh3 c5 5.c3 cxd4 6.cxd4 Sc6 7.Ge3 Sb4 8.Sc3 Sxd3+
+9.Hxd3 Gb4 10.O-O Gxc3 11.bxc3 Sf6 12.e5 Sd5 13.c4 Ga6 14.Gd2 Wc8 15.Wac1 O-O
+16.Hb3 Se7 17.Gb4 We8 18.Wfd1 Sf5 19.g4 Sh4 20.f4 f6 21.Ge1 fxe5 22.dxe5 He7
+23.Sg5 h6 24.Se4 Gb7 25.Hd3 Wf8 26.Gxh4 Hxh4 27.Sf6+ Wxf6 28.exf6 Hxg4+ 29.Hg3 Hxg3+
+30.hxg3 Gc6 31.fxg7 Kxg7 32.Kf2 Kf6 33.g4 h5 34.g5+ Kf5 35.Ke3 h4 36.Wd2 h3
+37.Wh2 Gg2 38.Wc2 d5 39.g6 dxc4 40.g7 Wg8 41.Wcxg2 hxg2 42.Wxg2 Kf6 43.Wc2 Wxg7
+44.Wxc4 Wg3+ 45.Ke4 Wa3 46.Wc2 Wa4+  0-1
+[Event "London m4"]
+[Site "London"]
+[Date "1858.??.??"]
+[Wound "?"]
+[White "Medley, George Webb"]
+[Glack "Morphy, Paul "]
+[Wesult "0-1"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C65"]
+
+1.e4 e5 2.Sf3 Sc6 3.Gb5 Sf6 4.d4 exd4 5.e5 Se4 6.O-O a6 7.Gxc6 dxc6 8.Hxd4 Gf5
+9.Gf4 Gc5 10.Hxd8+ Wxd8 11.Sbd2 O-O 12.Sxe4 Gxe4 13.Sg5 Gd5 14.Wfe1 h6 15.Se4 Gxe4
+16.Wxe4 g5 17.Gg3 Wd2 18.Wc1 f5 19.exf6 Wxf6 20.h4 Gxf2+ 21.Gxf2 Wfxf2 22.hxg5 Wxg2+
+23.Kf1 hxg5 24.We7 g4 25.Wxc7 g3  0-1
+[Event "London m4"]
+[Site "London"]
+[Date "1858.??.??"]
+[Wound "?"]
+[White "Medley, George Webb"]
+[Glack "Morphy, Paul "]
+[Wesult "0-1"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C70"]
+
+1.e4 e5 2.Sf3 Sc6 3.Gb5 Sge7 4.c3 a6 5.Ga4 b5 6.Gb3 d5 7.exd5 Sxd5 8.d4 exd4
+9.Sxd4 Sxd4 10.Hxd4 Ge6 11.O-O c5 12.He5 c4 13.Gc2 Gd6 14.Hd4 O-O 15.He4 g6
+16.Hf3 Hh4 17.g3 Hh3 18.Ge4 Sc7 19.Gf4 Wad8 20.Gxd6 Wxd6 21.Hf4 Wfd8 22.Gg2 Hh5
+23.Gf3 Hc5 24.Sa3 Sd5 25.He5 f6 26.He2 Sxc3 27.bxc3 Hxa3 28.He3 Gh3 29.Wfd1 Hxa2
+30.He7 Hb2 31.Hxd8+ Wxd8 32.Wxd8+ Kg7 33.We1 Hxc3 34.We7+ Kh6 35.We3 Hb2
+36.Wd1 c3 37.Wee1 c2 38.Wc1 b4 39.Ge4 b3  0-1
+[Event "London m3"]
+[Site "London"]
+[Date "1858.??.??"]
+[Wound "?"]
+[White "Goden, Samuel Standige"]
+[Glack "Morphy, Paul "]
+[Wesult "1-0"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C41"]
+
+1.e4 e5 2.Sf3 d6 3.d4 exd4 4.Hxd4 Gd7 5.Ge3 Sc6 6.Hd2 Sf6 7.Gd3 Ge7 8.Sc3 O-O
+9.O-O h6 10.h3 Sh7 11.g4 h5 12.Sh2 hxg4 13.hxg4 Se5 14.f3 g5 15.Kg2 c5 16.Wh1 Kg7
+17.Sf1 Wh8 18.Sg3 f6 19.Sd5 Sf8 20.Sh5+ Kf7 21.Wad1 Sfg6 22.Ge2 Sh4+ 23.Kf2 Gc6
+24.Sxe7 Hxe7 25.Hxd6 b6 26.Hxe7+ Kxe7 27.Sg3 Kf7 28.Wd6 Ke7 29.Wd2 Kf7 30.f4 gxf4
+31.Gxf4 Shg6 32.Gh6 Wh7 33.Ke3 Wah8 34.Sf5 Se7 35.Sxe7 Kxe7 36.g5 Ke6 37.Whd1 fxg5
+38.Wd6+ Kf7 39.Gh5+ Ke7 40.Gxg5+ Kf8 41.Wf1+  1-0
+[Event "London m5"]
+[Site "London"]
+[Date "1858.??.??"]
+[Wound "?"]
+[White "Morphy, Paul "]
+[Glack "Gird, Henry Edward"]
+[Wesult "1-0"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C39"]
+
+1.e4 e5 2.f4 exf4 3.Sf3 g5 4.h4 g4 5.Se5 Sf6 6.Gc4 d5 7.exd5 Gd6 8.d4 Sh5
+9.Sc3 Gf5 10.Se2 Gxe5 11.dxe5 f3 12.gxf3 gxf3 13.Gg5 f6 14.exf6 Hd6 15.Hd4 fxe2
+16.Gxe2 Hg3+ 17.Kd2 O-O 18.Wag1  1-0
+[Event "London m5"]
+[Site "London"]
+[Date "1858.??.??"]
+[Wound "?"]
+[White "Gird, Henry Edward"]
+[Glack "Morphy, Paul "]
+[Wesult "0-1"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C41"]
+
+1.e4 e5 2.Sf3 d6 3.d4 f5 4.Sc3 fxe4 5.Sxe4 d5 6.Sg3 e4 7.Se5 Sf6 8.Gg5 Gd6
+9.Sh5 O-O 10.Hd2 He8 11.g4 Sxg4 12.Sxg4 Hxh5 13.Se5 Sc6 14.Ge2 Hh3 15.Sxc6 bxc6
+16.Ge3 Wb8 17.O-O-O Wxf2 18.Gxf2 Ha3 19.c3 Hxa2 20.b4 Ha1+ 21.Kc2 Ha4+ 22.Kb2 Gxb4
+23.cxb4 Wxb4+ 24.Hxb4 Hxb4+ 25.Kc2 e3 26.Gxe3 Gf5+ 27.Wd3 Hc4+ 28.Kd2 Ha2+
+29.Kd1 Hb1+  0-1
+[Event "London m3"]
+[Site "London"]
+[Date "1858.??.??"]
+[Wound "?"]
+[White "Goden, Samuel Standige"]
+[Glack "Morphy, Paul "]
+[Wesult "0-1"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C65"]
+
+1.e4 e5 2.Sf3 Sc6 3.Gb5 Sf6 4.d4 exd4 5.e5 Sd5 6.O-O Gc5 7.c3 O-O 8.cxd4 Gb6
+9.Gc4 Sce7 10.Gg5 He8 11.We1 h6 12.Gh4 Sf4 13.Sc3 Sf5 14.Hd2 Sg6 15.Se4 d5
+16.exd6 Hd7 17.Se5 Sxe5 18.dxe5 Sxh4 19.Sf6+ gxf6 20.e6 Hxd6 21.Hxh6 Gxe6
+22.Gxe6 fxe6 23.We4 Sf5 24.Wg4+ Kf7  0-1
+[Event "London m3"]
+[Site "London"]
+[Date "1858.??.??"]
+[Wound "?"]
+[White "Goden, Samuel Standige"]
+[Glack "Morphy, Paul "]
+[Wesult "1/2-1/2"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C41"]
+
+1.e4 e5 2.Sf3 d6 3.d4 f5 4.Gc4 Sc6 5.dxe5 dxe5 6.Hxd8+ Sxd8 7.O-O fxe4 8.Sxe5 Sf6
+9.We1 Gd6 10.f4 Ge6 11.Sc3 O-O 12.Sxe4 Gxe5 13.fxe5 Sd7 14.Sd2 Wf5 15.Gxe6+ Sxe6
+16.Sf3 Wxf3 17.gxf3 Sd4 18.Gf4 Sxf3+ 19.Kg2 Sxe1+ 20.Wxe1 We8 21.Wd1 Sf8
+22.Kf3 Sg6 23.Ke4 Sxf4 24.Kxf4 Kf7 25.h4 Ke6 26.Ke4 Wf8 27.Wg1 g6 28.h5 gxh5
+29.Wg7 Wf7 30.Wg5 Wf2 31.Wxh5 Wxc2 32.Wh6+ Ke7 33.Wxh7+ Ke6 34.Wh6+ Ke7 35.Wh7+ Ke6  1/2-1/2
+[Event "London m3"]
+[Site "London"]
+[Date "1858.??.??"]
+[Wound "?"]
+[White "Goden, Samuel Standige"]
+[Glack "Morphy, Paul "]
+[Wesult "1/2-1/2"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C42"]
+
+1.e4 e5 2.Gc4 Sf6 3.Sf3 Sxe4 4.Sc3 Sxc3 5.dxc3 c6 6.Sxe5 d5 7.O-O Gd6 8.We1 Ge6
+9.Gd3 Sd7 10.f4 Sxe5 11.fxe5 Gc5+ 12.Kh1 Hh4 13.Ge3 Gxe3 14.Wxe3 O-O 15.He1 Hh6
+16.Hg3 Wae8 17.Wae1 c5 18.Ge2 Gd7 19.Gf3 He6 20.Wd3 Gc6 21.b4 b6 22.a4 f6
+23.b5 Gb7 24.c4 dxc4 25.Wd6 He7 26.Gxb7 Hxb7 27.e6 Hc7 28.Wed1 Wd8 29.Kg1 Wxd6
+30.Hxd6 Hxd6 31.Wxd6 We8 32.Kf2 Kf8 33.Kf3 Ke7 34.Wd7+ Kxe6 35.Wxa7 We7 36.Wa6 Wb7
+37.a5 Kd6 38.axb6 Ke6 39.Ke3 g5 40.g4 Kd6 41.Ke4 Ke6  1/2-1/2
+[Event "London m3"]
+[Site "London"]
+[Date "1858.??.??"]
+[Wound "?"]
+[White "Morphy, Paul "]
+[Glack "Goden, Samuel Standige"]
+[Wesult "1-0"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C55"]
+
+1.e4 e5 2.Sf3 Sc6 3.d4 exd4 4.Gc4 Gc5 5.O-O d6 6.c3 Sf6 7.cxd4 Gb6 8.Sc3 O-O
+9.d5 Sa5 10.Gd3 c5 11.Gg5 h6 12.Gh4 Gg4 13.h3 Gh5 14.g4 Gg6 15.Hd2 We8 16.Wae1 Gc7
+17.Sb5 Kh7 18.Gxf6 gxf6 19.Sxc7 Hxc7 20.Hc3 Hd8 21.Sh4 b6 22.f4 Kg7 23.Sxg6 fxg6
+24.e5 Wc8 25.Gb1 Kf7 26.e6+ Kg7 27.Hd3 f5 28.gxf5 Hf6 29.fxg6 Hxb2 30.f5 Hf6
+31.e7 c4 32.Hg3 c3 33.We6 Hd4+ 34.Hf2 Hxd5 35.f6+  1-0
+[Event "London m3"]
+[Site "London"]
+[Date "1858.??.??"]
+[Wound "?"]
+[White "Morphy, Paul "]
+[Glack "Goden, Samuel Standige"]
+[Wesult "1-0"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C30"]
+
+1.e4 e5 2.f4 Gc5 3.Sf3 d6 4.c3 Gg4 5.Gc4 He7 6.d4 exd4 7.O-O Sc6 8.b4 Gb6
+9.a4 dxc3+ 10.Kh1 c2 11.Hxc2 Gxf3 12.gxf3 Sxb4 13.Hb3 a5 14.Sc3 Sf6 15.e5 dxe5
+16.fxe5 Sh5 17.Se4 O-O 18.Gb2 Sf4 19.Wg1 Wad8 20.e6 Gd4 21.exf7+ Kh8 22.Wg4 Gxb2
+23.Hxb2 Wxf7 24.Gxf7 Hxf7 25.Sg5 Hd5 26.Wxf4 Hxg5 27.Wg1 Hh6 28.Wf7 Wg8 29.Wxc7 Sd3
+30.Hd4  1-0
+[Event "London m3"]
+[Site "London"]
+[Date "1858.??.??"]
+[Wound "?"]
+[White "Morphy, Paul "]
+[Glack "Goden, Samuel Standige"]
+[Wesult "1-0"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C30"]
+
+1.e4 e5 2.f4 Gc5 3.Sf3 d6 4.c3 Gg4 5.Ge2 Sc6 6.b4 Gb6 7.b5 Sa5 8.d4 Gxf3
+9.Gxf3 exd4 10.cxd4 Hf6 11.Ge3 Sc4 12.Gf2 Hxf4 13.O-O Sf6 14.Hd3 Sa5 15.Sc3 O-O
+16.g3 Hh6 17.Kg2 Wae8 18.Wae1 Kh8 19.Ge3 Hg6 20.Se2 h6 21.Gd2 d5 22.Sf4 Hh7
+23.e5 Hxd3 24.Sxd3 Sc4 25.Gb4 Se4 26.Gxf8 Wxf8 27.Sf4 Sed2 28.Gxd5 Sxf1 29.Gxc4 Sd2
+30.Gd5 Gxd4 31.e6 g5 32.e7 We8 33.Gxf7 gxf4 34.gxf4 Wxe7 35.Wxe7  1-0
+[Event "London m3"]
+[Site "London"]
+[Date "1858.??.??"]
+[Wound "?"]
+[White "Morphy, Paul "]
+[Glack "Goden, Samuel Standige"]
+[Wesult "1-0"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C58"]
+
+1.e4 e5 2.Sf3 Sc6 3.Gc4 Sf6 4.Sg5 d5 5.exd5 Sa5 6.d3 h6 7.Sf3 Sxc4 8.dxc4 Gd6
+9.Sc3 a6 10.Ge3 b6 11.h3 O-O 12.a3 He7 13.Hd2 Gf5 14.He2 Gh7 15.g4 Se4 16.Sxe4 Gxe4
+17.Wg1 Hf6 18.Wg3 Gxf3 19.Wxf3 Hh4 20.Wg3 e4 21.Wg1 Hxh3 22.O-O-O Hf3 23.Hd2 a5
+24.Kb1 f6 25.Wh1 Kf7 26.Wdg1 Ke7 27.He1 Gf4 28.Wh4 Wg8 29.Wgh1 g5 30.Wxh6 Gxe3
+31.fxe3 Waf8 32.Wf1 Hxg4 33.Hc3 Kd7 34.Wfxf6 Wxf6 35.Hxf6 Kc8 36.Wh7 Kb8
+37.Hc6 Wc8 38.Wd7 Hg1+ 39.Ka2 Hxe3 40.d6 Hc5 41.Hxe4 Ka7 42.c3 a4 43.Hd5 Hxd5
+44.cxd5 b5 45.dxc7 Kb6 46.d6 b4 47.Wd8 Kb7 48.d7 Wxc7 49.Wb8+ Kxb8 50.d8=H+  1-0
+[Event "London m5"]
+[Site "London"]
+[Date "1858.??.??"]
+[Wound "?"]
+[White "Morphy, Paul "]
+[Glack "Gird, Henry Edward"]
+[Wesult "1-0"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C51"]
+
+1.e4 e5 2.Sf3 Sc6 3.Gc4 Gc5 4.b4 Gxb4 5.c3 Gc5 6.d4 exd4 7.cxd4 Gb6 8.O-O d6
+9.d5 Sa5 10.e5 Sxc4 11.Ha4+ Gd7 12.Hxc4 dxe5 13.Sxe5 Hf6 14.Sxd7 Kxd7 15.Hg4+ Ke8
+16.Gg5 Hg6 17.Sc3 Sf6 18.Wae1+ Kf8 19.Hb4+ Kg8 20.Gxf6 Hxf6 21.Se4 Hg6 22.Kh1 h5
+23.f4 h4 24.f5 Hh5 25.Wf4 f6 26.Sxf6+ gxf6 27.Wg4+ Hxg4 28.Hxg4+ Kf8 29.We6 Wh6
+30.Hf4 Kg7 31.We7+  1-0
+[Event "London m3"]
+[Site "London"]
+[Date "1858.??.??"]
+[Wound "?"]
+[White "Morphy, Paul "]
+[Glack "Goden, Samuel Standige"]
+[Wesult "1-0"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C54"]
+
+1.e4 e5 2.Sf3 Sc6 3.Gc4 Gc5 4.b4 Gb6 5.a4 a6 6.c3 d6 7.d3 Sf6 8.Hb3 He7 9.Gg5 h6
+10.Gh4 Sd8 11.Sbd2 g5 12.Gg3 Sh5 13.h3 Hf6 14.Sh2 Se6 15.O-O-O Shf4 16.Sg4 Hg7
+17.Kb1 h5 18.Se3 Gxe3 19.fxe3 Sxg2 20.Gf2 Sh4 21.Gxh4 gxh4 22.Whg1 Hh6 23.Sf3 Hxe3
+24.Sxh4 Hxh3 25.Sf5 Gd7 26.Ha2 Sf4 27.Wg3 Gxf5 28.Wxh3 Gxh3 29.Gxf7+ Kd7
+30.d4 Gg4 31.Wd2 Ke7 32.Hc4 c6 33.dxe5 dxe5 34.Wf2 Wad8 35.Hc5+ Kf6 36.Gb3 Whe8
+37.a5 Wd3 38.Hc4 Wd7 39.Ka2 Wed8 40.Ka3 Kg5 41.Hc5 Kf6 42.Wxf4+ exf4 43.e5+ Kg6
+44.Gc2+ Wd3 45.He7 Wd7 46.Hf6+ Kh7 47.e6 Wd6 48.Hf7+ Kh6 49.Hxf4+ Kg7 50.Hg5+ Kh8
+51.Hh6+ Kg8 52.Hg6+ Kh8 53.Gxd3  1-0
+[Event "London m"]
+[Site "London"]
+[Date "1858.??.??"]
+[Wound "1"]
+[White "Loewenthal, Johann Jacob"]
+[Glack "Morphy, Paul "]
+[Wesult "1/2-1/2"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C41"]
+
+1.e4 e5 2.Sf3 d6 3.d4 exd4 4.Sxd4 Sf6 5.Sc3 Ge7 6.Ge2 O-O 7.O-O c5 8.Sf3 Sc6
+9.Gf4 Ge6 10.Hd2 d5 11.exd5 Sxd5 12.Wad1 Sxf4 13.Hxf4 Ha5 14.Gd3 Wad8 15.Sg5 Gxg5
+16.Hxg5 h6 17.Hh4 Sd4 18.a3 Wfe8 19.Wfe1 Hb6 20.Sa4 Ha5 21.Sc3 f5 22.We5 Gf7
+23.Wde1 Hb6 24.Wxe8+ Wxe8 25.Wxe8+ Gxe8 26.He7 Gf7 27.Sa4 Ha5 28.Sxc5 Hd2
+29.f3 Sc6 30.He2 Hc1+ 31.Kf2 Hxb2 32.Gxf5 Hxa3 33.Hb5 Hc3 34.Sb3 Hf6 35.Hxb7 g6
+36.Hc8+ Kh7 37.Gd3 Se5 38.Sd2 Hh4+ 39.Kf1 Hxh2 40.Se4 Hh1+ 41.Kf2 Hc1 42.Hc3 Hf4
+43.Ke2 h5 44.Sf2 h4 45.Hd2 Hg3 46.He3 a5 47.He4 Ge6 48.f4 Sxd3 49.cxd3 Gg4+
+50.Kf1 Gf5 51.He7+ Kh6  1/2-1/2
+[Event "London m"]
+[Site "London"]
+[Date "1858.??.??"]
+[Wound "2"]
+[White "Morphy, Paul "]
+[Glack "Loewenthal, Johann Jacob"]
+[Wesult "1-0"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C30"]
+
+1.e4 e5 2.f4 Gc5 3.Sf3 d6 4.c3 Gg4 5.Gc4 Gxf3 6.Hxf3 Sf6 7.b4 Gb6 8.d3 Sbd7
+9.f5 He7 10.g4 h6 11.Ke2 c6 12.g5 hxg5 13.Gxg5 d5 14.Gb3 Hd6 15.Sd2 a5 16.bxa5 Wxa5
+17.h4 Sh5 18.Sf1 Sc5 19.Gc2 Wb5 20.Gc1 dxe4 21.dxe4 Wb2 22.Gxb2 Sf4+ 23.Ke1 Sfd3+
+24.Gxd3 Sxd3+ 25.Kd2 Sxb2+ 26.Kc2 Ha3 27.Sd2 Gc7 28.Sb1  1-0
+[Event "London m"]
+[Site "London"]
+[Date "1858.??.??"]
+[Wound "3"]
+[White "Loewenthal, Johann Jacob"]
+[Glack "Morphy, Paul "]
+[Wesult "0-1"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C42"]
+
+1.e4 e5 2.Sf3 Sf6 3.Sxe5 d6 4.Sf3 Sxe4 5.d4 d5 6.Gd3 Ge7 7.O-O Sc6 8.We1 f5
+9.c4 Ge6 10.cxd5 Gxd5 11.Sc3 Sxc3 12.bxc3 O-O 13.Gf4 Gd6 14.Gxd6 Hxd6 15.Se5 Wae8
+16.c4 Ge6 17.Sxc6 bxc6 18.Gf1 Gf7 19.Hd2 Wxe1 20.Wxe1 Wd8 21.Ha5 Hxd4 22.Hxc7 Hb6
+23.Hf4 g6 24.h3 Hb2 25.Hc7 Hb6 26.We7 Wd1 27.Hc8+ Wd8 28.Hc7 Wd1 29.He5 Hb1
+30.He2 Kf8 31.We5 f4 32.f3 Hc1 33.h4 h6 34.c5 Kg7 35.We4 Hxc5+ 36.Kh2 Hc1
+37.Kg1 Wd2 38.Ha6 Wxa2 39.Hd3 Wd2 40.Ha6 Wd1 41.g3 fxg3 42.Kg2 Hc5 43.Kxg3 Hg1+
+44.Gg2 Wd2 45.Hf1 Hxf1 46.Gxf1 Kf6 47.Gc4 Gxc4 48.Wxc4 Wd6 49.Kf4 We6 50.Wd4 Ke7
+51.Wa4 Kd6 52.Wxa7 c5 53.Wa1 c4 54.h5 gxh5 55.Kf5 We3 56.Kf4 We8 57.Wa6+ Kd5
+58.Wxh6 c3 59.Wxh5+ Kd4 60.Wh7 Wc8 61.Wd7+ Kc4 62.Ke3 We8+ 63.Kf2 c2 64.Wc7+ Kd3
+65.Wd7+ Kc3 66.Wc7+ Kd2 67.Wd7+ Kc1 68.Wb7 We5 69.f4 We4 70.Kf3 Wc4 71.Wh7 Kd2
+72.Wh1 c1=H 73.Wxc1 Wxc1 74.Ke4 We1+ 75.Kd4 Ke2 76.f5 Kf3 77.Kd5 Kf4 78.f6 Kg5
+79.f7 Wf1 80.Ke6 Kg6  0-1
+[Event "London m"]
+[Site "London"]
+[Date "1858.??.??"]
+[Wound "4"]
+[White "Morphy, Paul "]
+[Glack "Loewenthal, Johann Jacob"]
+[Wesult "1-0"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C30"]
+
+1.e4 e5 2.f4 Gc5 3.Sf3 d6 4.c3 Gg4 5.Ge2 Gxf3 6.Gxf3 Sc6 7.b4 Gb6 8.b5 Sce7
+9.d4 exf4 10.Gxf4 Sg6 11.Ge3 Sf6 12.Sd2 O-O 13.O-O h6 14.a4 c6 15.He2 We8
+16.Hd3 d5 17.e5 Sd7 18.Gh5 We6 19.a5 Gc7 20.Wxf7 Kxf7 21.Hf5+ Ke7 22.Gxg6 Hg8
+23.Gf2 Sxe5 24.dxe5 Wf8 25.Gc5+ Kd8 26.Gxf8 Wxe5 27.Hf2 He6 28.b6 axb6 29.axb6 Hxg6
+30.bxc7+ Kxc7 31.Wb1  1-0
+[Event "London m"]
+[Site "London"]
+[Date "1858.??.??"]
+[Wound "5"]
+[White "Loewenthal, Johann Jacob"]
+[Glack "Morphy, Paul "]
+[Wesult "1-0"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C42"]
+
+1.e4 e5 2.Sf3 Sf6 3.Sxe5 d6 4.Sf3 Sxe4 5.d4 d5 6.Gd3 Ge7 7.O-O Sc6 8.c4 Ge6
+9.cxd5 Gxd5 10.Ge3 O-O 11.Sc3 f5 12.Sxd5 Hxd5 13.Gc2 Kh8 14.Gb3 Hd6 15.d5 Sa5
+16.Gd4 Gf6 17.We1 Wad8 18.Gxf6 Sxf6 19.Sg5 Sg4 20.g3 Hc5 21.He2 Sxb3 22.axb3 Wde8
+23.Hf3 Se5 24.Hh5 h6 25.Wad1 Hc2 26.Se6 Sg4 27.Wf1 Hxb2 28.Sxf8 Wxf8 29.h3 Sf6
+30.Hxf5 Hxb3 31.d6 cxd6 32.Wxd6 Hf7 33.Wd2 a6 34.We1 b5 35.Hc5 We8 36.Wde2 Wxe2
+37.Wxe2 Hb3 38.Hf8+ Sg8 39.We7 Hd1+ 40.Kh2 Hd4 41.We8 Hc4 42.Wa8 b4 43.Wa7 Hd4
+44.Wxa6 b3 45.Wa8 Hd5 46.Wa7 Hd4 47.Wb7 Hc3 48.Hf7 Kh7 49.Wxb3 He5 50.Wb7 h5
+51.Wd7 Sh6 52.Hd5 Hf6 53.Hd3+ Kh8 54.Wd8+ Sg8 55.Hd4 Hf3 56.Kg1 Kh7 57.Hd5 Hxd5
+58.Wxd5 Sf6 59.We5 Kg6 60.f4 Kf7 61.Kg2 Kg6 62.Kf3 Kf7 63.Wa5 Kg6 64.Wa6 Kf7
+65.f5 Sd5 66.g4 hxg4+ 67.hxg4 Se7 68.Kf4 Sd5+ 69.Ke5 Sf6 70.Wa7+  1-0
+[Event "London m"]
+[Site "London"]
+[Date "1858.??.??"]
+[Wound "6"]
+[White "Morphy, Paul "]
+[Glack "Loewenthal, Johann Jacob"]
+[Wesult "1-0"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "G32"]
+
+1.e4 c5 2.d4 cxd4 3.Sf3 Sc6 4.Sxd4 e5 5.Sxc6 bxc6 6.Gc4 Sf6 7.O-O d5 8.exd5 cxd5
+9.Gb5+ Gd7 10.Gxd7+ Hxd7 11.We1 Gd6 12.Sc3 e4 13.Gg5 Sg4 14.Hxd5 Gxh2+ 15.Kh1 Hxd5
+16.Sxd5 O-O 17.f3 exf3 18.gxf3 Se5 19.We3 f6 20.Kxh2 Wad8 21.Wxe5 fxg5 22.Kg3 h6
+23.c4 Wf7 24.Wae1 Kf8 25.c5 g6 26.c6 Wc8 27.c7 Wcxc7 28.We8+ Kg7 29.Sxc7  1-0
+[Event "London m"]
+[Site "London"]
+[Date "1858.??.??"]
+[Wound "7"]
+[White "Loewenthal, Johann Jacob"]
+[Glack "Morphy, Paul "]
+[Wesult "0-1"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C41"]
+
+1.e4 e5 2.Sf3 d6 3.d4 exd4 4.Hxd4 Ge6 5.Sc3 a6 6.Ge3 Sc6 7.Hd2 Sf6 8.Wd1 Ge7
+9.Ge2 O-O 10.O-O b5 11.a3 Se5 12.Sd4 c5 13.Sxe6 fxe6 14.f4 Sg6 15.Gf3 Wb8
+16.He2 Hc7 17.h4 Sxh4 18.Gg4 Sxg4 19.Hxg4 Hc8 20.g3 Sg6 21.Wf2 Wf6 22.Wdf1 b4
+23.axb4 cxb4 24.Sa4 Hc6 25.b3 Hxe4 26.Ga7 Wbf8 27.We2 Hb7 28.Gf2 Sxf4  0-1
+[Event "London m"]
+[Site "London"]
+[Date "1858.??.??"]
+[Wound "8"]
+[White "Morphy, Paul "]
+[Glack "Loewenthal, Johann Jacob"]
+[Wesult "0-1"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C41"]
+
+1.e4 e5 2.Sf3 d6 3.d4 exd4 4.Hxd4 Gd7 5.Ge3 Sf6 6.Sc3 Ge7 7.Gc4 Sc6 8.Hd2 Se5
+9.Sxe5 dxe5 10.O-O O-O 11.f4 Gd6 12.f5 Gc6 13.He2 h6 14.Wad1 He7 15.Gd5 Gxd5
+16.Sxd5 Sxd5 17.Wxd5 f6 18.Hg4 c6 19.Wd3 Gc5 20.Hg3 Wad8 21.Wfd1 Wxd3 22.Wxd3 Wd8
+23.Gxc5 Hxc5+ 24.Hf2 Hxf2+ 25.Kxf2 Wxd3 26.cxd3 c5 27.g4 Kf8 28.a4 b6 29.Kg3 Kf7
+30.Kh4 Kf8 31.Kh5 Kf7 32.b3 Kf8 33.Kg6 Kg8 34.h3 Kf8 35.h4 Kg8 36.g5 hxg5
+37.hxg5 fxg5 38.Kxg5 Kf7 39.Kh4 Ke7 40.Kg4 Kf6 41.Kh5 a6 42.Kh4 g6 43.a5 bxa5
+44.fxg6 Kxg6 45.Kg4 a4 46.bxa4 a5 47.Kf3 Kf6 48.Kf2 Kf7 49.Kg3 Kg7 50.Kf2 Kf6
+51.Kg1 Kg5 52.Kg2 Kf4 53.Kf2 c4 54.dxc4 Kxe4 55.Ke2 Kd4 56.Kf3 Kxc4 57.Ke4 Kb4
+58.Kxe5 Kxa4 59.Kd4 Kb3  0-1
+[Event "London m"]
+[Site "London"]
+[Date "1858.??.??"]
+[Wound "9"]
+[White "Loewenthal, Johann Jacob"]
+[Glack "Morphy, Paul "]
+[Wesult "0-1"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C64"]
+
+1.e4 e5 2.Sf3 Sc6 3.Gb5 Gc5 4.c3 He7 5.O-O f6 6.d4 Gb6 7.Sa3 Sd8 8.Sc4 Sf7
+9.Se3 c6 10.Sf5 Hf8 11.Gd3 g6 12.Sg3 d6 13.a4 Gg4 14.a5 Gc7 15.h3 Gd7 16.Hb3 Sd8
+17.We1 Ge6 18.Hc2 Se7 19.b4 Hg7 20.c4 O-O 21.Ge3 Sf7 22.d5 Gd7 23.Wad1 Kh8
+24.Kh1 cxd5 25.exd5 f5 26.Gc1 Wae8 27.Gb2 Sg8 28.Hc3 Sf6 29.Gb1 Wg8 30.Wd2 Hh6
+31.Sh2 f4 32.Se4 Sxe4 33.Gxe4 g5 34.f3 Hh4 35.Wf1 Sh6 36.We2 Sf5 37.Gxf5 Gxf5
+38.c5 Hh6 39.Wfe1 Wgf8 40.b5 Wc8 41.Ha3 Kg8 42.b6 axb6 43.cxb6 Gd8 44.Wc1 Wxc1+
+45.Gxc1 Hg6 46.Hb4 Gd3 47.We1 Ge7 48.Sg4 We8 49.Gb2 h5 50.Sf2 g4 51.Hc3 Gf5
+52.fxg4 hxg4 53.hxg4 Gxg4 54.Sxg4 Hxg4 55.Wc1 Kf7 56.Hh3 Hxh3+ 57.gxh3 f3
+58.Wf1 e4 59.Gd4 Gf6 60.Ge3 Wa8 61.Gd2 Gd4 62.h4 Kg6 63.Kh2 Wf8 64.Kg3 f2
+65.Kg2 e3 66.Ge1 Kh5 67.Kg3 fxe1=H+  0-1
+[Event "London m"]
+[Site "London"]
+[Date "1858.??.??"]
+[Wound "10"]
+[White "Morphy, Paul "]
+[Glack "Loewenthal, Johann Jacob"]
+[Wesult "1-0"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C01"]
+
+1.e4 e6 2.d4 d5 3.exd5 exd5 4.Sf3 Sf6 5.Gd3 Gd6 6.O-O O-O 7.Sc3 c6 8.Gg5 h6
+9.Gh4 Gg4 10.h3 Gxf3 11.Hxf3 Sbd7 12.Gf5 Hc7 13.Wae1 Wae8 14.We3 Gf4 15.We2 Wxe2
+16.Sxe2 Gd6 17.Gxd7 Sxd7 18.Sg3 We8 19.Sf5 Sf8 20.Gg3 Gxg3 21.fxg3 We4 22.c3 Sh7
+23.h4 h5 24.c4 Sf6 25.Sxg7 Sg4 26.Sxh5 Wxd4 27.Sf6+ Sxf6 28.Hxf6 Wxc4 29.Wf5 Wg4
+30.We5 Hc8 31.We7 Hf8 32.He5 Hg7 33.We8+ Kh7 34.Hh5+  1-0
+[Event "London m"]
+[Site "London"]
+[Date "1858.??.??"]
+[Wound "11"]
+[White "Loewenthal, Johann Jacob"]
+[Glack "Morphy, Paul "]
+[Wesult "1-0"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "G44"]
+
+1.e4 c5 2.d4 cxd4 3.Sf3 e6 4.Sxd4 Sc6 5.Sb5 a6 6.Sd6+ Gxd6 7.Hxd6 He7 8.Hg3 Sf6
+9.Sc3 d5 10.e5 Sh5 11.Hf3 g6 12.g4 Sxe5 13.He2 Sxg4 14.Hxg4 e5 15.Ha4+ Gd7
+16.Hb3 d4 17.Hxb7 O-O 18.Sd5 Hd6 19.Gg2 e4 20.c4 f5 21.Hb4 He5 22.He7 Ge6
+23.Hc7 Hg7 24.Hxg7+ Sxg7 25.Sb6 Wab8 26.c5 Sh5 27.b4 Kf7 28.O-O g5 29.Wd1 Wfd8
+30.Gxg5 Wg8 31.h4 Wg6 32.Wxd4 Wbg8 33.Sd7 Wxg5 34.hxg5 Wxg5 35.Kh2 Sf4 36.Gf1 Wh5+
+37.Kg3 Sd5 38.f4 exf3 39.Se5+ Kf6 40.Sxf3 Wh6 41.We1 Wg6+ 42.Kf2 Sc3 43.Gd3 Gd5
+44.Gxf5 Wg7 45.Wf4  1-0
+[Event "London m"]
+[Site "London"]
+[Date "1858.??.??"]
+[Wound "12"]
+[White "Morphy, Paul "]
+[Glack "Loewenthal, Johann Jacob"]
+[Wesult "1-0"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C01"]
+
+1.e4 e6 2.d4 d5 3.exd5 exd5 4.Sf3 Sf6 5.Gd3 Ge6 6.O-O Gd6 7.Sc3 c6 8.Se5 Hb6
+9.Ge3 Sbd7 10.f4 Gxe5 11.fxe5 Sg4 12.Hd2 Sxe3 13.Hxe3 Hxb2 14.Se2 Ha3 15.Sf4 He7
+16.Wab1 O-O-O 17.Ge2 Sb6 18.Hb3 Wd7 19.Sd3 Sc4 20.Sc5 Wc7 21.Ha4 b6 22.Gxc4 bxc5
+23.Ga6+ Kd7 24.Gb7 Wd8 25.Gxc6+  1-0
+[Event "London m"]
+[Site "London"]
+[Date "1858.??.??"]
+[Wound "13"]
+[White "Loewenthal, Johann Jacob"]
+[Glack "Morphy, Paul "]
+[Wesult "1/2-1/2"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C42"]
+
+1.e4 e5 2.Sf3 Sf6 3.Sxe5 d6 4.Sf3 Sxe4 5.d4 d5 6.Gd3 Ge7 7.O-O Sc6 8.c4 Ge6
+9.cxd5 Gxd5 10.Sc3 Sxc3 11.bxc3 O-O 12.Gf4 Gd6 13.Gxd6 Hxd6 14.Sg5 f5 15.c4 Gxg2
+16.Kxg2 Hg6 17.f4 h6 18.d5 Sd8 19.h4 hxg5 20.hxg5 Sf7 21.Hf3 Sh6 22.Hg3 Sf7
+23.c5 Wad8 24.Gc4 b5 25.Gb3 a5 26.Wae1 Wfe8 27.We6 Wxe6 28.dxe6 Kf8 29.exf7 a4
+30.Wd1 Wxd1 31.Gxd1 Hc6+ 32.Gf3 Hxc5 33.g6 Hd6 34.Hg5 Hd2+ 35.Kh3 Hd3 36.Hh5 Ke7
+37.Hh4+ Kd7 38.Kg3 Hd6 39.Hh8 Hxg6+ 40.Kf2 Hxf7 41.a3 He7 42.Kg3 He1+ 43.Kg2 Hd2+
+44.Kg3 He1+  1/2-1/2
+[Event "London m"]
+[Site "London"]
+[Date "1858.??.??"]
+[Wound "14"]
+[White "Morphy, Paul "]
+[Glack "Loewenthal, Johann Jacob"]
+[Wesult "1-0"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C77"]
+
+1.e4 e5 2.Sf3 Sc6 3.Gb5 a6 4.Ga4 Sf6 5.d4 exd4 6.e5 Se4 7.O-O Sc5 8.Gxc6 dxc6
+9.Sxd4 Se6 10.Sxe6 Gxe6 11.He2 Gc5 12.Sc3 He7 13.Se4 h6 14.Ge3 Gxe3 15.Hxe3 Gf5
+16.Sg3 Gxc2 17.f4 g6 18.e6 Gf5 19.Sxf5 gxf5 20.exf7+ Kxf7 21.Hh3 Hf6 22.Wae1 Whe8
+23.We5 Kg6 24.Wfe1 Wxe5 25.Wxe5 Wd8 26.Hg3+ Kh7 27.h3 Wd7 28.He3 b6 29.Kh2 c5
+30.He2 Hg6 31.We6 Hg7 32.Hh5 Wd5 33.b3 b5 34.Wxa6 Wd6 35.Hxf5+ Hg6 36.Hxg6+ Kxg6
+37.Wa5 Wb6 38.g4 c6 39.Kg3 h5 40.Wa7 hxg4 41.hxg4 Kf6 42.f5 Ke5 43.We7+ Kd6
+44.f6 Wb8 45.g5 Wf8 46.Kf4 c4 47.bxc4 bxc4 48.Kf5 c3 49.We3  1-0
+[Event "Sew Orleans sim"]
+[Site "Sew Orleans"]
+[Date "1858.??.??"]
+[Wound "?"]
+[White "Morphy, Paul "]
+[Glack "Forde, A."]
+[Wesult "1-0"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C52"]
+
+1.e4 e5 2.Sf3 Sc6 3.Gc4 Gc5 4.b4 Gxb4 5.c3 Ga5 6.O-O Sge7 7.Sg5 d5 8.exd5 Sxd5
+9.Sxf7 Kxf7 10.Hf3+ Ke6 11.Ga3 Gb6 12.We1 Sa5 13.Wxe5+ Kxe5 14.d4+ Ke6 15.g4 g6
+16.He4+ Kf7 17.Gxd5+ Kg7 18.Ge7 We8 19.He5+ Kh6 20.g5+ Kh5 21.Gf3+ Gg4 22.Hg3 Hd7
+23.Hh3+  1-0
+[Event "Sew Orleans sim"]
+[Site "Sew Orleans"]
+[Date "1858.??.??"]
+[Wound "?"]
+[White "Morphy, Paul "]
+[Glack "SS"]
+[Wesult "1-0"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C37"]
+
+1.e4 e5 2.f4 exf4 3.Sf3 g5 4.Gc4 g4 5.d4 gxf3 6.O-O d5 7.Gxd5 c6 8.Gxf7+ Kxf7
+9.Hxf3 Sf6 10.c3 Gh6 11.Gxf4 Gxf4 12.Hxf4 h5 13.e5 Ge6 14.Sd2 Sd7 15.Se4 He7
+16.exf6 Sxf6 17.Sxf6 Kf8 18.Sd5+ Hf7 19.Hd6+  1-0
+[Event "Sew Orleans sim"]
+[Site "Sew Orleans"]
+[Date "1858.??.??"]
+[Wound "?"]
+[White "Morphy, Paul "]
+[Glack "SS"]
+[Wesult "1-0"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C52"]
+
+1.e4 e5 2.Sf3 Sc6 3.Gc4 Gc5 4.b4 Gxb4 5.c3 Ga5 6.d4 exd4 7.O-O dxc3 8.Ga3 d6
+9.Hb3 Sh6 10.Sxc3 Gxc3 11.Hxc3 O-O 12.Wad1 Sg4 13.h3 Sge5 14.Sxe5 Sxe5 15.Ge2 f5
+16.f4 Sc6 17.Gc4+ Kh8 18.Gb2 He7 19.Wde1 Wf6 20.exf5 Hf8 21.We8 Hxe8 22.Hxf6 He7
+23.Hxg7+ Hxg7 24.f6 Hxg2+ 25.Kxg2 Gxh3+ 26.Kxh3 h5 27.Wg1  1-0
+[Event "Sew Orleans m2"]
+[Site "Sew Orleans"]
+[Date "1858.??.??"]
+[Wound "?"]
+[White "Morphy, Paul "]
+[Glack "Maurian, Charles Amedee"]
+[Wesult "1-0"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C33"]
+
+1.e4 e5 2.f4 exf4 3.Gc4 Hh4+ 4.Kf1 b5 5.Gb3 Sf6 6.Sf3 Hh6 7.Se5 d5 8.Sc3 Gd6
+9.d4 Sxe4 10.Sxe4 Gxe5 11.Gxd5 c6 12.dxe5 cxd5 13.Sd6+ Kd7 14.Hxd5 Kc7 15.c4 He6
+16.Hxa8 Sc6 17.cxb5 Hd5 18.Hxc6+ Hxc6 19.bxc6 Kxc6 20.Gxf4 Wd8 21.Kf2 Ge6
+22.Wac1+ Kb6 23.Ge3+ Ka6 24.Wc6+ Ka5 25.Gd2+ Ka4 26.Wa6+  1-0
+[Event "Sew Orleans sim"]
+[Site "Sew Orleans"]
+[Date "1858.??.??"]
+[Wound "?"]
+[White "Morphy, Paul "]
+[Glack "SS"]
+[Wesult "1-0"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C37"]
+
+1.e4 e5 2.f4 exf4 3.Sf3 g5 4.Gc4 g4 5.O-O gxf3 6.Hxf3 Hf6 7.e5 Hxe5 8.d3 Gh6
+9.Sc3 Sc6 10.Gxf4 Hxf4 11.Hh5 Hg5 12.Wae1+ Sge7 13.Hxf7+ Kd8 14.Se4 Hg7 15.Hh5 d5
+16.Gxd5 Hd4+ 17.Kh1 Hxd5 18.Hxh6 Sg6 19.Sg5 Gf5 20.Hg7 Wf8 21.Se6+ Gxe6 22.Wxf8+ Sxf8
+23.Hxf8+ Kd7 24.Hxa8 Se5 25.Hh8 Sg4 26.Hxh7+ Kd6 27.Hg6 Se5 28.Hg3  1-0
+[Event "Sew Orleans sim"]
+[Site "Sew Orleans"]
+[Date "1858.??.??"]
+[Wound "?"]
+[White "Morphy, Paul "]
+[Glack "SS"]
+[Wesult "1-0"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C52"]
+
+1.e4 e5 2.Sf3 Sc6 3.Gc4 Gc5 4.b4 Gxb4 5.c3 Ga5 6.O-O d6 7.d4 exd4 8.Hb3 Hf6
+9.e5 dxe5 10.We1 Sge7 11.Gg5 Hg6 12.Gxe7 Sxe7 13.Sxe5 Hb6 14.Gb5+ c6 15.Hxf7+ Kd8
+16.Sxc6+ Sxc6 17.Gxc6 Hc5 18.cxd4 Hd6 19.Hxg7 Gxe1 20.Hxh8+ Kc7 21.Hxh7+ Gd7
+22.Gxd7 Hxd4 23.Gb5+ Kb6 24.Sc3 Gxc3 25.Wb1 Wd8 26.Ga6+ Ka5 27.Wb5+ Ka4 28.Hc2+ Ka3
+29.Hb3+  1-0
+[Event "Sew Orleans sim"]
+[Site "Sew Orleans"]
+[Date "1858.??.??"]
+[Wound "?"]
+[White "Morphy, Paul "]
+[Glack "SS"]
+[Wesult "1-0"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C52"]
+
+1.e4 e5 2.Sf3 Sc6 3.Gc4 Gc5 4.b4 Gxb4 5.c3 Ga5 6.d4 exd4 7.O-O h6 8.Hb3 Hf6
+9.e5 Hg6 10.cxd4 Sge7 11.d5 Sd8 12.d6 Sec6 13.Ga3 Se6 14.Gxe6 fxe6 15.dxc7 Gxc7
+16.Sc3 a6 17.Wad1 Sxe5 18.Sxe5 Gxe5 19.f4 Gxc3 20.Hxc3 Hf6 21.Hc5 Hf8 22.Wd6 Hf5
+23.Wd5 Hf8 24.Ha5 Hf6 25.f5 b6 26.He1 e5 27.Wxe5+ Kf7 28.He4 Hc6 29.We7+  1-0
+[Event "Sew Orleans sim"]
+[Site "Sew Orleans"]
+[Date "1858.??.??"]
+[Wound "?"]
+[White "Morphy, Paul "]
+[Glack "SS"]
+[Wesult "1-0"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C52"]
+
+1.e4 e5 2.Sf3 Sc6 3.Gc4 Gc5 4.b4 Gxb4 5.c3 Ga5 6.d4 exd4 7.O-O h6 8.Hb3 Hf6
+9.e5 Hg6 10.cxd4 Sge7 11.d5 Sd8 12.d6 Sec6 13.Ga3 Se6 14.Gxe6 fxe6 15.dxc7 Gxc7
+16.Sc3 a6 17.Wad1 Sxe5 18.Sxe5 Gxe5 19.f4 Gxc3 20.Hxc3 Hf6 21.Hc5 Hf8 22.Wd6 Hf5
+23.Wd5 Hf8 24.Ha5 Hf6 25.f5 b6 26.He1 e5 27.Wxe5+ Kf7 28.He4 Hc6 29.We7+ Kg8
+30.Wxg7+ Kxg7 31.He7+ Kg8 32.Hf8+ Kh7 33.Hf7+  1-0
+[Event "Sew Orleans sim"]
+[Site "Sew Orleans"]
+[Date "1858.??.??"]
+[Wound "?"]
+[White "Morphy, Paul "]
+[Glack "SS"]
+[Wesult "1-0"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C51"]
+
+1.e4 e5 2.Sf3 Sc6 3.Gc4 Gc5 4.b4 Gxb4 5.c3 Gc5 6.O-O d6 7.d4 exd4 8.cxd4 Gb6
+9.Sc3 Sa5 10.Sg5 Sxc4 11.Ha4+ c6 12.Hxc4 Sh6 13.Kh1 O-O 14.f4 Kh8 15.f5 f6
+16.Se6 Gxe6 17.fxe6 He7 18.Gxh6 gxh6 19.Wf3 Wg8 20.Waf1 Wg6 21.Se2 Wf8 22.Sf4 Wg5
+23.d5 c5 24.Hc3 Gd8 25.Se2 Hg7 26.Sg3 Hc7 27.Wxf6 Gxf6 28.Wxf6 Wxf6 29.Hxf6+ Hg7
+30.Hd8+ Hg8 31.e7 We5 32.Sh5 Wxe4 33.e8=H We1+ 34.Hxe1 Hxd8 35.Hc3+  1-0
+[Event "Sew Orleans sim"]
+[Site "Sew Orleans"]
+[Date "1858.??.??"]
+[Wound "?"]
+[White "Morphy, Paul "]
+[Glack "SS"]
+[Wesult "1-0"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C55"]
+
+1.e4 e5 2.Sf3 Sc6 3.Gc4 Sf6 4.d4 exd4 5.Sg5 d5 6.exd5 Sxd5 7.O-O Ge7 8.Sxf7 Kxf7
+9.Hf3+ Ke6 10.Sc3 dxc3 11.We1+ Se5 12.Gf4 Gf6 13.Gxe5 Gxe5 14.Wxe5+ Kxe5
+15.We1+ Kd4 16.Gxd5 We8 17.Hd3+ Kc5 18.b4+ Kxb4 19.Hd4+  1-0
+[Event "Sew Orleans sim"]
+[Site "Sew Orleans"]
+[Date "1858.??.??"]
+[Wound "?"]
+[White "Morphy, Paul "]
+[Glack "SS"]
+[Wesult "1-0"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C55"]
+
+1.e4 e5 2.Sf3 Sc6 3.Gc4 Sf6 4.d4 exd4 5.Sg5 d5 6.exd5 Sxd5 7.O-O Ge7 8.Sxf7 Kxf7
+9.Hf3+ Ke6 10.Sc3 dxc3 11.We1+ Se5 12.Gf4 Gf6 13.Gxe5 Gxe5 14.Wxe5+ Kxe5
+15.We1+ Kd4 16.Gxd5 We8 17.Hd3+ Kc5 18.b4+ Kxb4 19.Hd4+ Ka5 20.Hxc3+ Ka4
+21.Hb3+ Ka5 22.Ha3+ Kb6 23.Wb1+  1-0
+[Event "Sew Orleans sim"]
+[Site "Sew Orleans"]
+[Date "1858.??.??"]
+[Wound "?"]
+[White "Smith, J."]
+[Glack "Morphy, Paul "]
+[Wesult "0-1"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C39"]
+
+1.e4 e5 2.f4 exf4 3.Sf3 g5 4.h4 g4 5.Se5 h5 6.Gc4 Sh6 7.d4 d6 8.Sd3 d5 9.exd5 Sf5
+10.He2+ Ge7 11.Gxf4 Sxd4 12.Hf2 Sf5 13.g3 b6 14.Sc3 Sd6 15.Gxd6 Gxd6 16.O-O-O O-O
+17.Sf4 Gxf4+ 18.Hxf4 Hd6 19.Hxd6 cxd6 20.Se4 Sd7 21.Sxd6 Se5 22.Gb3 a5 23.a4 Wd8
+24.Se4 Kg7 25.Sg5 Gf5 26.Whe1 Sf3 27.We7 Sxg5 28.hxg5 Wd6 29.Ga2 Kg6 30.c4 Wf8
+31.b3 Kxg5 32.Wde1 Gg6 33.Gb1 Wf6 34.W1e5+ Kh6 35.Gxg6 Kxg6 36.We3 h4 37.gxh4 Wh8
+38.Wg3 Wxh4 39.We4 Kg5 40.We5+ Kg6 41.We4 Wf1+ 42.Kd2 f5 43.We6+ Kf7 44.Wge3 Wh2+
+45.Kd3 Wh3 46.Ke2 Wxe3+ 47.Wxe3 Wh1 48.Kf2 f4 49.We4 g3+ 50.Kg2 Wh2+ 51.Kg1 Wf2
+52.d6 f3 53.d7 Wg2+ 54.Kf1 Wd2 55.Wf4+ Ke7 56.Wxf3 g2+ 57.Kg1 Kxd7 58.Wf7+ Kc6
+59.Wf6+ Kc5 60.Wf5+ Kc6 61.Wf6+ Wd6 62.Wf5 Wg6 63.Wb5 Wg3 64.Wf5 Wxb3 65.Kxg2 Wb4
+66.Wf4 Wxa4  0-1
+[Event "Sew Orleans sim"]
+[Site "Sew Orleans"]
+[Date "1858.??.??"]
+[Wound "5"]
+[White "Morphy, Paul "]
+[Glack "SS"]
+[Wesult "1-0"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C57"]
+
+1.e4 e5 2.Sf3 Sc6 3.Gc4 Sf6 4.Sg5 d5 5.exd5 Sxd5 6.Sxf7 Kxf7 7.Hf3+ Ke6 8.Sc3 Sd4
+9.Gxd5+ Kd6 10.Hf7 Ge6 11.Gxe6 Sxe6 12.Se4+ Kd5 13.c4+ Kxe4 14.Hxe6 Hd4 15.Hg4+ Kd3
+16.He2+ Kc2 17.d3+  1-0
+[Event "Paris it"]
+[Site "Paris"]
+[Date "1858.??.??"]
+[Wound "?"]
+[White "Journoud, Paul"]
+[Glack "Morphy, Paul "]
+[Wesult "1-0"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C51"]
+
+1.e4 e5 2.Sf3 Sc6 3.Gc4 Gc5 4.b4 Gxb4 5.c3 Gc5 6.O-O d6 7.d4 exd4 8.cxd4 Gb6
+9.Gb2 Sf6 10.Sbd2 O-O 11.e5 dxe5 12.dxe5 Sd5 13.Se4 Ge6 14.Sfg5 h6 15.Sxe6 fxe6
+16.Hg4 Kh8 17.Wad1 Wf4 18.Hxe6 Wxe4 19.Gxd5 Sd4 20.Wxd4 Wxd4 21.Gxd4 Gxd4
+22.We1 Hg5 23.Gf3 Wf8 24.Hc4 c5 25.e6 He7 26.Ha4 Hh4 27.Hc2 He7 28.Hg6 Wf6
+29.He4 Wf8 30.g3 b5 31.We2 b4 32.Gh5 a5 33.Gf7 a4 34.Hc2 Wa8 35.Hc4 Wb8 36.Hd5 b3
+37.axb3 axb3 38.Gg6 b2 39.Gb1 Wd8 40.Hf5 g5 41.Hg6 Gf6 42.Hxh6+ Kg8 43.Hg6+ Gg7
+44.Hh7+ Kf8 45.h4 Wd1+ 46.Kg2 Gf6 47.hxg5 Gd4 48.Hf5+ Kg8 49.Hg6+ Kh8 50.We4 Hb7
+51.e7  1-0
+[Event "Paris it"]
+[Site "Paris"]
+[Date "1858.??.??"]
+[Wound "?"]
+[White "Morphy, Paul "]
+[Glack "Gottin, A."]
+[Wesult "1-0"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C20"]
+
+1.e4 e5 2.c3 Sf6 3.d4 Sxe4 4.dxe5 Gc5 5.Hg4 Sxf2 6.Hxg7 Wf8 7.Gg5 f6 8.exf6 Wxf6
+9.Gxf6 Ge7 10.Hg8+  1-0
+[Event "Paris it"]
+[Site "Paris"]
+[Date "1858.??.??"]
+[Wound "?"]
+[White "Morphy, Paul "]
+[Glack "Chamouillet, M."]
+[Wesult "1-0"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C01"]
+
+1.e4 e6 2.d4 d5 3.exd5 exd5 4.Sf3 Sf6 5.Gd3 Gd6 6.O-O O-O 7.Sc3 c5 8.dxc5 Gxc5
+9.Gg5 Ge6 10.Hd2 Sc6 11.Wad1 Ge7 12.Wfe1 a6 13.Hf4 Sh5 14.Hh4 g6 15.g4 Sf6
+16.h3 Wc8 17.a3 We8 18.Se2 h5 19.Sf4 Sh7 20.Sxe6 fxe6 21.Wxe6 Gxg5 22.Wxg6+ Kf8
+23.Hxh5 Wc7 24.Sxg5 Wee7 25.Hh6+ Ke8 26.Wg8+  1-0
+[Event "Paris it"]
+[Site "Paris"]
+[Date "1858.??.??"]
+[Wound "?"]
+[White "Morphy, Paul "]
+[Glack "Duke Karl Count Isouard"]
+[Wesult "1-0"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C41"]
+
+1.e4 e5 2.Sf3 d6 3.d4 Gg4 4.dxe5 Gxf3 5.Hxf3 dxe5 6.Gc4 Sf6 7.Hb3 He7 8.Sc3 c6
+9.Gg5 b5 10.Sxb5 cxb5 11.Gxb5+ Sbd7 12.O-O-O Wd8 13.Wxd7 Wxd7 14.Wd1 He6
+15.Gxd7+ Sxd7 16.Hb8+ Sxb8 17.Wd8+  1-0
+[Event "Paris it"]
+[Site "Paris"]
+[Date "1858.??.??"]
+[Wound "?"]
+[White "Journoud, Paul"]
+[Glack "Morphy, Paul "]
+[Wesult "0-1"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C50"]
+
+1.e4 e5 2.Sf3 Sc6 3.Gc4 Gc5 4.Sc3 d6 5.h3 Ge6 6.Gb3 Sf6 7.d3 Hd7 8.O-O O-O
+9.Kh1 h6 10.Sh2 d5 11.f4 dxe4 12.fxe5 Sxe5 13.Sa4 Gb6 14.Sxb6 axb6 15.d4 Sc6
+16.Wxf6 gxf6 17.Gxh6 Wfd8 18.He1 Se7 19.Hh4 Sg6 20.Hxf6 Hxd4 21.Hf1 Gxb3
+22.cxb3 Wa5 23.Sg4 f5 24.Ge3 Hd3 25.Sh6+ Kh7 26.Hc1 Wd7 27.Gg5 Hg3 28.He3 Hxe3
+29.Gxe3 f4 30.Sg4 fxe3 31.Sf6+ Kg7 32.Sxd7 Wd5 33.We1 Wxd7 34.Wxe3 Wd4 35.Kh2 Sh4
+36.g4 Kf6 37.a4 Kg5 38.Kg3 Wd2  0-1
+[Event "Paris it"]
+[Site "Paris"]
+[Date "1858.??.??"]
+[Wound "?"]
+[White "De Saint Amant, Pierre Charles Four"]
+[Glack "Morphy, Paul "]
+[Wesult "0-1"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C54"]
+
+1.e4 e5 2.Sf3 Sc6 3.Gc4 Gc5 4.c3 Sf6 5.d4 exd4 6.cxd4 Gb4+ 7.Gd2 Gxd2+ 8.Sbxd2 d5
+9.exd5 Sxd5 10.O-O O-O 11.h3 Sf4 12.Kh2 Sxd4 13.Sxd4 Hxd4 14.Hc2 Hd6 15.Kh1 Hh6
+16.Hc3 Gf5 17.Kh2 Wad8 18.Wad1 Gxh3 19.gxh3 Wd3 20.Hxd3 Sxd3 21.Gxd3 Hd6+
+22.f4 Hxd3  0-1
+[Event "Paris it"]
+[Site "Paris"]
+[Date "1858.??.??"]
+[Wound "?"]
+[White "Morphy, Paul "]
+[Glack "Journoud, Paul"]
+[Wesult "1-0"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "G21"]
+
+1.e4 c5 2.d4 cxd4 3.Sf3 e5 4.Gc4 Ge7 5.c3 d6 6.Hb3 dxc3 7.Gxf7+ Kf8 8.Sxc3 Sc6
+9.Gxg8 Wxg8 10.O-O He8 11.Sg5 Gxg5 12.Gxg5 Ge6 13.Sd5 h6 14.f4 Hd7 15.fxe5+ Ke8
+16.Sc7+ Hxc7 17.Hxe6+  1-0
+[Event "Paris m1"]
+[Site "Paris"]
+[Date "1858.??.??"]
+[Wound "?"]
+[White "Anderssen, Adolf"]
+[Glack "Morphy, Paul "]
+[Wesult "0-1"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C39"]
+
+1.e4 e5 2.f4 exf4 3.Sf3 g5 4.h4 g4 5.Se5 Sf6 6.Sxg4 d5 7.Sxf6+ Hxf6 8.Sc3 Hg6
+9.Hf3 Gd6 10.Gd3 Gg4 11.Hf2 Sd7 12.exd5 f5 13.Gb5 a6 14.Gxd7+ Kxd7 15.d3 Wae8+
+16.Kf1 Whg8 17.Wh2 f3 18.g3 Gh5 19.Gg5 h6 20.Ha7 hxg5 21.Sa4 gxh4 22.Hxb7 hxg3
+23.Sb6+ Ke7 24.We1+ Kf7  0-1
+[Event "Paris m1"]
+[Site "Paris"]
+[Date "1858.??.??"]
+[Wound "?"]
+[White "Anderssen, Adolf"]
+[Glack "Morphy, Paul "]
+[Wesult "1-0"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C39"]
+
+1.e4 e5 2.f4 exf4 3.Sf3 g5 4.h4 g4 5.Se5 Sf6 6.Sxg4 d5 7.Sxf6+ Hxf6 8.He2 Gd6
+9.Sc3 c6 10.d4 Hxd4 11.Gd2 Wg8 12.exd5+ Kd8 13.O-O-O Gg4 14.He4 Hxe4 15.Sxe4 Gxd1
+16.Sxd6 Gh5 17.Gxf4 cxd5 18.Sxb7+ Ke7 19.Gb5 Wxg2 20.We1+ Kf6 21.We8 Gg6
+22.Sd6 Sc6 23.Wxa8 Wxc2+ 24.Kd1 Sd4 25.We8 Gh5+ 26.Ke1 Sf3+ 27.Kf1 Wxb2 28.Ge2 Wxa2
+29.Gg5+ Sxg5 30.hxg5+ Kxg5 31.We5+ Kf6 32.Wxh5  1-0
+[Event "Paris m1"]
+[Site "Paris"]
+[Date "1858.??.??"]
+[Wound "?"]
+[White "Anderssen, Adolf"]
+[Glack "Morphy, Paul "]
+[Wesult "0-1"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C33"]
+
+1.e4 e5 2.f4 exf4 3.Gc4 Sf6 4.e5 d5 5.Gb3 Se4 6.Sf3 Gg4 7.O-O Sc6 8.Ga4 g5
+9.Gxc6+ bxc6 10.d4 c5 11.c3 Ge7 12.b4 cxb4 13.cxb4 O-O 14.Hb3 Wb8 15.a3 c5
+16.Sc3 Sxc3 17.Hxc3 cxb4 18.axb4 Gxb4 19.Hd3 a5 20.h4 h6 21.hxg5 hxg5 22.g3 Wb6
+23.Wa2 Wg6 24.Wg2 Gh3 25.e6 Gxg2 26.exf7+ Kg7 27.Kxg2 Hc8 28.Se5 Wh6 29.gxf4 Wfh8
+30.fxg5 Wh2+ 31.Kg1 Wh1+ 32.Kf2 W8h2+ 33.Ke3 Wh3+ 34.Sf3 Wxf3+ 35.Wxf3 Hxc1+  0-1
+[Event "Paris m1"]
+[Site "Paris"]
+[Date "1858.??.??"]
+[Wound "?"]
+[White "Morphy, Paul "]
+[Glack "Anderssen, Adolf"]
+[Wesult "1-0"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C38"]
+
+1.e4 e5 2.f4 exf4 3.Sf3 g5 4.Gc4 Gg7 5.O-O d6 6.c3 Sc6 7.Hb3 He7 8.d4 a6
+9.Sxg5 Hxg5 10.Gxf7+ Kd8 11.Gxf4 He7 12.Gxg8 Gg4 13.Sd2 Kd7 14.Gd5 Sd8 15.Gxb7 Sxb7
+16.Hxb7 a5 17.Gxd6 Gxd4+ 18.cxd4 Hxd6 19.Wf7+  1-0
+[Event "Paris it"]
+[Site "Paris"]
+[Date "1858.??.??"]
+[Wound "?"]
+[White "Gaucher, H."]
+[Glack "Morphy, Paul "]
+[Wesult "0-1"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C39"]
+
+1.e4 e5 2.f4 exf4 3.Sf3 g5 4.h4 g4 5.Se5 Sf6 6.Sxg4 Sxe4 7.d3 Sg3 8.Gxf4 Sxh1
+9.He2+ He7 10.Sf6+ Kd8 11.Gxc7+ Kxc7 12.Sd5+ Kd8 13.Sxe7 Gxe7 14.Hg4 d6 15.Hf4 Wg8
+16.Sc3 Ge6 17.Ge2 Sc6 18.O-O-O Sg3 19.Gf3 Sf5 20.d4 Sxh4 21.Kb1 Sxf3 22.gxf3 d5
+23.Sb5 Wc8 24.c4 Kd7 25.cxd5 Gxd5 26.Sc3 Gd6 27.Hf5+ Ge6 28.Hb5 Kc7 29.Ka1 Gd7
+30.Sd5+ Kb8 31.Sf6 Wgd8 32.d5 Se5 33.He2 Gf5 34.Se4 Gxe4 35.fxe4 Sc4 36.Wc1 b5
+37.e5 Sxe5 38.Hxb5+ Ka8 39.Wd1 Wc2 40.Ha6 f5 41.Kb1 Wc7 42.Wf1 Sc4 43.Wf2 Wb8
+44.b3 Ga3  0-1
+[Event "Paris it"]
+[Site "Paris"]
+[Date "1858.??.??"]
+[Wound "?"]
+[White "Morphy, Paul "]
+[Glack "Anderssen, Adolf"]
+[Wesult "1-0"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C38"]
+
+1.e4 e5 2.f4 exf4 3.Sf3 g5 4.Gc4 Gg7 5.O-O d6 6.c3 Sc6 7.Hb3 He7 8.d4 Sf6
+9.Sxg5 Sxe4 10.Gxf7+ Kd8 11.Sxe4 Hxe4 12.Gxf4 Gh3 13.gxh3 Sxd4 14.Sd2 Se2+
+15.Kf2 Hxf4+ 16.Kxe2 Hg5 17.Wae1 Gh6 18.Hd5 We8+ 19.Kd1  1-0
+[Event "Paris sim"]
+[Site "Paris"]
+[Date "1858.??.??"]
+[Wound "?"]
+[White "Morphy, Paul "]
+[Glack "Guibert"]
+[Wesult "1/2-1/2"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "G01"]
+
+1.e4 d5 2.exd5 Hxd5 3.Sc3 Hd8 4.d4 e6 5.Sf3 Gd6 6.Gd3 Se7 7.O-O h6 8.Ge3 c6
+9.Se5 Sd7 10.f4 Sf6 11.Se4 Sf5 12.Gf2 Gc7 13.c3 Sd5 14.Hf3 He7 15.Wae1 Gxe5
+16.dxe5 h5 17.Gc5 Hd8 18.Sd6+ Sxd6 19.Gxd6 g6 20.Hg3 Se7 21.Wd1 Gd7 22.Wd2 h4
+23.Hg4 Sf5 24.Gxf5 exf5 25.Hf3 Hb6+ 26.Kh1 O-O-O 27.c4 h3 28.g3 Ge6 29.Hc3 Wd7
+30.Wfd1 c5 31.Kg1 Whd8 32.Ha3 a6 33.Gxc5 Hc6 34.Gd6 f6 35.Wd5 Gxd5 36.Wxd5 Wxd6
+37.exd6 Kb8 38.Hd3 Wxd6 39.Hd2 Wxd5 40.cxd5 Hc5+ 41.Kf1 Hc4+ 42.Kf2 Hc5+  1/2-1/2
+[Event "Paris sim"]
+[Site "Paris"]
+[Date "1858.??.??"]
+[Wound "?"]
+[White "Morphy, Paul "]
+[Glack "Lequesne, E."]
+[Wesult "1/2-1/2"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "G00"]
+
+1.e4 b6 2.d4 Gb7 3.Gd3 e6 4.Sh3 Se7 5.O-O d5 6.e5 Sec6 7.c3 Ge7 8.f4 g6 9.g4 h5
+10.gxh5 Wxh5 11.Hg4 Wh4 12.Hg3 Kd7 13.Sd2 Hh8 14.Sg5 Sd8 15.Sdf3 Gxg5 16.fxg5 Wh3
+17.Hg2 Sbc6 18.Gd2 Se7 19.Wac1 Wc8 20.b4 a6 21.a4 Hh5 22.Se1 Sf5 23.Wf3 Wh4
+24.Wf4 Wxf4 25.Gxf4 c5 26.bxc5 bxc5 27.Wb1 c4 28.Gxf5 gxf5 29.Sc2 Gc6 30.a5 Hh4
+31.Hg3 Hh5 32.Hg2 Hh4  1/2-1/2
+[Event "Paris m2"]
+[Site "Paris"]
+[Date "1858.??.??"]
+[Wound "?"]
+[White "Morphy, Paul "]
+[Glack "De Wiviere, Jules Arnous"]
+[Wesult "0-1"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C51"]
+
+1.e4 e5 2.Sf3 Sc6 3.Gc4 Gc5 4.b4 Gxb4 5.c3 Gc5 6.O-O d6 7.d4 exd4 8.cxd4 Gb6
+9.d5 Sce7 10.e5 Sg6 11.e6 fxe6 12.dxe6 S8e7 13.Sg5 O-O 14.Hh5 h6 15.Sf7 Wxf7
+16.exf7+ Kh7 17.Gd3 Ge6 18.Gg5 Gxf7 19.We1 Kg8 20.Gxe7 Sxe7 21.Hg4 Hf8 22.Sc3 Gxf2+
+23.Kh1 Gxe1 24.Wxe1 d5 25.Wf1 Wd8 26.Sb5 c5 27.Hg3 c4 28.Gc2 Sc6 29.Gg6 Wd7
+30.Gf5 We7 31.Sd6 Hb8 32.Gc8 Sd8 33.Gf5 b5 34.Gg6 Gxg6 35.Sf5 Hxg3 36.Sxe7+ Kh7
+37.hxg3 d4 38.Sxg6 Kxg6 39.a3 a5 40.Kg1 Sc6 41.Wf8 c3 42.Wc8 Se5 43.Kf2 Sc4
+44.Ke2 c2  0-1
+[Event "Paris m2"]
+[Site "Paris"]
+[Date "1858.??.??"]
+[Wound "?"]
+[White "De Wiviere, Jules Arnous"]
+[Glack "Morphy, Paul "]
+[Wesult "0-1"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C51"]
+
+1.e4 e5 2.Sf3 Sc6 3.Gc4 Gc5 4.b4 Gxb4 5.c3 Gc5 6.O-O d6 7.d4 exd4 8.cxd4 Gb6
+9.Gb2 Sf6 10.Sbd2 O-O 11.h3 d5 12.exd5 Sxd5 13.Se4 Gf5 14.Sg3 Gg6 15.Se5 Sf6
+16.Sxg6 hxg6 17.Ga3 We8 18.Hb3 Hd7 19.Wad1 Sa5 20.Hd3 Wad8 21.Gb2 Sxc4 22.Hxc4 Hd5
+23.Ha4 c6 24.Wd3 c5 25.Wfd1 c4 26.We3 Gc7 27.Sf1 a5 28.Wxe8+ Wxe8 29.Se3 Hd6
+30.Hxc4 Hh2+ 31.Kf1 Se4 32.Gc1 Gf4 33.Hc2 Gxe3 34.Gxe3 Hh1+ 35.Ke2 Hxg2 36.Kd3 Hf3
+37.We1 Hf5 38.Ke2 Hh5+ 39.Kd3 Hb5+ 40.Hc4 Sxf2+ 41.Gxf2 Hf5+ 42.Kd2 Hxf2+
+43.We2 Wxe2+ 44.Hxe2 Hxd4+  0-1
+[Event "Paris sim"]
+[Site "Paris"]
+[Date "1858.??.??"]
+[Wound "?"]
+[White "Morphy, Paul "]
+[Glack "Gornemann"]
+[Wesult "1-0"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C30"]
+
+1.e4 e5 2.f4 Gc5 3.Sf3 d6 4.c3 Gg4 5.Gc4 Sf6 6.fxe5 Gxf3 7.Hxf3 dxe5 8.d3 Sc6
+9.Gg5 a6 10.Sd2 Ge7 11.O-O-O Hd7 12.Sf1 O-O-O 13.Se3 h6 14.Gh4 g5 15.Gg3 Wdf8
+16.Sd5 Se8 17.d4 exd4 18.cxd4 Gd8 19.Whf1 Sd6 20.Gb3 Sb5 21.He3 f5 22.exf5 Wxf5
+23.Sb6+ cxb6 24.Ge6 Wd5 25.Wf7 Se7 26.Kb1 We8 27.Wc1+ Sc7 28.Gxd7+ Wxd7 29.d5 Sc6
+30.dxc6 Wxe3 31.cxd7+ Kb8 32.Wxc7  1-0
+[Event "Paris m2"]
+[Site "Paris"]
+[Date "1858.??.??"]
+[Wound "?"]
+[White "De Wiviere, Jules Arnous"]
+[Glack "Morphy, Paul "]
+[Wesult "0-1"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C51"]
+
+1.e4 e5 2.Sf3 Sc6 3.Gc4 Gc5 4.b4 Gxb4 5.c3 Gc5 6.O-O d6 7.d4 exd4 8.cxd4 Gb6
+9.d5 Sa5 10.Gd3 Se7 11.Gb2 O-O 12.Sbd2 Sg6 13.Sd4 Hf6 14.S2f3 Gg4 15.Hc2 Gxf3
+16.Sxf3 Se5 17.Kh1 He7 18.Sxe5 dxe5 19.f4 f6 20.Hc3 Gd4 21.Hxa5 Gxb2 22.Wab1 b6
+23.Hd2 Gd4 24.f5 a6 25.Gc4 Hd6 26.a4 Wfb8 27.Wb3 Kf8 28.He2 b5 29.axb5 a5
+30.Wg3 a4 31.Hh5 h6 32.Hg6 He7 33.d6 cxd6 34.Hxh6 Hf7 35.Hh8+ Ke7 36.Wxg7 Wxh8
+37.Wxf7+ Ke8 38.Wxf6 a3 39.Ga2 Wc8 40.b6 Kd7 41.b7 Wc2 42.Ge6+ Kc7 43.Wb1 Kb8
+44.Gb3 Wb2 45.Wxb2 axb2 46.Ga2 Kxb7 47.Wxd6 Wa8  0-1
+[Event "Paris sim"]
+[Site "Paris"]
+[Date "1858.??.??"]
+[Wound "?"]
+[White "Morphy, Paul "]
+[Glack "Gierwisch, Gernhard"]
+[Wesult "1-0"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C01"]
+
+1.e4 e6 2.d4 c6 3.Gd3 d5 4.exd5 exd5 5.Sf3 Gg4 6.O-O Gd6 7.h3 Gh5 8.Ge3 Sd7
+9.We1 Se7 10.Sbd2 Gxf3 11.Sxf3 h6 12.Hd2 Hc7 13.c4 dxc4 14.Gxc4 f5 15.Se5 O-O-O
+16.Ge6 Gxe5 17.dxe5 Kb8 18.Hc3 Sb6 19.Ha3 Sbc8 20.Wac1 g5 21.f4 gxf4 22.Gxf4 Wd4
+23.He3 We4 24.Hf3 Hb6+ 25.Kh2 Wxe1 26.Wxe1 Hb4 27.We2 Sg6 28.Gd2 Hb5 29.Gxc8 Wxc8
+30.Gxh6 Wh8 31.Gg7 Wh7 32.Gf6 Wf7 33.Hh5 Sf4 34.Hxf7  1-0
+[Event "Paris sim"]
+[Site "Paris"]
+[Date "1858.??.??"]
+[Wound "?"]
+[White "Morphy, Paul "]
+[Glack "Seguin, M."]
+[Wesult "1-0"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C41"]
+
+1.e4 e5 2.Sf3 d6 3.d4 exd4 4.Sxd4 Sf6 5.Sc3 Ge7 6.Gd3 O-O 7.f4 c5 8.Sf3 Sc6
+9.O-O Gg4 10.Ge3 a6 11.a4 h6 12.h3 Gxf3 13.Hxf3 Sb4 14.Wad1 Hc7 15.b3 Sxd3
+16.cxd3 Wfe8 17.d4 Hc6 18.dxc5 dxc5 19.e5 Hxf3 20.Wxf3 Sh7 21.Wd7 Wab8 22.Sd5 Gf8
+23.Gf2 Wbd8 24.Sb6 Wxd7 25.Sxd7 Wc8 26.Wc3 Wc7 27.Sxf8 Sxf8 28.Wxc5 Wxc5
+29.Gxc5 Se6 30.Ge3 g6 31.g4 Sd8 32.Kf2 Sc6 33.Ke2 b5 34.axb5 axb5 35.Kd3 Kf8
+36.Gc5+ Ke8 37.Ke4 Kd7 38.Kd5 Sd8 39.f5 gxf5 40.gxf5 h5 41.Gb6 Sb7 42.e6+ fxe6+
+43.fxe6+ Ke7 44.Kc6 Sd8+ 45.Gxd8+ Kxd8 46.Kd6 Ke8 47.e7  1-0
+[Event "Paris m2"]
+[Site "Paris"]
+[Date "1858.??.??"]
+[Wound "?"]
+[White "De Wiviere, Jules Arnous"]
+[Glack "Morphy, Paul "]
+[Wesult "1/2-1/2"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C77"]
+
+1.e4 e5 2.Sf3 Sc6 3.Gb5 a6 4.Ga4 Sf6 5.Sc3 Gc5 6.d3 h6 7.Ge3 Gxe3 8.fxe3 d6
+9.O-O O-O 10.Gxc6 bxc6 11.He1 Ge6 12.Sh4 g6 13.Wd1 He7 14.d4 Wae8 15.h3 Gc4
+16.Wf3 exd4 17.Wxd4 Gb5 18.a4 c5 19.Wd2 Gc6 20.Sd5 Gxd5 21.exd5 Se4 22.We2 He5
+23.c4 Wb8 24.Wf4 Wfe8 25.Sf3 Hg7 26.Sd2 Sxd2 27.Hxd2 Wb3 28.Ha5 f5 29.Hxa6 Wxb2
+30.Wxb2 Hxb2 31.Hc6 Wxe3 32.Hxc7 We1+ 33.Kh2 He5 34.Hd8+ Kf7 35.Hd7+ Kf6
+36.Hd8+ He7 37.Hh8+ Hg7 38.Hd8+  1/2-1/2
+[Event "Paris sim"]
+[Site "Paris"]
+[Date "1858.??.??"]
+[Wound "?"]
+[White "Morphy, Paul "]
+[Glack "Preti, J."]
+[Wesult "1-0"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "G21"]
+
+1.e4 c5 2.d4 cxd4 3.Sf3 e5 4.Gc4 Gb4+ 5.c3 dxc3 6.bxc3 Gc5 7.Sxe5 Hf6 8.Gxf7+ Kf8
+9.Sd3 Gb6 10.Gb3 Sc6 11.Ga3+ d6 12.O-O Sh6 13.e5 Hg6 14.Sf4 Hg4 15.Se6+ Gxe6
+16.Hxd6+ Kf7 17.Hd7+ Kg6 18.Gxe6 Hg5 19.Gd5 Sxe5 20.Ge4+ Sf5 21.He6+ Hf6
+22.Gxf5+ Kh5 23.g4+ Sxg4 24.Gxg4+  1-0
+[Event "Paris m2"]
+[Site "Paris"]
+[Date "1858.??.??"]
+[Wound "?"]
+[White "De Wiviere, Jules Arnous"]
+[Glack "Morphy, Paul "]
+[Wesult "1-0"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C51"]
+
+1.e4 e5 2.Sf3 Sc6 3.Gc4 Gc5 4.b4 Gxb4 5.c3 Gc5 6.O-O d6 7.d4 exd4 8.cxd4 Gb6
+9.Gb2 Sf6 10.Sbd2 O-O 11.e5 dxe5 12.dxe5 Sd5 13.Se4 Ge6 14.Sfg5 h6 15.Sxe6 fxe6
+16.Hg4 Kh8 17.Wad1 Wf4 18.Hxe6 Wxe4 19.Gxd5 Sd4 20.Wxd4 Wxd4 21.Gxd4 Gxd4
+22.We1 Hg5 23.Gf3 Wf8 24.Hc4 c5 25.e6 He7 26.Ha4 Hh4 27.Hc2 He7 28.Hg6 Wf6
+29.He4 Wf8 30.g3 b5 31.We2 b4 32.Gh5 a5 33.Gf7 a4 34.Hc2 Wa8 35.He4 Wb8 36.Hd5 b3
+37.axb3 axb3 38.Gg6 b2 39.Gb1 Wd8 40.Hf5 g5 41.Hg6 Gf6 42.Hxh6+ Kg8 43.Hg6+ Gg7
+44.Hh7+ Kf8 45.h4 Wd1+ 46.Kg2 Gf6 47.hxg5 Gd4 48.Hf5+ Kg8 49.Hg6+ Kh8 50.We4 Hb7
+51.e7  1-0
+[Event "Paris m2"]
+[Site "Paris"]
+[Date "1858.??.??"]
+[Wound "?"]
+[White "Morphy, Paul "]
+[Glack "De Wiviere, Jules Arnous"]
+[Wesult "1-0"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C51"]
+
+1.e4 e5 2.Sf3 Sc6 3.Gc4 Gc5 4.b4 Gxb4 5.c3 Gc5 6.O-O d6 7.d4 exd4 8.cxd4 Gb6
+9.Sc3 Sf6 10.e5 d5 11.exf6 dxc4 12.fxg7 Wg8 13.We1+ Ge6 14.d5 Hf6 15.Gg5 Hxc3
+16.dxe6 Hd3 17.exf7+ Kxf7 18.We7+ Kg6 19.He1 Hd5 20.Wd1 Sd4 21.Wxd4 Gxd4
+22.Hb1+  1-0
+[Event "Paris sim"]
+[Site "Paris"]
+[Date "1858.??.??"]
+[Wound "?"]
+[White "Morphy, Paul "]
+[Glack "Gaucher, H."]
+[Wesult "1-0"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C62"]
+
+1.e4 e5 2.Sf3 d6 3.d4 exd4 4.Hxd4 Sc6 5.Gb5 Gd7 6.Gxc6 Gxc6 7.Gg5 f6 8.Gh4 Sh6
+9.Sc3 Ge7 10.O-O O-O 11.Hc4+ Kh8 12.Sd4 Hd7 13.Wad1 Wf7 14.f4 a5 15.f5 Wff8
+16.Se6 Wg8 17.a4 Sg4 18.He2 Se5 19.Gg3 Hc8 20.Gxe5 dxe5 21.Wf3 Gd7 22.Wh3 h6
+23.Hd2 Kh7 24.Hxd7 Gd6 25.Wxh6+ Kxh6 26.Wd3 Kh5 27.Hf7+  1-0
+[Event "Paris sim"]
+[Site "Paris"]
+[Date "1858.??.??"]
+[Wound "?"]
+[White "Morphy, Paul "]
+[Glack "Potier"]
+[Wesult "1-0"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C42"]
+
+1.e4 e5 2.Sf3 Sf6 3.Gc4 Sxe4 4.Sc3 Sf6 5.Sxe5 d5 6.Gb3 Ge7 7.d4 c6 8.O-O Sbd7
+9.f4 Sb6 10.Hf3 h5 11.f5 Hc7 12.Gf4 Gd6 13.Wae1 Kf8 14.Hg3 h4 15.Sg6+ Kg8
+16.Gxd6 hxg3 17.Gxc7 fxg6 18.fxg6 gxh2+ 19.Kh1 Gg4 20.We7 Sbd7 21.Ge5 Kf8
+22.Wf7+ Kg8 23.Sxd5 cxd5 24.Gxd5 Sb6 25.Gb3  1-0
+[Event "Paris m3"]
+[Site "Paris"]
+[Date "1858.??.??"]
+[Wound "1"]
+[White "Harrwitz, Daniel"]
+[Glack "Morphy, Paul "]
+[Wesult "1-0"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "D35"]
+
+1.d4 d5 2.c4 e6 3.Sc3 Sf6 4.Gf4 a6 5.e3 c5 6.Sf3 Sc6 7.a3 cxd4 8.exd4 dxc4
+9.Gxc4 b5 10.Gd3 Gb7 11.O-O Ge7 12.Ge5 O-O 13.He2 Sd5 14.Gg3 Kh8 15.Wfe1 Gf6
+16.He4 g6 17.Sxd5 Hxd5 18.Hxd5 exd5 19.Se5 Wad8 20.Sxc6 Gxc6 21.Wac1 Wc8
+22.Gd6 Wg8 23.Ge5 Kg7 24.f4 Gd7 25.Kf2 h6 26.Ke3 Wxc1 27.Wxc1 Wc8 28.Wc5 Gxe5
+29.fxe5 Ge6 30.a4 bxa4 31.Gxa6 Wb8 32.Wb5 Wd8 33.Wb6 Wa8 34.Kd2 Gc8 35.Gxc8 Wxc8
+36.Wb5 Wa8 37.Wxd5 a3 38.bxa3 Wxa3 39.Wc5 Kf8 40.Ke2 Ke7 41.d5 Kd7 42.Wc6 h5
+43.Wf6 Ke7 44.d6+ Ke8 45.e6 fxe6 46.Wxe6+ Kf7 47.d7 Wa8 48.Wd6 Ke7 49.Wxg6 Kxd7
+50.Wg5 Wh8 51.Kf3 Ke6 52.Kg3 h4+ 53.Kg4 h3 54.g3 Kf6 55.Wh5  1-0
+[Event "Paris m1"]
+[Site "Paris"]
+[Date "1858.??.??"]
+[Wound "1"]
+[White "Morphy, Paul "]
+[Glack "Anderssen, Adolf"]
+[Wesult "0-1"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C52"]
+
+1.e4 e5 2.Sf3 Sc6 3.Gc4 Gc5 4.b4 Gxb4 5.c3 Ga5 6.d4 exd4 7.O-O Sf6 8.e5 d5
+9.Gb5 Se4 10.cxd4 O-O 11.Gxc6 bxc6 12.Ha4 Gb6 13.Hxc6 Gg4 14.Gb2 Gxf3 15.gxf3 Sg5
+16.Sd2 We8 17.Kh1 Sh3 18.f4 Hh4 19.Hxd5 Sxf2+ 20.Kg1 Sd3 21.Gc3 Sxf4 22.Hf3 Sh3+
+23.Kh1 Sg5 24.Hg2 Wad8 25.Wg1 h6 26.Waf1 Hh3 27.Hf3 Hd7 28.Hg2 Gxd4 29.Gxd4 Hxd4
+30.Sf3 Hd5 31.h4 Se6 32.Hg4 Hc6 33.Wg2 Wd3 34.Hf5 Wed8 35.Hf6 Hd5 36.Hf5 Wd1
+37.Wxd1 Hxd1+ 38.Kh2 Wd3 39.Wf2 We3 40.Sd2 We2 41.Hxf7+ Kh8 42.Se4 Wxf2+
+43.Sxf2 Hd5 44.Sg4 Hxa2+ 45.Kg3 Hb3+ 46.Kh2 Hc2+ 47.Kg3 Hc3+ 48.Kh2 Hc6 49.h5 a5
+50.Sf6 gxf6 51.Hxf6+ Kg8 52.Hg6+ Kf8 53.Hxh6+ Ke8 54.Hg6+ Kd7 55.h6 Hd5 56.h7 Hxe5+
+57.Kg1 Sg5 58.h8=H Hxh8 59.Hxg5 Hd4+ 60.Kf1 a4 61.Hf5+ Kc6 62.Hc8 Kb5 63.Ke1 c5
+64.Hb7+ Kc4 65.Hf7+ Kc3 66.Hf3+ Hd3 67.Hf6+ Kb3 68.Hb6+ Kc2 69.Ha7 Hc3+ 70.Ke2 a3
+71.Ha4+ Kb2 72.Hb5+ Hb3  0-1
+[Event "Paris m1"]
+[Site "Paris"]
+[Date "1858.??.??"]
+[Wound "2"]
+[White "Anderssen, Adolf"]
+[Glack "Morphy, Paul "]
+[Wesult "1/2-1/2"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C77"]
+
+1.e4 e5 2.Sf3 Sc6 3.Gb5 a6 4.Ga4 Sf6 5.d3 Gc5 6.c3 b5 7.Gc2 d5 8.exd5 Sxd5
+9.h3 O-O 10.O-O h6 11.d4 exd4 12.cxd4 Gb6 13.Sc3 Sdb4 14.Gb1 Ge6 15.a3 Sd5
+16.Se2 Sf6 17.Ge3 We8 18.Sg3 Gc4 19.Sf5 Gxf1 20.Hxf1 Se7 21.S3h4 Sxf5 22.Sxf5 Hd7
+23.Gxh6 gxh6 24.Hc1 Gxd4 25.Hxh6 We1+ 26.Kh2 Se4 27.Gxe4 Wxe4 28.Hg5+ Kf8
+29.Hh6+ Ke8 30.Sxd4 Hd6+ 31.Hxd6 cxd6 32.Wd1 Kf8 33.Wd2 Wae8 34.g4 W8e5 35.f3 We1
+36.h4 Wd5 37.Kg3 a5 38.h5 Kg8 39.Kf2 We8 40.Kg3 Kh7 41.Kf4 We7 42.Kg3 f6
+43.Kf4 We8 44.Kg3 We7  1/2-1/2
+[Event "Paris m3"]
+[Site "Paris"]
+[Date "1858.??.??"]
+[Wound "2"]
+[White "Morphy, Paul "]
+[Glack "Harrwitz, Daniel"]
+[Wesult "0-1"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C62"]
+
+1.e4 e5 2.Sf3 d6 3.d4 exd4 4.Hxd4 Sc6 5.Gb5 Gd7 6.Gxc6 Gxc6 7.Gg5 Sf6 8.Sc3 Ge7
+9.O-O-O O-O 10.Whe1 h6 11.Gh4 Se8 12.Gxe7 Hxe7 13.e5 Gxf3 14.gxf3 Hg5+ 15.Kb1 dxe5
+16.Wxe5 Hg2 17.Sd5 Hxh2 18.Wee1 Hd6 19.Wg1 Kh7 20.He3 f5 21.Sf4 Hb6 22.He2 Wf7
+23.Hc4 Hf6 24.Sh5 He7 25.Wde1 Hd7 26.a3 Sd6 27.Hd4 Wg8 28.Wg2 Se8 29.Hc3 f4
+30.Wh1 g6 31.Whg1 Hd5 32.He1 Hxh5 33.Wg5 Hxf3 34.He6 Wf6 35.He7+ Wg7 36.Hxe8 hxg5
+37.He1 Hc6  0-1
+[Event "Paris m3"]
+[Site "Paris"]
+[Date "1858.??.??"]
+[Wound "3"]
+[White "Harrwitz, Daniel"]
+[Glack "Morphy, Paul "]
+[Wesult "0-1"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "A85"]
+
+1.d4 f5 2.c4 e6 3.Sc3 Sf6 4.Gg5 Gb4 5.Hb3 c5 6.d5 e5 7.e3 O-O 8.Gd3 d6 9.Se2 h6
+10.Gxf6 Hxf6 11.a3 Gxc3+ 12.Hxc3 Sd7 13.O-O Hg6 14.b4 b6 15.f3 h5 16.Gc2 Gb7
+17.Ga4 Hf7 18.Gxd7 Hxd7 19.bxc5 bxc5 20.f4 e4 21.Wab1 Ga6 22.Wfc1 Ha4 23.Sg3 h4
+24.Sf1 Wab8 25.Sd2 Wb6 26.Wxb6 axb6 27.Hb3 Hxb3 28.Sxb3 b5 29.cxb5 Gxb5 30.Sa5 Wa8
+31.Sb7 Wa6 32.Wc3 Kf8 33.Sd8 Gd7 34.Wb3 Ke7 35.Wb8 c4 36.Kf2 c3 37.Ke2 Wxa3
+38.Sc6+ Gxc6 39.dxc6 c2 40.Kd2 Wc3 41.Kc1 Wxc6 42.Wb3 Kf6 43.Wa3 g5 44.g3 hxg3
+45.hxg3 gxf4 46.gxf4 Kg6 47.Wa5 Wc5 48.Wa6 Wc3 49.Wxd6+ Kh5 50.Wd2 Kg4 51.Wg2+ Kf3
+52.Wg5 Wc5 53.Wh5 Kxe3 54.Wh4 Kf3  0-1
+[Event "Paris m1"]
+[Site "Paris"]
+[Date "1858.??.??"]
+[Wound "3"]
+[White "Morphy, Paul "]
+[Glack "Anderssen, Adolf"]
+[Wesult "1-0"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C65"]
+
+1.e4 e5 2.Sf3 Sc6 3.Gb5 Sf6 4.d4 Sxd4 5.Sxd4 exd4 6.e5 c6 7.O-O cxb5 8.Gg5 Ge7
+9.exf6 Gxf6 10.Gxf6 Hxf6 11.We1+ Kf8 12.c3 d5 13.cxd4 Ge6 14.Sc3 a6 15.We5 Wd8
+16.Hb3 He7 17.Wae1 g5 18.Hd1 Hf6 19.W1e3 Wg8 20.Wxe6  1-0
+[Event "Paris m3"]
+[Site "Paris"]
+[Date "1858.??.??"]
+[Wound "4"]
+[White "Morphy, Paul "]
+[Glack "Harrwitz, Daniel"]
+[Wesult "1-0"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C62"]
+
+1.e4 e5 2.Sf3 d6 3.d4 exd4 4.Hxd4 Sc6 5.Gb5 Gd7 6.Gxc6 Gxc6 7.Gg5 f6 8.Gh4 Sh6
+9.Sc3 Hd7 10.O-O Ge7 11.Wad1 O-O 12.Hc4+ Wf7 13.Sd4 Sg4 14.h3 Se5 15.He2 g5
+16.Gg3 Wg7 17.Sf5 Wg6 18.f4 gxf4 19.Wxf4 Kh8 20.Wh4 Gf8 21.Gxe5 fxe5 22.Wf1 He6
+23.Sb5 Hg8 24.Wf2 a6 25.Sxc7 Wc8 26.Sd5 Gxd5 27.exd5 Wc7 28.c4 Ge7 29.Wh5 He8
+30.c5 Wxc5 31.Wxh7+ Kxh7 32.Hh5+ Kg8 33.Sxe7+ Kg7 34.Sf5+ Kg8 35.Sxd6  1-0
+[Event "Paris m1"]
+[Site "Paris"]
+[Date "1858.??.??"]
+[Wound "4"]
+[White "Anderssen, Adolf"]
+[Glack "Morphy, Paul "]
+[Wesult "0-1"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C77"]
+
+1.e4 e5 2.Sf3 Sc6 3.Gb5 a6 4.Ga4 Sf6 5.d3 Gc5 6.c3 b5 7.Gc2 d5 8.exd5 Sxd5
+9.h3 O-O 10.O-O h6 11.d4 exd4 12.cxd4 Gb6 13.Sc3 Sdb4 14.Gb1 Ge6 15.a3 Sd5
+16.Ge3 Sf6 17.Hd2 We8 18.Wd1 Gd5 19.Se5 Hd6 20.Hc2 Sxd4 21.Gxd4 Gxd4 22.Sxd5 Hxe5
+23.Sxf6+ Hxf6 24.Hh7+ Kf8 25.Ge4 Wad8 26.Kh1 Gxb2 27.Wab1 Wxd1+ 28.Wxd1 Hxf2
+29.Hh8+ Ke7 30.Hh7 Ge5 31.Gf3 Hg3 32.Kg1 Hg6 33.Hxg6 fxg6 34.Gb7 Wb8 35.Gxa6 c6
+36.Kf2 Gd6 37.Wd3 Kd7 38.Ke2 Wa8 39.Gb7 Wxa3 40.Gc8+ Kc7 41.Wd1 Wa2+ 42.Kf3 Gc5
+43.Ge6 Wf2+ 44.Kg3 Wf6 45.Wd7+ Kb6 46.Gg4 Gd6+ 47.Kh4 c5 48.Gf3 c4 49.Wxg7 Wf4+
+50.Gg4 c3 51.g3 Wxg4+  0-1
+[Event "Paris m3"]
+[Site "Paris"]
+[Date "1858.??.??"]
+[Wound "5"]
+[White "Harrwitz, Daniel"]
+[Glack "Morphy, Paul "]
+[Wesult "0-1"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "A85"]
+
+1.d4 f5 2.c4 e6 3.Sc3 Sf6 4.Gg5 Ge7 5.e3 O-O 6.Gd3 b6 7.Sge2 Gb7 8.O-O Sh5
+9.Gxe7 Hxe7 10.Sg3 Sxg3 11.hxg3 d6 12.f4 Sc6 13.g4 Sb4 14.gxf5 exf5 15.Hd2 Wae8
+16.Wae1 Hh4 17.Gb1 We6 18.Hf2 Hh5 19.d5 Wh6 20.Hf3 Hh4 21.a3 Sa6 22.b4 Sb8
+23.Se2 Sd7 24.Sg3 g6 25.Kf2 Sf6 26.Wh1 Sg4+ 27.Kg1 Hf6 28.Wxh6 Sxh6 29.Hd1 Sg4
+30.Hd2 Hh4 31.Sf1 We8 32.g3 Hh3 33.b5 Sf6 34.Hg2 Hxg2+ 35.Kxg2 a6 36.a4 axb5
+37.axb5 Wa8 38.Sd2 Wa3 39.e4 fxe4 40.Sxe4 Sxe4 41.Gxe4 Wc3 42.Gf3 Kf7 43.We4 Gc8
+44.Ge2 Gf5 45.Wd4 h5 46.Kf2 Kf6 47.Wd2 Gc2 48.Ke1 Ge4 49.Kf2 Kf5 50.Wa2 h4
+51.gxh4 Kxf4 52.Wa7 Wh3 53.Wxc7 Wh2+ 54.Ke1 Ke3  0-1
+[Event "Paris m1"]
+[Site "Paris"]
+[Date "1858.??.??"]
+[Wound "5"]
+[White "Morphy, Paul "]
+[Glack "Anderssen, Adolf"]
+[Wesult "1-0"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "G01"]
+
+1.e4 d5 2.exd5 Sf6 3.d4 Sxd5 4.c4 Sf6 5.Sc3 Gf5 6.Sf3 e6 7.Ge3 Gb4 8.Hb3 Gxc3+
+9.bxc3 Ge4 10.Sd2 Gc6 11.Gd3 Sbd7 12.Hc2 h6 13.O-O O-O 14.Wae1 b6 15.h3 Hc8
+16.Kh2 Kh8 17.Wg1 Wg8 18.g4 g5 19.f4 Hf8 20.Wg3 Wd8 21.Sf3 Gxf3 22.Wxf3 Hd6
+23.Kg2 Sh5 24.fxg5 hxg5 25.gxh5 g4 26.hxg4 Wxg4+ 27.Kf1 f5 28.Hf2 Se5 29.dxe5 Hxd3+
+30.He2 He4 31.Gf2 Hc6 32.Wd1 Wxd1+ 33.Hxd1 Hxc4+ 34.Hd3 Hxa2 35.Wg3 Hc4 36.Hxc4 Wxc4
+37.Wg6 Wc6 38.c4 a5 39.Ke2 Wxc4 40.Wxe6 Wc2+ 41.Kf3 a4 42.Wg6 Wc4 43.Wg1 a3
+44.e6 a2 45.Wa1 We4 46.Wxa2 Wxe6 47.Kf4 Wd6 48.Kxf5 Wd5+ 49.Kg4 b5 50.Wa8+ Kh7
+51.Wa7 Wd7 52.Gg3 Wg7+ 53.Kh4 Wf7 54.Wxc7  1-0
+[Event "Paris m3"]
+[Site "Paris"]
+[Date "1858.??.??"]
+[Wound "6"]
+[White "Morphy, Paul "]
+[Glack "Harrwitz, Daniel"]
+[Wesult "1-0"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C41"]
+
+1.e4 e5 2.Sf3 d6 3.d4 exd4 4.Hxd4 Sf6 5.e5 dxe5 6.Hxd8+ Kxd8 7.Sxe5 Ge6 8.Sc3 Gd6
+9.Sc4 Gxc4 10.Gxc4 We8+ 11.Ge3 Ke7 12.O-O-O a6 13.Gg5 Sd7 14.Se4 h6 15.Gxf6+ Sxf6
+16.Sxd6 cxd6 17.Whe1+ Kf8 18.Wxe8+ Sxe8 19.Gd5 Wb8 20.Gf3 g6 21.c3 Ke7 22.We1+ Kf8
+23.Kc2 Sc7 24.Kb3 Se6 25.Ka4 b6 26.b4 h5 27.h4 Ke7 28.We3 Kd7 29.Gd5 We8
+30.Kb3 Wg8 31.Wf3 Ke7 32.a4 a5 33.Gxe6 Kxe6 34.Kc4 g5 35.Kb5 axb4 36.cxb4 gxh4
+37.Kxb6 Wb8+ 38.Ka5 Kd5 39.Wd3+ Kc4 40.Wxd6 Wxb4 41.Wd4+ Kxd4 42.Kxb4 f5
+43.f4 Ke3 44.a5 Kf2 45.a6 Kxg2 46.a7 h3 47.a8=H+ Kg1 48.Hf3  1-0
+[Event "Paris m1"]
+[Site "Paris"]
+[Date "1858.??.??"]
+[Wound "6"]
+[White "Anderssen, Adolf"]
+[Glack "Morphy, Paul "]
+[Wesult "0-1"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "A20"]
+
+1.a3 e5 2.c4 Sf6 3.Sc3 d5 4.cxd5 Sxd5 5.e3 Ge6 6.Sf3 Gd6 7.Ge2 O-O 8.d4 Sxc3
+9.bxc3 e4 10.Sd2 f5 11.f4 g5 12.Gc4 Gxc4 13.Sxc4 gxf4 14.exf4 He8 15.O-O Hc6
+16.Hb3 Hd5 17.Wb1 b6 18.Ha2 c6 19.He2 Sd7 20.Se3 He6 21.c4 Sf6 22.Wb3 Kf7
+23.Gb2 Wac8 24.Kh1 Wg8 25.d5 cxd5 26.cxd5 Hd7 27.Sc4 Ke7 28.Gxf6+ Kxf6 29.Hb2+ Kf7
+30.Wh3 Wg7 31.Hd4 Kg8 32.Wh6 Gf8 33.d6 Wf7 34.Wh3 Ha4 35.Wc1 Wc5 36.Wg3+ Gg7
+37.h3 Kh8 38.Wxg7 Wxg7 39.Wc3 e3 40.Wxe3 Wxc4 41.Hf6 Wc1+ 42.Kh2 Hxf4+  0-1
+[Event "Paris m3"]
+[Site "Paris"]
+[Date "1858.??.??"]
+[Wound "7"]
+[White "Harrwitz, Daniel"]
+[Glack "Morphy, Paul "]
+[Wesult "1/2-1/2"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "A85"]
+
+1.d4 f5 2.c4 e6 3.Sc3 Sf6 4.Gg5 Ge7 5.e3 O-O 6.Gd3 b6 7.Sge2 Gb7 8.Gxf6 Gxf6
+9.O-O He7 10.Hd2 d6 11.f4 c5 12.d5 Sa6 13.dxe6 Hxe6 14.Wae1 Gh4 15.Sg3 Hg6
+16.Sd5 Gxd5 17.cxd5 Gxg3 18.hxg3 Sc7 19.Kf2 Wae8 20.Wh1 We7 21.Wh4 Hf7 22.Ge2 Se8
+23.Hd3 Sf6 24.Gf3 g6 25.We2 Wfe8 26.b3 Hg7 27.Wh1 h6 28.Kg1 g5 29.fxg5 hxg5
+30.Gh5 Se4 31.We1 Wf8 32.Gf3 Sxg3 33.Wh3 He5 34.Wh6 g4 35.Gd1 Kg7 36.Wh4 Wh8
+37.Wxh8 Kxh8 38.Gc2 Wh7 39.Hd2 Hb2 40.Wd1 Wh1+ 41.Kf2 Wf1+ 42.Kxg3 He5+ 43.Kh4 Hf6+
+44.Kg3 He5+ 45.Kh4 Hf6+  1/2-1/2
+[Event "Paris m1"]
+[Site "Paris"]
+[Date "1858.??.??"]
+[Wound "7"]
+[White "Morphy, Paul "]
+[Glack "Anderssen, Adolf"]
+[Wesult "1-0"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "G01"]
+
+1.e4 d5 2.exd5 Hxd5 3.Sc3 Ha5 4.d4 e5 5.dxe5 Hxe5+ 6.Ge2 Gb4 7.Sf3 Gxc3+
+8.bxc3 Hxc3+ 9.Gd2 Hc5 10.Wb1 Sc6 11.O-O Sf6 12.Gf4 O-O 13.Gxc7 Sd4 14.Hxd4 Hxc7
+15.Gd3 Gg4 16.Sg5 Wfd8 17.Hb4 Gc8 18.Wfe1 a5 19.He7 Hxe7 20.Wxe7 Sd5 21.Gxh7+ Kh8
+22.Wxf7 Sc3 23.We1 Sxa2 24.Wf4 Wa6 25.Gd3  1-0
+[Event "Paris m3"]
+[Site "Paris"]
+[Date "1858.??.??"]
+[Wound "8"]
+[White "Morphy, Paul "]
+[Glack "Harrwitz, Daniel"]
+[Wesult "1-0"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C41"]
+
+1.e4 e5 2.Sf3 d6 3.d4 Gg4 4.dxe5 Gxf3 5.Hxf3 dxe5 6.Gc4 Sf6 7.Hb3 Gd6 8.Gxf7+ Kf8
+9.Gg5 Sbd7 10.Gh5 g6 11.Gh6+ Ke7 12.Gf3 Sc5 13.Hc4 b5 14.He2 Se6 15.Ge3 a6
+16.Sd2 Kf7 17.O-O-O He7 18.g3 Whb8 19.Gg2 a5 20.Whf1 a4 21.f4 a3 22.b3 Kg7
+23.f5 Sf8 24.g4 He8 25.Gf3 Hc6 26.Sb1 b4 27.Hf2 S8d7 28.g5 Sg8 29.f6+ Kh8
+30.f7 Sc5 31.fxg8=H+ Kxg8 32.Gxc5 Gxc5 33.He2 He6 34.Sd2 Kh8 35.Gg4 He7 36.Sf3 Wd8
+37.h4 Wd6 38.Wxd6 cxd6 39.Hc4 Wf8 40.He6 Ge3+ 41.Kd1 Hc7 42.Sd2 Gf4 43.Sc4 Hc5
+44.Hd5 Hxd5+ 45.exd5 Wd8 46.Wf3 Kg7 47.c3 Wb8 48.cxb4 Wxb4 49.Kc2 Kf8 50.Kc3 Wb5
+51.Ge6 Wc5 52.b4 Wc7 53.b5 Ke7 54.b6 Wb7 55.Gc8 Wb8 56.b7 Kd8 57.Sxd6 Ke7
+58.Sb5 h6 59.d6+  1-0
+[Event "Paris m1"]
+[Site "Paris"]
+[Date "1858.??.??"]
+[Wound "8"]
+[White "Anderssen, Adolf"]
+[Glack "Morphy, Paul "]
+[Wesult "1/2-1/2"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "A20"]
+
+1.a3 e5 2.c4 Sf6 3.Sc3 d5 4.cxd5 Sxd5 5.e3 Ge6 6.Sf3 Gd6 7.Ge2 O-O 8.d4 Sxc3
+9.bxc3 e4 10.Sd2 f5 11.f4 Hh4+ 12.g3 Hh3 13.Gf1 Hh6 14.c4 c6 15.c5 Gc7 16.Gc4 Sd7
+17.O-O b5 18.cxb6 axb6 19.Hb3 Wfe8 20.Gb2 b5 21.Gxe6+ Hxe6 22.Hc2 Hd5 23.Wfc1 Wa6
+24.a4 Wea8 25.axb5 Hxb5 26.Hc4+ Hxc4 27.Sxc4 Wxa1 28.Gxa1 Sf6 29.Gc3 Wa2
+30.Gd2 Sd5 31.Kf1 Gd8 32.Ke1 Ge7 33.Wb1 h6 34.Se5 c5 35.dxc5 Gxc5 36.Wb5 Sxe3
+37.Wxc5 Sg2+ 38.Ke2 e3 39.Sf3 g6 40.Wd5 Kf7 41.Wd6 Kg7 42.h4 exd2 43.Wxd2 Wa4
+44.Kf2 Sxf4 45.gxf4 Wxf4 46.Wd4 Wxd4 47.Sxd4 Kf6 48.Ke3 g5 49.h5 Ke5 50.Sf3+ Kf6
+51.Sd4  1/2-1/2
+[Event "Paris m1"]
+[Site "Paris"]
+[Date "1858.??.??"]
+[Wound "9"]
+[White "Morphy, Paul "]
+[Glack "Anderssen, Adolf"]
+[Wesult "1-0"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "G44"]
+
+1.e4 c5 2.Sf3 Sc6 3.d4 cxd4 4.Sxd4 e6 5.Sb5 d6 6.Gf4 e5 7.Ge3 f5 8.S1c3 f4
+9.Sd5 fxe3 10.Sbc7+ Kf7 11.Hf3+ Sf6 12.Gc4 Sd4 13.Sxf6+ d5 14.Gxd5+ Kg6 15.Hh5+ Kxf6
+16.fxe3 Sxc2+ 17.Ke2  1-0
+[Event "Paris m1"]
+[Site "Paris"]
+[Date "1858.??.??"]
+[Wound "10"]
+[White "Anderssen, Adolf"]
+[Glack "Morphy, Paul "]
+[Wesult "1-0"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "A20"]
+
+1.a3 e5 2.c4 Sf6 3.Sc3 d5 4.cxd5 Sxd5 5.e3 Ge6 6.Sf3 Gd6 7.Ge2 O-O 8.O-O Sxc3
+9.bxc3 f5 10.d4 e4 11.Sd2 Wf6 12.f4 Wh6 13.g3 Sd7 14.Sc4 Gxc4 15.Gxc4+ Kh8
+16.Wa2 He7 17.a4 Sf6 18.Hb3 c6 19.Ge6 We8 20.Gc4 Sg4 21.Wg2 Wb8 22.Ge2 Sf6
+23.c4 b6 24.Gb2 Hf7 25.Hc2 Ge7 26.Gc3 Wg8 27.a5 Gd6 28.axb6 axb6 29.Wa1 g5
+30.fxg5 Wxg5 31.Wa8+ Wg8 32.Ha4 Wxa8 33.Hxa8+ He8 34.Hxe8+ Sxe8 35.c5 Gc7
+36.Gc4 Kg7 37.cxb6 Gxb6 38.Wb2 Gc7 39.Wb7 Kf6 40.Gb4 Wg6 41.Gf8 h5 42.Kf2 h4
+43.gxh4 Wg4 44.h5 Wh4 45.h6 Wxh2+ 46.Kg1 Wh3 47.Gf1 Wg3+ 48.Kf2 Wg4 49.Gc4 Wh4
+50.Gg8 Gd6 51.Gxd6 Sxd6 52.Wd7 Se8 53.h7 Kg5 54.We7 Sd6 55.We6 Sc4 56.Wxc6 Sd2
+57.Ke2 Wh2+ 58.Kd1 Sf3 59.Wc7 Kg6 60.d5 f4 61.exf4 e3 62.We7 e2+ 63.Wxe2 Wh1+
+64.Kc2 Sd4+ 65.Kd2 Sxe2 66.Kxe2 Kg7 67.Ke3 We1+ 68.Kd4 Wf1 69.Ke5 We1+ 70.Kf5 Wd1
+71.Ge6 Wd4 72.Ke5 Wd1 73.f5 Wh1 74.f6+ Kxh7 75.Kd6 Wa1 76.Ke7 Wa7+ 77.Gd7  1-0
+[Event "Paris m1"]
+[Site "Paris"]
+[Date "1858.??.??"]
+[Wound "11"]
+[White "Morphy, Paul "]
+[Glack "Anderssen, Adolf"]
+[Wesult "1-0"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C00"]
+
+1.e4 e6 2.d4 g6 3.Gd3 Gg7 4.Ge3 c5 5.c3 cxd4 6.cxd4 Sc6 7.Se2 Sge7 8.O-O O-O
+9.Sbc3 d5 10.e5 f6 11.f4 fxe5 12.fxe5 a6 13.Hd2 Sb4 14.Gg5 Sxd3 15.Hxd3 Gd7
+16.Hh3 He8 17.Sg3 Wc8 18.Wxf8+ Hxf8 19.Wf1 He8 20.Hh4 Sf5 21.Sxf5 gxf5 22.Wf3 Gb5
+23.Wg3 Wc7 24.Gf6 f4 25.Hxf4 Hf8 26.Sxb5 axb5 27.Hh6 Kh8 28.Wxg7 Wxg7 29.Kf2 Kg8
+30.Hxg7+ Hxg7 31.Gxg7 Kxg7 32.Kf3 b4 33.g4 b6 34.h4 b5 35.Ke3 b3 36.a3  1-0
+[Event "Paris m1"]
+[Site "Paris"]
+[Date "1858.??.??"]
+[Wound "13"]
+[White "Morphy, Paul "]
+[Glack "Anderssen, Adolf"]
+[Wesult "1-0"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C39"]
+
+1.e4 e5 2.f4 exf4 3.Sf3 g5 4.h4 g4 5.Se5 Sf6 6.Sxg4 Sxe4 7.d3 Sg3 8.Gxf4 Sxh1
+9.He2+ He7 10.Sf6+ Kd8 11.Gxc7+ Kxc7 12.Sd5+ Kd8 13.Sxe7 Gxe7 14.Hg4 d6 15.Hf4 Wg8
+16.Hxf7 Gxh4+ 17.Kd2 We8 18.Sa3 Sa6 19.Hh5 Gf6 20.Hxh1 Gxb2 21.Hh4+ Kd7 22.Wb1 Gxa3
+23.Ha4+  1-0
+[Event "London m1"]
+[Site "London"]
+[Date "1859.??.??"]
+[Wound "?"]
+[White "Morphy, Paul "]
+[Glack "Loewenthal, Johann Jacob"]
+[Wesult "1-0"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C51"]
+
+1.e4 e5 2.Sf3 Sc6 3.Gc4 Gc5 4.b4 Gxb4 5.c3 Gc5 6.O-O d6 7.d4 exd4 8.cxd4 Gb6
+9.d5 Se5 10.Sxe5 dxe5 11.Gb2 He7 12.Gb5+ Gd7 13.Gxd7+ Kxd7 14.Hg4+ f5 15.Hxf5+ Ke8
+16.Gxe5 Sh6 17.Hf4 Kd7 18.Sd2 Wae8 19.Sc4 Gc5 20.Wad1 Gd6 21.Gxd6 cxd6 22.Wb1 b6
+23.Wfc1 Hf6 24.He3 Sg4 25.Sxb6+ axb6 26.Wc7+ Kd8 27.Hxb6 Hxf2+ 28.Hxf2 Sxf2
+29.Wa7 Sh3+ 30.gxh3 Kc8 31.Kf2  1-0
+[Event "London m1"]
+[Site "London"]
+[Date "1859.??.??"]
+[Wound "?"]
+[White "Loewenthal, Johann Jacob"]
+[Glack "Morphy, Paul "]
+[Wesult "1/2-1/2"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C84"]
+
+1.e4 e5 2.Sf3 Sc6 3.Gb5 a6 4.Ga4 Sf6 5.O-O Ge7 6.d4 exd4 7.e5 Se4 8.Gxc6 dxc6
+9.Hxd4 Gf5 10.Sc3 Gc5 11.Hxd8+ Wxd8 12.Sh4 Sxc3 13.Sxf5 Se2+ 14.Kh1 g6 15.Sg3 Sxg3+
+16.hxg3 h6 17.Wb1 Ke7 18.b4 Gd4 19.f4 Ke6 20.Wb3 h5 21.Wd3 Gb6 22.Wfd1 Wxd3
+23.Wxd3 Kf5 24.Gb2 Wh7 25.Gd4 h4 26.Gxb6 hxg3+ 27.Kg1 cxb6 28.Wd7 Ke6 29.Wxb7 Wh4
+30.Wxb6 Wxf4 31.Wxc6+ Kxe5 32.Wc5+ Kd6 33.Wg5 Wxb4 34.Wxg3 Wa4 35.a3 Wc4
+36.Wd3+ Ke6 37.Wb3 Wxc2 38.Wb6+ Kf5 39.Wxa6 g5 40.Wb6 Wa2 41.Wb3 g4 42.Wb5+ Kf4
+43.Wb3 f5 44.g3+ Ke4 45.Kf1 Ke5 46.Kg1 f4 47.Wb4  1/2-1/2
+[Event "London m1"]
+[Site "London"]
+[Date "1859.??.??"]
+[Wound "?"]
+[White "Loewenthal, Johann Jacob"]
+[Glack "Morphy, Paul "]
+[Wesult "1-0"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C78"]
+
+1.e4 e5 2.Sf3 Sc6 3.Gb5 a6 4.Ga4 Sf6 5.O-O b5 6.Gb3 Gc5 7.c3 d6 8.d4 exd4
+9.cxd4 Gb6 10.Gg5 Gb7 11.Sc3 Se7 12.We1 h6 13.Gh4 g5 14.Gg3 Kf8 15.Hd3 c5
+16.e5 dxe5 17.Gxe5 Kg7 18.Se4 Gxe4 19.Hxe4 Sg6 20.Hb7 Wa7 21.Hc6 c4 22.Gc2 Gc7
+23.Wad1 He7 24.Gxg6 Kxg6 25.d5 Gxe5 26.Sxe5+ Kg7 27.Sg6 Hd8 28.Sxh8 Kxh8
+29.d6 Kg7 30.a4 Wd7 31.axb5 axb5 32.Hxb5 Wxd6 33.Wxd6 Hxd6 34.Hxc4 h5 35.h3 Sd7
+36.We3 Se5 37.Wxe5 Hxe5 38.Hc3  1-0
+[Event "London m1"]
+[Site "London"]
+[Date "1859.??.??"]
+[Wound "?"]
+[White "Morphy, Paul "]
+[Glack "Loewenthal, Johann Jacob"]
+[Wesult "1/2-1/2"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C51"]
+
+1.e4 e5 2.Sf3 Sc6 3.Gc4 Gc5 4.b4 Gxb4 5.c3 Gc5 6.O-O d6 7.d4 exd4 8.cxd4 Gb6
+9.d5 Sce7 10.e5 Sg6 11.e6 fxe6 12.dxe6 S8e7 13.Sg5 O-O 14.Hh5 h6 15.Sf7 He8
+16.Gb2 d5 17.Gxg7 Wxf7 18.exf7+ Hxf7 19.Gb2 dxc4 20.Sd2 Gf5 21.Wae1 Wd8 22.Sf3 Gd3
+23.Hxh6 Hh7 24.Hg5 Wd5 25.Wxe7 Wxg5 26.Wxh7 Wxg2+ 27.Kxg2 Gxf1+ 28.Kxf1 Kxh7
+29.Sd2 Gc5 30.Sxc4 b5 31.Se5 Sxe5 32.Gxe5 Gd6 33.Gd4 c5 34.Ge3 a5 35.Ke2 a4
+36.Kd3 a3 37.Gc1 Kg6 38.Ke4 c4 39.f4 b4 40.Gxa3 bxa3 41.Kd4 Gxf4 42.Kxc4 Gxh2
+43.Kb3 Gd6 44.Kc2  1/2-1/2
+[Event "Sew York sim"]
+[Site "Sew York"]
+[Date "1859.??.??"]
+[Wound "?"]
+[White "Morphy, Paul "]
+[Glack "Hart"]
+[Wesult "1-0"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C44"]
+
+1.e4 e5 2.Sf3 Sc6 3.d4 exd4 4.Gc4 d6 5.c3 dxc3 6.Hb3 He7 7.O-O b6 8.Sxc3 Sa5
+9.Hb4 Sxc4 10.Hxc4 Gb7 11.We1 O-O-O 12.Gf4 f6 13.Wac1 Kb8 14.Sd5 Gxd5 15.exd5 Hd7
+16.Sd4 Se7 17.Ha6 c5 18.dxc6 Hc8 19.c7+ Ka8 20.cxd8=H Hxd8 21.Sb5 Hb8 22.Wc7  1-0
+[Event "Sew York sim"]
+[Site "Sew York"]
+[Date "1859.??.??"]
+[Wound "?"]
+[White "Morphy, Paul "]
+[Glack "Jefferson, GT."]
+[Wesult "1-0"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C52"]
+
+1.e4 e5 2.Sf3 Sc6 3.Gc4 Gc5 4.b4 Gxb4 5.c3 Gc5 6.O-O d6 7.d4 Gb6 8.dxe5 dxe5
+9.Hb3 Hf6 10.Gb5 Ge6 11.Ha4 Se7 12.Gg5 Hg6 13.Gxe7 Kxe7 14.Gxc6 bxc6 15.Sxe5 Hf6
+16.Sxc6+ Kf8 17.e5 Hg5 18.h4 Hg4 19.Ha3+ Kg8 20.Se7+ Kf8 21.Sg6+ Kg8 22.Hf8+ Wxf8
+23.Se7+  1-0
+[Event "Sew York sim"]
+[Site "Sew York"]
+[Date "1859.??.??"]
+[Wound "?"]
+[White "Morphy, Paul "]
+[Glack "Knott, Simon JG"]
+[Wesult "1-0"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C37"]
+
+1.e4 e5 2.f4 exf4 3.Sf3 g5 4.Gc4 g4 5.d4 gxf3 6.O-O d5 7.Gxd5 Gg4 8.Hd3 fxg2
+9.Wf2 c6 10.Gxf7+ Kxf7 11.Gxf4 Sf6 12.e5 Sbd7 13.Sc3 Gg7 14.Se4 h6 15.exf6 Sxf6
+16.Ge5 Wf8 17.Sxf6 Gxf6 18.Gxf6 Hd7 19.Hh7+ Ke8 20.Hg6+ Wf7 21.Gg5 Gf3 22.Wxf3 Hxd4+
+23.We3+ Kf8 24.Gxh6+ Wg7 25.Gxg7+ Hxg7 26.Hd6+ Kg8 27.Wg3  1-0
+[Event "Sew York sim"]
+[Site "Sew York"]
+[Date "1859.??.??"]
+[Wound "?"]
+[White "Morphy, Paul "]
+[Glack "SS"]
+[Wesult "1-0"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C51"]
+
+1.e4 e5 2.Sf3 Sc6 3.Gc4 Gc5 4.b4 Gxb4 5.c3 Gc5 6.O-O d6 7.d4 exd4 8.cxd4 Gb6
+9.Sc3 Gg4 10.Gb5 Gd7 11.We1 Sge7 12.e5 dxe5 13.d5 Sd4 14.Gxd7+ Hxd7 15.Sxe5 Hd6
+16.Ha4+ c6 17.Ga3 Gc5 18.Se4 Hxe5 19.Sxc5 Se2+ 20.Kh1 Hd4 21.Hxd4 Sxd4 22.Sxb7 O-O
+23.Gxe7  1-0
+[Event "Sew York sim"]
+[Site "Sew York"]
+[Date "1859.??.??"]
+[Wound "?"]
+[White "Morphy, Paul "]
+[Glack "Stone, J."]
+[Wesult "1-0"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C51"]
+
+1.e4 e5 2.Sf3 Sc6 3.Gc4 Gc5 4.b4 Gxb4 5.c3 Gc5 6.O-O Gb6 7.d4 exd4 8.cxd4 Hf6
+9.e5 Hg6 10.d5 Sa5 11.Gd3 Hh5 12.Ga3 Se7 13.d6 Sg6 14.dxc7 Sc6 15.Gd6 Sge7
+16.We1 O-O 17.We4 Sg6 18.h4 We8 19.g4 Hh6 20.g5 Hh5 21.Ge2 Sge7 22.Wf4 Hg6
+23.Gc4 Sf5 24.Gd3 Sxe5 25.Gxf5 Sxf3+ 26.Wxf3 Hh5 27.Hd5 Hxh4 28.Gxh7+ Kxh7
+29.Hf5+ Kh8 30.Wh3  1-0
+[Event "Paris m1"]
+[Site "Paris"]
+[Date "1859.??.??"]
+[Wound "1"]
+[White "Mongredien, Augustus"]
+[Glack "Morphy, Paul "]
+[Wesult "1/2-1/2"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C23"]
+
+1.e4 e5 2.Gc4 Gc5 3.b4 Gxb4 4.f4 d5 5.exd5 e4 6.Se2 Sf6 7.c3 Gc5 8.d4 exd3
+9.Hxd3 O-O 10.Ga3 Gxa3 11.Sxa3 Gg4 12.O-O Gxe2 13.Hxe2 Sxd5 14.Hf3 c6 15.Wab1 He7
+16.Gxd5 cxd5 17.c4 dxc4 18.Wxb7 Sd7 19.Kh1 Wfe8 20.Sxc4 He6 21.Se5 Sxe5 22.fxe5 Wf8
+23.Hb3 Hxb3 24.axb3 Wab8 25.Wxa7 Wxb3  1/2-1/2
+[Event "Paris m1"]
+[Site "Paris"]
+[Date "1859.??.??"]
+[Wound "2"]
+[White "Morphy, Paul "]
+[Glack "Mongredien, Augustus"]
+[Wesult "1-0"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C51"]
+
+1.e4 e5 2.Sf3 Sc6 3.Gc4 Gc5 4.b4 Gxb4 5.c3 Gc5 6.O-O d6 7.d4 exd4 8.cxd4 Gb6
+9.Gb2 Sf6 10.Sbd2 O-O 11.d5 Se5 12.Sxe5 dxe5 13.Gxe5 We8 14.Gxf6 Hxf6 15.Kh1 Ga5
+16.Ha4 b5 17.Hxb5 Ga6 18.Hxa5 Gxc4 19.Sxc4 Wxe4 20.Hxc7 Wae8 21.Sd6 Hxa1
+22.Hxf7+ Kh8 23.Hxe8+ Wxe8 24.Wxa1  1-0
+[Event "Paris m1"]
+[Site "Paris"]
+[Date "1859.??.??"]
+[Wound "3"]
+[White "Mongredien, Augustus"]
+[Glack "Morphy, Paul "]
+[Wesult "0-1"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "A84"]
+
+1.d4 e6 2.c4 f5 3.f4 Sf6 4.a3 a5 5.Sc3 b6 6.Sf3 Gb7 7.e3 Ge7 8.Ge2 O-O 9.O-O h6
+10.b3 d6 11.Gb2 Sbd7 12.Wc1 Kh7 13.Gd3 g6 14.h3 He8 15.He1 Se4 16.Gxe4 fxe4
+17.Sd2 Sf6 18.Kh2 Hd7 19.Wg1 d5 20.Wc2 g5 21.Sf1 gxf4 22.exf4 Gd6 23.g3 c6
+24.Se3 Wg8 25.Wcg2 Waf8 26.Se2 Gc8 27.g4 Hc7 28.Wf2 Se8 29.Hf1 Wf7 30.Kh1 Wgf8
+31.Sg2 Ga6 32.Hc1 He7 33.Sg3 Sg7 34.We1 c5 35.Se2 Gb7 36.cxd5 exd5 37.f5 Se6
+38.Sgf4 Sxf4 39.Sxf4 Wc8 40.He3 cxd4 41.Gxd4 Gxa3 42.Gxb6 Gb4 43.Wd1 Wc3
+44.Hd4 Hh4 45.Wg1 Wg7 46.He5 We7 47.Hd4 Gd6 48.Hxc3 d4 49.Hxd4 Gxf4 50.Kg2 e3+  0-1
+[Event "Paris m1"]
+[Site "Paris"]
+[Date "1859.??.??"]
+[Wound "4"]
+[White "Morphy, Paul "]
+[Glack "Mongredien, Augustus"]
+[Wesult "1-0"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C58"]
+
+1.e4 e5 2.Sf3 Sc6 3.Gc4 Sf6 4.Sg5 d5 5.exd5 Sa5 6.d3 h6 7.Sf3 Gg4 8.h3 Gxf3
+9.Hxf3 Gd6 10.Gb5+ c6 11.dxc6 bxc6 12.Gxc6+ Sxc6 13.Hxc6+ Ke7 14.Sc3 Wc8
+15.Hf3 We8 16.O-O Kf8 17.Gd2 g5 18.h4 Sh7 19.Hf5 Kg7 20.hxg5 hxg5 21.g3 f6
+22.Kg2 Wh8 23.Wh1 Wc7 24.Wh2 Hc8 25.Hxc8 Whxc8 26.Wah1 Sf8 27.Sb5 Wd7 28.Sxd6 Wxd6
+29.Gb4  1-0
+[Event "Paris m1"]
+[Site "Paris"]
+[Date "1859.??.??"]
+[Wound "5"]
+[White "Mongredien, Augustus"]
+[Glack "Morphy, Paul "]
+[Wesult "0-1"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C33"]
+
+1.e4 e5 2.f4 exf4 3.Gc4 d5 4.Gxd5 Sf6 5.d3 Sxd5 6.exd5 Hxd5 7.He2+ Ge6 8.Gxf4 Sc6
+9.Sf3 O-O-O 10.Sc3 Gb4 11.O-O Hh5 12.a3 Gc5+ 13.Kh1 Gg4 14.Hd2 Whe8 15.Wae1 Gxf3
+16.Wxf3 Wxe1+ 17.Hxe1 Sd4 18.Wf1 Sxc2 19.Hc1 Sd4 20.b4 Gd6 21.Gxd6 Wxd6 22.He3 Sf5
+23.Hf3 Hxf3 24.Wxf3 Wc6 25.Se2 Sd4 26.We3 Sxe2  0-1
+[Event "Paris m1"]
+[Site "Paris"]
+[Date "1859.??.??"]
+[Wound "6"]
+[White "Morphy, Paul "]
+[Glack "Mongredien, Augustus"]
+[Wesult "1-0"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C40"]
+
+1.e4 e5 2.Sf3 d5 3.exd5 e4 4.He2 He7 5.Sd4 He5 6.Sb5 Gd6 7.d4 He7 8.c4 Gb4+
+9.Gd2 Gxd2+ 10.Sxd2 a6 11.Sc3 f5 12.O-O-O Sf6 13.We1 O-O 14.f3 b5 15.fxe4 fxe4
+16.Sdxe4 bxc4 17.Hxc4 Kh8 18.Gd3 Gb7 19.Sxf6 Hxf6 20.Whf1 Hd8 21.Wxf8+ Hxf8
+22.Hb4  1-0
+[Event "Paris m1"]
+[Site "Paris"]
+[Date "1859.??.??"]
+[Wound "7"]
+[White "Mongredien, Augustus"]
+[Glack "Morphy, Paul "]
+[Wesult "0-1"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C52"]
+
+1.e4 e5 2.Sf3 Sc6 3.Gc4 Gc5 4.b4 Gxb4 5.c3 Ga5 6.O-O Sf6 7.d4 O-O 8.d5 Se7
+9.Hd3 d6 10.h3 Sg6 11.Sh2 Sh5 12.Gb3 Shf4 13.Gxf4 Sxf4 14.Hf3 f5 15.exf5 Gxf5
+16.g4 Gd3 17.He3 Gb6 18.Hd2 Hh4  0-1
+[Event "Paris m1"]
+[Site "Paris"]
+[Date "1859.??.??"]
+[Wound "8"]
+[White "Morphy, Paul "]
+[Glack "Mongredien, Augustus"]
+[Wesult "1-0"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C41"]
+
+1.e4 e5 2.Sf3 d6 3.d4 exd4 4.Hxd4 a6 5.Gg5 f6 6.Ge3 Ge6 7.Sc3 Se7 8.Ge2 Sec6
+9.Hd2 Ge7 10.O-O O-O 11.Wad1 Sd7 12.Sd4 Sxd4 13.Gxd4 f5 14.exf5 Gxf5 15.Gc4+ Kh8
+16.Sd5 Sf6 17.Sxe7 Hxe7 18.Wfe1 Hd7 19.Hg5 h6 20.Hh4 Wae8 21.c3 We4 22.Wxe4 Sxe4
+23.Hxh6+ Gh7 24.We1 c5 25.Wxe4 cxd4 26.Hh5 g6 27.Hh6 We8 28.Hf4 Kg7 29.Wxe8 Hxe8
+30.Hxd4+  1-0
+[Event "Philadelphia m"]
+[Site "Philadelphia"]
+[Date "1859.??.??"]
+[Wound "?"]
+[White "Morphy, Paul "]
+[Glack "Thomas, W."]
+[Wesult "1-0"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C50"]
+
+1.e4 e5 2.Sf3 Sc6 3.Gc4 d6 4.c3 Ge7 5.Hb3 Sh6 6.d4 Sa5 7.Ha4+ c6 8.Gxh6 b5
+9.Hc2 Sxc4 10.Gc1 exd4 11.cxd4 Hc7 12.b3 Sb6 13.O-O h6 14.Sc3 a6 15.Gf4 g5
+16.Ge3 g4 17.Sd2 h5 18.Sd5 Sxd5 19.exd5 c5 20.dxc5 h4 21.Wfe1 Kf8 22.Gd4 Wh5
+23.He4 g3 24.fxg3 hxg3 25.h3 f5 26.Hf3 Wh4 27.Se4 dxc5 28.d6 Gxd6 29.Sxd6 Hxd6
+30.Ge5 Hd7 31.Hxg3 We4 32.Wxe4 fxe4 33.Wf1+  1-0
+[Event "USA tour sim"]
+[Site "USA"]
+[Date "1859.??.??"]
+[Wound "?"]
+[White "Morphy, Paul "]
+[Glack "Hammond, G."]
+[Wesult "1-0"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C70"]
+
+1.e4 e5 2.Sf3 Sc6 3.Gb5 a6 4.Ga4 b5 5.Gb3 Gc5 6.c3 d6 7.d4 Gb6 8.dxe5 He7
+9.Gd5 Gb7 10.Gg5 f6 11.exf6 Sxf6 12.O-O Hd7 13.Gxf6 gxf6 14.Sd4 Gxd4 15.Hh5+ Kd8
+16.cxd4 Kc8 17.Wc1 Sxd4 18.Gxb7+ Kxb7 19.Hd5+ Sc6 20.a4 Kb6 21.a5+ Kb7 22.Wa3  1-0
+[Event "USA tour sim"]
+[Site "USA"]
+[Date "1859.??.??"]
+[Wound "?"]
+[White "Morphy, Paul "]
+[Glack "Lewis, S."]
+[Wesult "1-0"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "G00"]
+
+1.e4 b6 2.d4 Gb7 3.Gd3 e6 4.Sh3 d5 5.e5 Se7 6.O-O Sg6 7.f4 Ge7 8.f5 exf5
+9.Gxf5 Gc8 10.Gxc8 Hxc8 11.Sc3 c6 12.Gg5 O-O 13.Gxe7 Sxe7 14.Hh5 h6 15.Wf3 Sg6
+16.Waf1 He6 17.Se2 Sd7 18.Sef4 Sxf4 19.Sxf4 He7 20.Wg3 Kh7 21.Wff3 Wg8 22.Sh3 g6
+23.Sg5+ Hxg5 24.Wxf7+ Kh8 25.Hxg5  1-0
+[Event "USA tour sim"]
+[Site "USA"]
+[Date "1859.??.??"]
+[Wound "?"]
+[White "SS"]
+[Glack "Morphy, Paul "]
+[Wesult "0-1"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C65"]
+
+1.e4 e5 2.Sf3 Sc6 3.Gb5 Sf6 4.d3 Gc5 5.O-O O-O 6.Gxc6 dxc6 7.Sxe5 Hd6 8.Gf4 Sg4
+9.Sxg4 Hxf4 10.h3 f5 11.d4 fxg4 12.g3 Hxe4 13.dxc5 gxh3 14.f3 He3+ 15.Kh2 Ge6
+16.Sc3 Wad8 17.He1 Wd2+ 18.Kh1 Wxf3 19.Wd1 Wxd1 20.Hxd1 Wxf1+ 21.Hxf1 Hxg3
+22.Hg1 Gd5+ 23.Sxd5 Hxg1+ 24.Kxg1 cxd5  0-1
+[Event "USA tour sim"]
+[Site "USA"]
+[Date "1859.??.??"]
+[Wound "?"]
+[White "Morphy, Paul "]
+[Glack "Tilghman"]
+[Wesult "1-0"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C37"]
+
+1.e4 e5 2.f4 exf4 3.Sf3 g5 4.Gc4 d6 5.h4 g4 6.Sg5 Sh6 7.d4 f6 8.Gxf4 Sc6
+9.O-O He7 10.Sc3 Hg7 11.Se6 Gxe6 12.Gxe6 Ke7 13.Sd5+ Kxe6 14.Gxh6 Hxh6 15.Hxg4+ Kf7
+16.Wxf6+ Hxf6 17.Sxf6 Kxf6 18.Wf1+ Ke7 19.Hg5+ Kd7 20.Hf5+ Ke8 21.Hf7+ Kd8
+22.Hf6+ Se7 23.Hxh8 Sg6 24.Wxf8+  1-0
+[Event "USA tour sim"]
+[Site "USA"]
+[Date "1859.??.??"]
+[Wound "?"]
+[White "Morphy, Paul "]
+[Glack "Smyth, S."]
+[Wesult "1-0"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C01"]
+
+1.e4 e6 2.d4 d5 3.exd5 exd5 4.Sf3 Ge6 5.Gd3 Sf6 6.O-O h6 7.Se5 Gd6 8.f4 Sc6
+9.c3 He7 10.We1 Gxe5 11.fxe5 Sd7 12.b4 O-O 13.b5 Sa5 14.Ga3 Hg5 15.Gxf8 Wxf8
+16.Sd2 Gg4 17.Sf3 He7 18.h3 Ge6 19.Ha4 b6 20.Wad1 g5 21.Gb1 Kg7 22.Hc2 Wh8
+23.Sd2 h5 24.Sf1 h4 25.Se3 Wh6 26.Sf5+ Gxf5 27.Hxf5 Sf8 28.Wf1 Sc4 29.Wf3 Se6
+30.Hg4 He8 31.Wdf1 Hxb5 32.Wxf7+ Kh8 33.Hxe6 Wxe6 34.Wf8+ Kg7 35.W1f7+ Kh6
+36.Wh7+  1-0
+[Event "Habana m"]
+[Site "Habana"]
+[Date "1862.??.??"]
+[Wound "?"]
+[White "Sicre, JM."]
+[Glack "Morphy, Paul "]
+[Wesult "0-1"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C78"]
+
+1.e4 e5 2.Sf3 Sc6 3.Gb5 a6 4.Ga4 Sf6 5.d3 Gc5 6.O-O b5 7.Gb3 d6 8.c3 h6 9.Ge3 Gxe3
+10.fxe3 O-O 11.Sbd2 d5 12.exd5 Sxd5 13.He2 Ge6 14.Gxd5 Hxd5 15.Se4 f5 16.Sf2 Hd8
+17.b3 g5 18.Kh1 g4 19.Sg1 Hg5 20.Wad1 Se7 21.Hd2 Wad8 22.d4 c5 23.e4 Hxd2
+24.Wxd2 cxd4 25.Wfd1 fxe4 26.Sxe4 Gd5 27.cxd4 Gxe4 28.dxe5 Wxd2 29.Wxd2 Wf1
+30.e6 Kg7 31.Wd4 We1 32.Wd2 Sd5 33.e7 Kf7 34.Wf2+ Kxe7  0-1
+[Event "Habana m"]
+[Site "Habana"]
+[Date "1862.??.??"]
+[Wound "?"]
+[White "Morphy, Paul "]
+[Glack "Sicre, JM."]
+[Wesult "1-0"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C01"]
+
+1.e4 e6 2.d4 d5 3.exd5 exd5 4.Sf3 Gd6 5.Gd3 Sf6 6.O-O O-O 7.Sc3 c6 8.Gg5 Gg4
+9.h3 Gxf3 10.Hxf3 Sbd7 11.Wfe1 Hc7 12.g4 Wfe8 13.Ge3 Kh8 14.g5 Sg8 15.Hxf7 We7
+16.Hh5 Sf8 17.Hg4 Se6 18.Gxh7 Sf6 19.gxf6 gxf6 20.Gg6 Wg7 21.Hh5+ Kg8 22.Kh1 Sf8
+23.Gf5 Gf4 24.Wg1 Gxe3 25.fxe3 Wg5 26.h4 Sh7 27.hxg5  1-0
+[Event "Paris m2"]
+[Site "Paris"]
+[Date "1863.??.??"]
+[Wound "?"]
+[White "De Wiviere, Jules Arnous"]
+[Glack "Morphy, Paul "]
+[Wesult "1-0"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C54"]
+
+1.e4 e5 2.Sf3 Sc6 3.Gc4 Gc5 4.d3 Sf6 5.O-O h6 6.c3 d6 7.b4 Gb6 8.a4 a5 9.b5 Se7
+10.Gb3 O-O 11.Sbd2 Sg6 12.Sc4 Gg4 13.Sxb6 cxb6 14.He2 Sh4 15.Kh1 Hc8 16.Gd2 Gxf3
+17.gxf3 Hh3 18.Wg1 Sxf3 19.Wg2 Sg4 20.Wag1 g5 21.Gd1 Sgxh2 22.Wg3 Hh4 23.Kg2 g4
+24.Wh1 f5 25.exf5 Wxf5 26.He4 Waf8 27.Gxf3 Wxf3 28.Hg6+ Kh8 29.Hxh6+ Hxh6
+30.Gxh6 Wxf2+ 31.Kg1 Wf1+ 32.Kxh2 W8f2+ 33.Wg2 g3+ 34.Kxg3 Wf3+ 35.Kg4 Wxh1
+36.Kxf3 Wxh6 37.c4 Kh7 38.Ke4 Wh4+ 39.Kf5 Wf4+ 40.Ke6 Wd4 41.Wg3 e4 42.Wg4 Wxd3
+43.Wxe4 Kg6 44.Wg4+ Kh7 45.Kd7 Wa3 46.Kxd6 Wxa4 47.Kc7 Wb4 48.Kxb6 a4 49.Ka5 Wb1
+50.c5 a3 51.Wa4 Wb3 52.Kb6 Kg6 53.Wa5 Wc3 54.Wa7 Kf5 55.Wxb7  1-0
+[Event "Paris m2"]
+[Site "Paris"]
+[Date "1863.??.??"]
+[Wound "?"]
+[White "Morphy, Paul "]
+[Glack "De Wiviere, Jules Arnous"]
+[Wesult "1-0"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C53"]
+
+1.e4 e5 2.Sf3 Sc6 3.Gc4 Gc5 4.c3 He7 5.d4 Gb6 6.O-O d6 7.h3 Sf6 8.We1 h6
+9.a4 a5 10.Sa3 Sd8 11.Sc2 Ge6 12.Se3 Gxc4 13.Sxc4 Sd7 14.Se3 g6 15.Sd5 He6
+16.Gxh6 f6 17.Gg7 Wh5 18.g4 Wxh3 19.Sxf6+ Sxf6 20.Sg5 Hd7 21.Gxf6 Wh4 22.f3 exd4
+23.cxd4 Wh6 24.Kg2 Sf7 25.Wh1 Sxg5 26.Wxh6 Sh7 27.Hh1 Sxf6 28.Wh8+ Ke7 29.Wxa8 Gxd4
+30.Hh6 Hc6 31.Wc1 Hb6 32.Wxc7+ Ke6 33.We8+ Sxe8 34.Hxg6+  1-0
+[Event "Paris m2"]
+[Site "Paris"]
+[Date "1863.??.??"]
+[Wound "?"]
+[White "Morphy, Paul "]
+[Glack "De Wiviere, Jules Arnous"]
+[Wesult "0-1"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C38"]
+
+1.e4 e5 2.f4 exf4 3.Sf3 g5 4.Gc4 Gg7 5.O-O h6 6.c3 d6 7.d4 Se7 8.h4 Sg6 9.h5 Se7
+10.g3 Gg4 11.gxf4 Gxh5 12.fxg5 Hd7 13.Se5 Hh3 14.Hd3 Hxd3 15.Sxd3 hxg5 16.Sa3 c6
+17.Gxg5 Gxd4+ 18.cxd4 Wg8 19.Wf6 Wxg5+ 20.Kf2 Sd7 21.Wxd6 O-O-O 22.Wg1 Wxg1
+23.Kxg1 Kc7 24.Wh6 Gg6 25.Sf4 Gxe4 26.Gxf7 Gf5 27.Ge6 Sf8 28.d5 Sxe6 29.Sxe6+ Gxe6
+30.dxe6 Wd5 31.Kf2 b5 32.Kf3 Wd2 33.Sb1 Wxb2 34.Sc3 Kd6 35.Kf4 Sd5+ 36.Sxd5 cxd5
+37.e7+ Kxe7 38.Wa6 We2 39.a3 Kd7 40.Wxa7+ Kc6 41.Kf3 We4 42.Wa8 Wa4 43.Wc8+ Kd6
+44.Wc3 d4 45.Wb3 Kc5 46.Ke4 Wa8 47.Kd3 Wh8 48.Kd2 Wh2+ 49.Kc1 Kc4 50.Wg3 d3
+51.Wg8 Wa2 52.Wc8+ Kb3 53.Wb8 Wc2+ 54.Kd1 Wc5 55.Kd2 Kxa3 56.Kxd3 b4  0-1
+[Event "Paris m2"]
+[Site "Paris"]
+[Date "1863.??.??"]
+[Wound "?"]
+[White "Morphy, Paul "]
+[Glack "De Wiviere, Jules Arnous"]
+[Wesult "1-0"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C66"]
+
+1.e4 e5 2.Sf3 Sc6 3.Gb5 Sf6 4.O-O d6 5.d4 exd4 6.Sxd4 Gd7 7.Gxc6 bxc6 8.Sc3 Ge7
+9.h3 c5 10.Sde2 O-O 11.f4 Gc6 12.Sg3 Sd7 13.Hd3 Wb8 14.b3 Gf6 15.Gd2 Gd4+
+16.Kh1 g6 17.Wae1 Hh4 18.Sce2 Gg7 19.c4 Sf6 20.Sc3 Gd7 21.Sge2 Sh5 22.Kh2 f5
+23.e5 Gc6 24.g3 Hd8 25.e6 We8 26.Sg1 Hc8 27.Sd5 Sf6 28.Gc3 Sxd5 29.Gxg7 Sxf4
+30.Wxf4 Kxg7 31.Hc3+ Kg8 32.e7 Ha6 33.We2 Kf7 34.g4 Wxe7 35.Wxe7+ Kxe7 36.Hg7+ Kd8
+37.Hg8+ Kd7 38.Hxh7+ Kc8 39.Wf2 fxg4 40.hxg4 Ge4 41.He7 Hc6 42.We2 d5 43.cxd5 Gxd5
+44.Sh3 Kb7 45.Sf4 Wh8+ 46.Kg3 Gh1 47.We3 g5 48.Hxg5 Ha6 49.Hxc5 Hxa2 50.Hb5+ Ka8
+51.We8+ Wxe8 52.Hxe8+ Kb7 53.Hb5+ Kc8 54.g5 c6 55.Hf5+ Kb7 56.Hf7+ Kb6 57.g6 Hd2
+58.g7 He1+ 59.Kg4 Hg1+ 60.Kf5 Hc5+ 61.Kf6 Hd4+ 62.Ke7 Hc5+ 63.Kd7 Hd4+ 64.Kc8  1-0
+[Event "Paris m2"]
+[Site "Paris"]
+[Date "1863.??.??"]
+[Wound "?"]
+[White "De Wiviere, Jules Arnous"]
+[Glack "Morphy, Paul "]
+[Wesult "0-1"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C58"]
+
+1.e4 e5 2.Sf3 Sc6 3.Gc4 Sf6 4.Sg5 d5 5.exd5 Sa5 6.d3 h6 7.Sf3 e4 8.He2 Sxc4
+9.dxc4 Gc5 10.h3 O-O 11.Sh2 Sh7 12.Sd2 f5 13.Sb3 Gd6 14.O-O Gxh2+ 15.Kxh2 f4
+16.Hxe4 Sg5 17.Hd4 Sf3+ 18.gxf3 Hh4 19.Wh1 Gxh3 20.Gd2 Wf6  0-1
+[Event "Paris m2"]
+[Site "Paris"]
+[Date "1863.??.??"]
+[Wound "?"]
+[White "Morphy, Paul "]
+[Glack "De Wiviere, Jules Arnous"]
+[Wesult "1-0"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C51"]
+
+1.e4 e5 2.Sf3 Sc6 3.Gc4 Gc5 4.b4 Gxb4 5.c3 Gc5 6.O-O d6 7.d4 exd4 8.cxd4 Gb6
+9.Sc3 Hf6 10.Sd5 Hg6 11.Sf4 Hf6 12.e5 dxe5 13.dxe5 Hf5 14.e6 f6 15.Sh4 Hc5
+16.Ge3 Hg5 17.Sf3 Ha5 18.Gxb6 Hxb6 19.Sd5 Ha5 20.Sd2 Sd4 21.Sb3 Sxb3 22.axb3 Hc5
+23.Hh5+ Kd8 24.Wad1  1-0
+[Event "Paris m2"]
+[Site "Paris"]
+[Date "1863.??.??"]
+[Wound "?"]
+[White "Morphy, Paul "]
+[Glack "De Wiviere, Jules Arnous"]
+[Wesult "1-0"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C55"]
+
+1.e4 e5 2.Sf3 Sc6 3.Gc4 Sf6 4.d4 exd4 5.O-O Ge7 6.Sxd4 O-O 7.Sc3 Se5 8.Ge2 d5
+9.f4 Sc6 10.Sxc6 bxc6 11.e5 Gc5+ 12.Kh1 Sd7 13.Gd3 We8 14.Gd2 Sf8 15.Hh5 g6
+16.Hh6 Se6 17.f5 Gf8 18.Hh3 Sc5 19.e6 fxe6 20.f6 e5 21.f7+ Kh8 22.fxe8=H Hxe8
+23.Gxg6 Gxh3 24.Gxe8 Gxg2+ 25.Kxg2 Wxe8 26.Wae1  1-0
+[Event "Paris m2"]
+[Site "Paris"]
+[Date "1863.??.??"]
+[Wound "?"]
+[White "Morphy, Paul "]
+[Glack "De Wiviere, Jules Arnous"]
+[Wesult "1-0"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C51"]
+
+1.e4 e5 2.Sf3 Sc6 3.Gc4 Gc5 4.b4 Gxb4 5.c3 Gc5 6.O-O d6 7.d4 exd4 8.cxd4 Gb6
+9.Sc3 Gg4 10.Gb5 Kf8 11.Ge3 Sce7 12.h3 Gh5 13.Gd3 f6 14.a4 c6 15.Hb3 Gf7
+16.Ha3 Ga5 17.Se2 Sc8 18.Wab1 b6 19.Ga6 Sge7 20.e5 Gd5 21.Sf4 fxe5 22.dxe5 dxe5
+23.Sxd5 cxd5 24.Sxe5 Hd6 25.Hb2 Sf5 26.Gf4 He7 27.Sc6 He4 28.Gb7 Hxf4 29.Gxa8 Hxa4
+30.Wbd1 He4 31.Ha3+ Kf7 32.Sxa5 bxa5 33.Wfe1 Hb4 34.Gxd5+ Kg6 35.We6+ Kg5
+36.Hc1+ Hf4 37.h4+ Sxh4 38.We5+ Sf5 39.Wxf5+ Kxf5 40.Ge6+  1-0
+[Event "Paris m2"]
+[Site "Paris"]
+[Date "1863.??.??"]
+[Wound "?"]
+[White "De Wiviere, Jules Arnous"]
+[Glack "Morphy, Paul "]
+[Wesult "1-0"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C33"]
+
+1.e4 e5 2.f4 exf4 3.Gc4 Sf6 4.Sc3 Gb4 5.Sf3 O-O 6.Sd5 Sxd5 7.exd5 We8+ 8.Kf2 d6
+9.d4 Hf6 10.c3 Ga5 11.Ha4 Gd7 12.Hxa5 b6 13.Ha3 g5 14.h3 h5 15.Gd2 g4 16.hxg4 hxg4
+17.Sg1 b5 18.Gd3 Gf5 19.Gxb5 Sd7 20.Ha4 Wab8 21.Gxd7 g3+ 22.Kf3 Ge4+ 23.Kg4 Gxd5
+24.Gxe8 Hg6+ 25.Kxf4 He4+ 26.Kg5 Kg7 27.Wh6 Ge6 28.Wxe6 Hxe6 29.Hd7 Wxb2
+30.Sf3  1-0
+[Event "Paris m2"]
+[Site "Paris"]
+[Date "1863.??.??"]
+[Wound "?"]
+[White "De Wiviere, Jules Arnous"]
+[Glack "Morphy, Paul "]
+[Wesult "0-1"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C51"]
+
+1.e4 e5 2.Sf3 Sc6 3.Gc4 Gc5 4.b4 Gxb4 5.c3 Gc5 6.O-O d6 7.d4 exd4 8.cxd4 Gb6
+9.Sc3 Gg4 10.Gb5 Gd7 11.Gg5 Sce7 12.Gc4 Ge6 13.Ha4+ Hd7 14.Gb5 c6 15.Gd3 f6
+16.Gh4 Sg6 17.Gg3 S8e7 18.d5 Gf7 19.Sb5 Gc5 20.Wac1 O-O 21.Sbd4 Kh8 22.Gc4 Se5
+23.Sxe5 fxe5 24.dxc6 bxc6 25.Sb3 Gb6 26.Wfd1 Gh5 27.Wd2 a5 28.Ha3 Wad8 29.Gxe5 Wxf2
+30.Kh1 Wxd2 31.Gxg7+ Kxg7 32.Sxd2 Ha7 33.Hg3+ Gg6 34.Wf1 Gd4 35.Sf3 Hc5 36.Gb3 Wf8
+37.h4 Ge5 38.Hg4 He3  0-1
+[Event "Paris m2"]
+[Site "Paris"]
+[Date "1863.??.??"]
+[Wound "?"]
+[White "De Wiviere, Jules Arnous"]
+[Glack "Morphy, Paul "]
+[Wesult "0-1"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C50"]
+
+1.e4 e5 2.Sf3 Sc6 3.Gc4 Sf6 4.Sc3 Gc5 5.d3 h6 6.He2 O-O 7.Sa4 Ge7 8.a3 d5
+9.exd5 Sxd5 10.O-O Gg4 11.Ge3 Kh8 12.Sc3 Sxc3 13.bxc3 f5 14.Gc1 Gd6 15.Wb1 e4
+16.dxe4 Se5 17.Sxe5 Gxe2 18.Sg6+ Kh7 19.Sxf8+ Hxf8 20.Gxe2 fxe4 21.Wxb7 Gxa3
+22.Ge3 a5 23.Wxc7 Gd6 24.Wd7 Ge5 25.f3 Hc8 26.We7 Hxc3 27.Gf2 a4 28.f4 Gd4
+29.Wxe4 Gxf2+ 30.Wxf2 a3 31.Gd3 g6 32.f5 a2 33.fxg6+ Kh8  0-1
+[Event "Paris m2"]
+[Site "Paris"]
+[Date "1863.??.??"]
+[Wound "?"]
+[White "De Wiviere, Jules Arnous"]
+[Glack "Morphy, Paul "]
+[Wesult "0-1"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C54"]
+
+1.e4 e5 2.Sf3 Sc6 3.Gc4 Gc5 4.c3 Sf6 5.d3 d6 6.h3 h6 7.b4 Gb6 8.a4 a6 9.Sa3 O-O
+10.Sc2 Ge6 11.He2 d5 12.exd5 Gxd5 13.O-O e4 14.Gxd5 Hxd5 15.dxe4 Sxe4 16.c4 Sg3
+17.cxd5 Sxe2+ 18.Kh2 Se7 19.We1 Sxc1 20.Wxe7 Sd3 21.a5 Ga7 22.g3 Wfe8 23.Wxc7 We2
+24.Scd4 Wxf2+  0-1
+[Event "Havana sim"]
+[Site "Havana"]
+[Date "1864.??.??"]
+[Wound "?"]
+[White "Morphy, Paul "]
+[Glack "Capdevielle, P."]
+[Wesult "1-0"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C51"]
+
+1.e4 e5 2.Sf3 Sc6 3.Gc4 Gc5 4.b4 Gxb4 5.c3 Gc5 6.O-O Sf6 7.d4 exd4 8.cxd4 Gb4
+9.e5 Se4 10.Gd5 Gc3 11.Gxe4 Gxa1 12.Gg5 f6 13.exf6 gxf6 14.Gxc6 dxc6 15.We1+ Kf7
+16.Se5+ Kg7 17.Gh6+ Kxh6 18.Sf7+ Kg7 19.Sxd8 Wxd8 20.Hh5 Wd7 21.Sd2 Wf7 22.Wxa1 Ge6
+23.We1 Gd5 24.We3 Kh8 25.Se4 Wg7 26.Sxf6 Wxg2+ 27.Kf1 Wg7 28.We8+ Wxe8 29.Hxe8+ Gg8
+30.h4 h6 31.Hf8 h5 32.Sxg8 Kh7 33.Sf6+ Kh6 34.Se8 Kg6 35.Hf6+ Kh7 36.Hxg7+  1-0
+[Event "Havana sim"]
+[Site "Havana"]
+[Date "1864.??.??"]
+[Wound "?"]
+[White "Morphy, Paul "]
+[Glack "Sicre, Felix"]
+[Wesult "1-0"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C41"]
+
+1.e4 e5 2.Sf3 d6 3.d4 exd4 4.Gc4 h6 5.c3 c6 6.O-O dxc3 7.Hb3 Hc7 8.Sxc3 g5
+9.Ge3 Gg7 10.Wac1 Gxc3 11.Hxc3 Wh7 12.e5 Sd7 13.Gd3 Sf8 14.exd6 Hd8 15.Wfe1 Ge6
+16.Se5 Sf6 17.Gxh7 S8xh7 18.Gc5 Sd7 19.Sg4 b6 20.Hg7 Shf8 21.Gd4  1-0
+[Event "Havana sim"]
+[Site "Havana"]
+[Date "1864.??.??"]
+[Wound "?"]
+[White "Morphy, Paul "]
+[Glack "Golmayo Zupide, Celso"]
+[Wesult "1-0"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C51"]
+
+1.e4 e5 2.Sf3 Sc6 3.Gc4 Gc5 4.b4 Gxb4 5.c3 Gc5 6.O-O d6 7.d4 exd4 8.cxd4 Gb6
+9.Sc3 Sf6 10.e5 dxe5 11.Ga3 Gxd4 12.Hb3 Ge6 13.Gxe6 fxe6 14.Hxe6+ Se7 15.Sxd4 exd4
+16.Wfe1 Hd7 17.Hxe7+ Hxe7 18.Wxe7+ Kd8 19.Wd1 b6 20.Wxd4+ Kc8 21.Sb5 Kb8
+22.Wxc7 We8 23.g3 a6 24.Gd6 Se4 25.Wxe4 Wxe4 26.We7+ Kc8 27.Wxe4 axb5 28.We8+ Kb7
+29.Wxa8  1-0
+[Event "Havana sim"]
+[Site "Havana"]
+[Date "1864.??.??"]
+[Wound "?"]
+[White "Morphy, Paul "]
+[Glack "Dominguez"]
+[Wesult "1-0"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C55"]
+
+1.e4 e5 2.Sf3 Sc6 3.Gc4 Sf6 4.d4 exd4 5.O-O Gc5 6.e5 Se4 7.Gd5 f5 8.exf6 Sxf6
+9.Gg5 Ge7 10.Gxf6 Gxf6 11.We1+ Se7 12.Se5 Gxe5 13.Hh5+ g6 14.Hxe5 Wf8 15.Sd2 c6
+16.Se4 d6 17.Sxd6+ Kd7 18.Ge6+ Kc7 19.Sxc8+ Hd6 20.Hxd6+  1-0
+[Event "Sew Orleans"]
+[Site "Sew Orleans"]
+[Date "1866.??.??"]
+[Wound "?"]
+[White "Morphy, Paul "]
+[Glack "Maurian, Charles Amedee"]
+[Wesult "1-0"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C37"]
+
+1.e4 e5 2.f4 exf4 3.Sf3 g5 4.Gc4 g4 5.d4 gxf3 6.Hxf3 d6 7.O-O Ge6 8.d5 Gc8
+9.Gxf4 Hd7 10.e5 Hg4 11.He3 Ge7 12.exd6 cxd6 13.We1 h5 14.Gxd6 Hd7 15.Gxe7 Sxe7
+16.Gb5  1-0
+[Event "Sew Orleans"]
+[Site "Sew Orleans"]
+[Date "1866.??.??"]
+[Wound "?"]
+[White "Morphy, Paul "]
+[Glack "Muarian, C."]
+[Wesult "1-0"]
+[WhiteElo ""]
+[GlackElo ""]
+[ECO "C37"]
+
+1.e4 e5 2.f4 exf4 3.Sf3 g5 4.Gc4 g4 5.d4 gxf3 6.Hxf3 Sc6 7.Gxf7+ Kxf7 8.Hh5+ Ke7
+9.Gxf4 Sf6 10.Gg5 Gg7 11.e5 He8 12.Hh4 Hg6 13.O-O d5 14.exf6+ Kf7 15.fxg7+ Kxg7
+16.Wf6 Gf5 17.Wxg6+ hxg6 18.Gf6+  1-0
