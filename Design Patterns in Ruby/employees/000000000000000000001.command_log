@@ -1,0 +1,3 @@
+o:AddEmployee:@employeeo:Employee:
+@nameI"tomasz:ET:@numberI"	1001;	T:@addressI"ul. Kwiatowa 1;	To:AddEmployee:@employeeo:Employee:
+@nameI"henryk:ET:@numberI"	1002;	T:@addressI"os. Kosmonautów 13/8;	To:FindEmployee:@numberI"	1001:ETo:FindEmployee:@numberI"	1002:ETo:ChangeAddress:@numberI"	1001:ET:@addressI"ul. Główna 555;T
