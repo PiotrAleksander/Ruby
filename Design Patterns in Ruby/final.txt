@@ -1,0 +1,8 @@
+1: Witaj pi©kny ˜wiecie.
+00: Witaj pi©kny ˜wiecie.
+2: 2015-09-15 20:50:28 +0200: Witaj pi©kny ˜wiecie.
+3: 2015-09-15 20:50:29 +0200: Witaj pi©kny ˜wiecie.
+4: 2015-09-15 20:50:29 +0200: Witaj pi©kny ˜wiecie.
+5: 2015-09-15 20:50:30 +0200: Witaj pi©kny ˜wiecie.
+6: 2015-09-15 20:50:30 +0200: Witaj pi©kny ˜wiecie.
+7: 2015-09-15 20:50:30 +0200: Witaj pi©kny ˜wiecie.

@@ -1,1 +1,4 @@
-"8;.83,0?4!y5z*/093<
+Zwykˆy wiersz tekstu
+Wiersz z sum¥ kontroln¥
+2015-09-15 20:34:18 +0200: plus znacznik czasowy
+%{@line_number}: plus numer wiersza
