@@ -18,6 +18,12 @@ class String
   end
 end
 
+class Array
+  def to_idx
+    self[0] + 1 + (self[1] + 2)*10
+  end
+end
+
 class Symbol
   def pionek?
     self == :P || self == :p
@@ -39,7 +45,7 @@ class NiedozwolonyRuch < Exception
   end
 end
 
-class Pozycja
+class Pozycja #PODZIÊKOWANIA DLA CHONG KIM!
   include SzachyHelper
   attr_accessor :plansza, :tura, :roszada, :ep, :polruch, :pelenruch, :krol
   def initialize(arg={})
@@ -67,11 +73,20 @@ class Pozycja
 							- - - - - - - - - -).map {|c| c == "-" ? nil : c.to_sym}
 	end
 	@tura = arg[:tura] || :biale
-	@roszada = arg[:roszada] || "KHkh"
+	@roszada = arg[:roszada] || roszada_domyslna
 	@ep = arg[:ep]
 	@polruch = arg[:polruch] || 0
 	@pelenruch = arg[:pelenruch] || 1
 	@krol = {biale: @plansza.index(:K), czarne: @plansza.index(:k)}
+  end
+  
+  def roszada_domyslna
+    str = ""
+	str += "K" if plansza[e1] == :K && plansza[h1] == :W
+	str += "H" if plansza[e1] == :K && plansza[a1] == :W
+	str += "k" if plansza[e8] == :k && plansza[h8] == :w
+	str += "h" if plansza[e8] == :k && plansza[h8] == :w
+	str
   end
   
   def initialize_copy(kopia)
@@ -89,6 +104,7 @@ class Pozycja
   end
   
   def ==(porownanie)
+    self.class == porownanie.class &&
     @plansza == porownanie.plansza && 
 	@tura == porownanie.tura &&
 	@roszada == porownanie.roszada &&
@@ -104,21 +120,41 @@ class Pozycja
 	"#{p} #{tura} #{r} #{e} #{polruch} #{pelenruch}"
   end
   
+  def inspect
+    p = @plansza.each_slice(10).to_a[2..9].map {|wiersz| wiersz[1..8].map {|s| s || "-"}.join.gsub(/-+/) {|s| s.size}}.join("/")
+	t = biale(:b, :c)
+	r = roszada.empty? ? :- : roszada
+	e = ep.nil? ? :- : ep.to_pole
+	"#{p} #{t} #{r} #{e} #{polruch} #{pelenruch}"
+  end
+  
   def biale(b, c, t=tura)
     t == :biale ? b : c
   end
 
-  def ruch_str(poczatek, cel)
+  def awans_str(awans)
+    if awans
+	  "=#{awans}"
+	else
+	  ""
+	end
+  end
+  
+  def ruch_str(poczatek, cel, awans=nil)
     bierka = plansza[poczatek]
-	bierka_str = bierka.pionek? ? "" : bierka
+	bierka_str = bierka.pionek? ? "" : bierka.to_s
+	bierka_str.upcase! if bierka.to_s.ord > 96
 	lista = znajdz(bierka, cel)
 	kaptaz = plansza[cel] || bierka.pionek? && cel == ep
 	if bierka.pionek? && kaptaz #TA SEKCJA MO¯E PIERDOLN¥Æ pod niewykorzystaniem metody kolor. 
-	  pionki_poz = [*0..7].select {|wiersz| plansza[poczatek%10 + (wiersz+2)*10] == bierka}.select {|wiersz| cele = plansza[cel%10 + (wiersz+2+biale(-1, 1))*10]; cele && ((cele.to_s.ord - bierka.to_s.ord)>=16)   } #cele && cele.kolor != bierka.kolor (can't modify frozen Symbol)
+	  pionki_poz = [*0..7].select {|wiersz| plansza[poczatek%10 + (wiersz+2)*10] == bierka}.select {|wiersz| 
+	  cele = plansza[cel%10 + (wiersz+2+biale(-1, 1))*10]; cele && ((cele.to_s.ord - bierka.to_s.ord)>=16) || #cele && cele.kolor != bierka.kolor (can't modify frozen Symbol)
+	  bierka.pionek? && cel == ep && wiersz+2 == poczatek/10
+	  } 
 	  if pionki_poz.size == 1
-	    "#{poczatek.to_pole[0]}#{cel.to_pole[0]}"
+	    "#{poczatek.to_pole[0]}#{cel.to_pole[0]}#{awans ? "=#{awans}" : ""}"
 	  else
-	    "#{poczatek.to_pole[0]}#{cel.to_pole}"
+	    "#{poczatek.to_pole[0]}#{cel.to_pole}#{awans ? "=#{awans}" : ""}"
 	  end
 	elsif bierka.krol? && cel - poczatek == 2
 	  "O-O"
@@ -126,13 +162,13 @@ class Pozycja
 	  "O-O-O"
 	else
 	  if lista.size == 1
-        "#{bierka_str}#{cel.to_pole}"
+        "#{bierka_str}#{cel.to_pole}#{awans ? "=#{awans}" : ""}"
       elsif lista.select {|idx| idx%10 == poczatek%10}.size == 1
-        "#{bierka_str}#{poczatek.to_pole[0]}#{cel.to_pole}"
+        "#{bierka_str}#{poczatek.to_pole[0]}#{cel.to_pole}#{awans ? "=#{awans}" : ""}"
 	  elsif lista.select {|idx| idx/10 == poczatek/10}.size == 1
-        "#{bierka_str}#{poczatek.to_pole[1]}#{cel.to_pole}"
+        "#{bierka_str}#{poczatek.to_pole[1]}#{cel.to_pole}#{awans ? "=#{awans}" : ""}"
 	  else
-	    "#{bierka_str}#{poczatek.to_pole}#{cel.to_pole}"
+	    "#{bierka_str}#{poczatek.to_pole}#{cel.to_pole}#{awans ? "=#{awans}" : ""}"
 	  end
     end	
   end
@@ -180,9 +216,13 @@ class Pozycja
 	  lista = znajdz_rekur(bierka, cel, [-11, -10, -9, -1, 1, 9, 10, 11], false)
 	  if @plansza[cel].nil?
 	    krol_idx = krol[tura]
-		if cel == biale(g1,g8) && krol_idx == biale(e1, e8)
-		  lista.push(krol_idx)
-		end
+		if krol_idx == biale(e1, e8) && (cel - krol_idx).abs == 2
+		  if cel == biale(g1,g8) && roszada.include?(biale("K", "k"))
+		    lista.push(krol_idx) if plansza[biale(f1, f8)].nil? && plansza[biale(g1, g8)].nil?
+		  elsif cel == biale(c1,c8) && roszada.include?(biale("H", "h"))
+		    lista.push(krol_idx) if plansza[biale(b1, b8)].nil? && plansza[biale(c1, c8)].nil? && plansza[biale(d1, d8)].nil?
+		  end
+	    end
 	  end
 	  lista
 	end
@@ -199,9 +239,26 @@ class Pozycja
 	  lista = []
 	else
 	  str =""
-	  lista = [args[0]]
+	  poczatek = args[0]
+	  lista = [poczatek]
 	  cel = args[1]
+	  awans = args[2]
 	  bierka = @plansza[args[0]]
+	  if bierka.krol? 
+	    if cel - poczatek == 2
+		  @plansza[biale(f1, f8)] = @plansza[biale(h1, h8)]
+		  @plansza[biale(h1, h8)] = nil
+		end
+		if cel - poczatek == -2
+		  @plansza[biale(d1, d8)] = @plansza[biale(a1, a8)]
+		  @plansza[biale(a1, a8)] = nil
+		end
+	    roszada.delete!(biale("K","k"))
+		roszada.delete!(biale("H","h"))
+	  end
+	  if bierka.pionek? && cel == ep
+	    @plansza[ep + biale(10, -10)] = nil
+	  end
 	end
 	kaptaz = false #bicie
 	if r = str.match(/^(?<bierka>[WSGHK])? (?<kolumna>[a-h])?(?<wiersz>[1-8])? x? (?<pole>[a-h][1-8]) (=(?<awans>[WSGHK]))? \+?$/x)
@@ -215,8 +272,8 @@ class Pozycja
 	  kolumna = r[:kolumna].ord - 'a'.ord + 1 if r[:kolumna]
 	  wiersz = '8'.ord - r[:wiersz].ord + 2 if r[:wiersz]
       lista = znajdz(bierka, cel)
-	  lista.select! {|poczatek| poczatek%10 == kolumna} if kolumna
-	  lista.select! {|poczatek| poczatek/10 == wiersz} if wiersz
+	  lista.select! {|_poczatek| _poczatek%10 == kolumna} if kolumna
+	  lista.select! {|_poczatek| _poczatek/10 == wiersz} if wiersz
 	  kaptaz_ep = bierka.pionek? && cel == ep
       kaptaz = plansza[cel] || kaptaz_ep  
 	elsif str == "O-O-O" && roszada.include?(biale("H", "h"))
@@ -234,15 +291,15 @@ class Pozycja
 	  plansza[biale(h1, h8)] = nil
 	  roszada.delete(biale("K", "k"))
 	end
-	lista.select! {|poczatek| 
+	lista.select! {|_poczatek| 
 	  kopia = self
 	  kopia_krol = kopia.krol[tura]
 	  kopia.krol[tura] = cel if bierka.krol?
 	  kopia_bierka = kopia.plansza[cel]
-	  kopia.plansza[cel] = kopia.plansza[poczatek]
-	  kopia.plansza[poczatek] = nil
+	  kopia.plansza[cel] = kopia.plansza[_poczatek]
+	  kopia.plansza[_poczatek] = nil
 	  jest_szachowany = kopia.szach?
-	  kopia.plansza[poczatek] = kopia.plansza[cel]
+	  kopia.plansza[_poczatek] = kopia.plansza[cel]
 	  kopia.plansza[cel] = kopia_bierka
 	  kopia.krol[tura] = kopia_krol
 	  !jest_szachowany
@@ -271,7 +328,27 @@ class Pozycja
 	  [*0..7].each do |j|
 	    idx = i + 1 + (j+ 2)*10
 		bierki.each do |b|
-		  lista += znajdz(b, idx).map {|poczatek| [poczatek, idx] }
+		  lista += znajdz(b, idx).flat_map {|poczatek|
+		  begin
+		    dup.ruch(poczatek, idx) #dup od duplicate, zdefiniowane w initialize_copy
+			if b.krol? && (idx - poczatek).abs == 2 && dup.ruch(poczatek, (idx+poczatek)/2).szach?
+			  raise NiedozwolonyRuch.new("", self, [])
+			end
+			wynik = []
+		    bierka = [poczatek, idx] unless (plansza[idx] && (plansza[idx].to_s.ord - b.to_s.ord) < 16) || 
+											(b.krol?  && (idx - poczatek).abs == 2 && szach?)
+			if bierka && b.pionek? && idx/10 == biale(2, 9)
+			  wynik = biale([:W, :S, :G, :H], [:w, :s, :g, :h]).map {|awans| 
+			    [poczatek, idx, awans]
+			  }
+			else
+			  wynik = [bierka]
+			end
+			wynik
+		  rescue NiedozwolonyRuch
+		    nil
+		  end
+		  }.compact
 		end
 	  end
 	end
@@ -279,7 +356,19 @@ class Pozycja
   end
   
   def dozwolone_ruchy_str
-    dozwolone_ruchy.map {|poczatek, cel| ruch_str(poczatek, cel)}
+    dozwolone_ruchy.map {|poczatek, cel, awans| ruch_str(poczatek, cel, awans)}
+  end
+  
+  def mat?
+    szach? && dozwolone_ruchy.empty?
+  end
+  
+  def pat?
+    !szach? && dozwolone_ruchy.empty?
+  end
+  
+  def remis?
+    pat? || !mat? && polruch >= 100
   end
   
   def wartosciuj
@@ -294,6 +383,17 @@ class Pozycja
 	wynik -= @plansza.count(:g)*3
 	wynik -= @plansza.count(:h)*9
 	wynik -= @plansza.count(:p)*1
+	if pelenruch < 10
+	  [e4, e5, d4, d5].each do |idx|
+	    [:W, :S, :G, :H, :K, :P].each {|b| wynik += znajdz(b, idx).size * 0.1}
+		[:w, :s, :g, :h, :k, :p].each {|b| wynik -= znajdz(b, idx).size * 0.1}
+	  end
+	else
+	  bialy_krol_idx = plansza.index(:K)
+	  czarny_krol_idx = plansza.index(:k)
+	    [:W, :S, :G, :H, :K, :P].each {|b| wynik += znajdz(b, czarny_krol_idx).size * 0.1}
+		[:w, :s, :g, :h, :k, :p].each {|b| wynik -= znajdz(b, bialy_krol_idx).size * 0.1}
+	end
 	wynik
   end
   
@@ -305,5 +405,25 @@ class Pozycja
 	  nil
 	end
 	}.compact
+  end
+  
+  def minimax(poziom=1)
+    if mat? 
+	  return biale(-100, 100)
+	elsif dozwolone_ruchy.empty? || !mat? && polruch >= 100
+	  return 0
+	elsif poziom > 1
+	  return wartosciuj
+	end
+	wartosci = dozwolone_ruchy.map {|r| dup.ruch(*r).minimax(poziom+1)}.compact
+	wartosci.send(biale(:max, :min)) + biale(-poziom, poziom) unless wartosci.empty?
+  end
+  
+  def dobry_ruch
+    dozwolone_ruchy.send(biale(:max_by, :min_by)) {|r| dup.ruch(*r).minimax}
+  end
+  
+  def koniec?
+    mat? || dozwolone_ruchy.empty? || polruch >= 100
   end
 end
