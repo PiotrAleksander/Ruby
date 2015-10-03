@@ -1,0 +1,7 @@
+Backup.new do |b|
+b.backup '../'
+b.backup '../the ruby way'  #file_name('*.rb') & file_name('*.txt')
+b.to '../backups'
+
+b.interval 60
+end

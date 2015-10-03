@@ -1,0 +1,739 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+<meta charset="UTF-8">
+
+<title>class Object - RDoc Documentation</title>
+
+<script type="text/javascript">
+  var rdoc_rel_prefix = "./";
+</script>
+
+<script src="./js/jquery.js"></script>
+<script src="./js/darkfish.js"></script>
+
+<link href="./css/fonts.css" rel="stylesheet">
+<link href="./css/rdoc.css" rel="stylesheet">
+
+
+
+<body id="top" role="document" class="class">
+<nav role="navigation">
+  <div id="project-navigation">
+    <div id="home-section" role="region" title="Quick navigation" class="nav-section">
+  <h2>
+    <a href="./index.html" rel="home">Home</a>
+  </h2>
+
+  <div id="table-of-contents-navigation">
+    <a href="./table_of_contents.html#pages">Pages</a>
+    <a href="./table_of_contents.html#classes">Classes</a>
+    <a href="./table_of_contents.html#methods">Methods</a>
+  </div>
+</div>
+
+    <div id="search-section" role="search" class="project-section initially-hidden">
+  <form action="#" method="get" accept-charset="utf-8">
+    <div id="search-field-wrapper">
+      <input id="search-field" role="combobox" aria-label="Search"
+             aria-autocomplete="list" aria-controls="search-results"
+             type="text" name="search" placeholder="Search" spellcheck="false"
+             title="Type to search, Up and Down to navigate, Enter to load">
+    </div>
+
+    <ul id="search-results" aria-label="Search Results"
+        aria-busy="false" aria-expanded="false"
+        aria-atomic="false" class="initially-hidden"></ul>
+  </form>
+</div>
+
+  </div>
+
+  
+
+  <div id="class-metadata">
+    
+    <div id="parent-class-section" class="nav-section">
+  <h3>Parent</h3>
+
+  
+  <p class="link">BasicObject
+  
+</div>
+
+    
+    
+    <!-- Method Quickref -->
+<div id="method-list-section" class="nav-section">
+  <h3>Methods</h3>
+
+  <ul class="link-list" role="directory">
+    
+    <li ><a href="#method-i-decrypt">#decrypt</a>
+    
+    <li ><a href="#method-i-encrypt">#encrypt</a>
+    
+    <li ><a href="#method-i-get_info">#get_info</a>
+    
+    <li ><a href="#method-i-heap_sort">#heap_sort</a>
+    
+    <li ><a href="#method-i-merge">#merge</a>
+    
+    <li ><a href="#method-i-merge_sort">#merge_sort</a>
+    
+    <li ><a href="#method-i-min">#min</a>
+    
+    <li ><a href="#method-i-quick_sort">#quick_sort</a>
+    
+    <li ><a href="#method-i-selection_sort">#selection_sort</a>
+    
+    <li ><a href="#method-i-shell_sort">#shell_sort</a>
+    
+    <li ><a href="#method-i-sift_down">#sift_down</a>
+    
+    <li ><a href="#method-i-sortowanie_babelkowe">#sortowanie_babelkowe</a>
+    
+    <li ><a href="#method-i-sortowanie_poprzez">#sortowanie_poprzez</a>
+    
+  </ul>
+</div>
+
+  </div>
+</nav>
+
+<main role="main" aria-labelledby="class-Object">
+  <h1 id="class-Object" class="class">
+    class Object
+  </h1>
+
+  <section class="description">
+    
+  </section>
+
+  
+  
+  
+  <section id="5Buntitled-5D" class="documentation-section">
+    
+
+    
+
+    
+
+    
+
+    
+     <section id="public-instance-5Buntitled-5D-method-details" class="method-section">
+       <header>
+         <h3>Public Instance Methods</h3>
+       </header>
+
+    
+      <div id="method-i-decrypt" class="method-detail ">
+        
+        <div class="method-heading">
+          <span class="method-name">decrypt</span><span
+            class="method-args">(file, pass)</span>
+          
+          <span class="method-click-advice">click to toggle source</span>
+          
+        </div>
+        
+
+        <div class="method-description">
+          
+          
+          
+          
+
+          
+          <div class="method-source-code" id="decrypt-source">
+            <pre><span class="ruby-comment"># File fileSecurity.rb, line 44</span>
+<span class="ruby-keyword">def</span> <span class="ruby-identifier">decrypt</span>(<span class="ruby-identifier">file</span>, <span class="ruby-identifier">pass</span>)
+  <span class="ruby-identifier">p</span> = <span class="ruby-node">&quot;O_#{file}&quot;</span>
+  
+  <span class="ruby-keyword">if</span> <span class="ruby-constant">File</span>.<span class="ruby-identifier">exists?</span>(<span class="ruby-identifier">p</span>)
+    <span class="ruby-identifier">puts</span> <span class="ruby-string">&quot;\nPlik już istnieje&quot;</span>
+  <span class="ruby-keyword">end</span>
+
+  <span class="ruby-keyword">begin</span>
+    <span class="ruby-comment"># Inicjowanie metody odszyfrowującej przy użyciu klucza podanego przez użytkownika.</span>
+    <span class="ruby-identifier">blowfish</span> = <span class="ruby-constant">Crypt</span><span class="ruby-operator">::</span><span class="ruby-constant">Blowfish</span>.<span class="ruby-identifier">new</span>(<span class="ruby-identifier">pass</span>)
+    <span class="ruby-identifier">blowfish</span>.<span class="ruby-identifier">decrypt_file</span>(<span class="ruby-identifier">file</span>.<span class="ruby-identifier">to_s</span>, <span class="ruby-identifier">p</span>)
+    <span class="ruby-comment"># Odszyfrowywanie pliku.</span>
+    <span class="ruby-identifier">puts</span> <span class="ruby-string">&quot;\nOdszyfrowywanie zakończone sukcesem!&quot;</span>
+  <span class="ruby-keyword">rescue</span> <span class="ruby-constant">Exception</span> =<span class="ruby-operator">&gt;</span> <span class="ruby-identifier">e</span>
+    <span class="ruby-identifier">puts</span> <span class="ruby-node">&quot;W czasie odszyfrowywania wystąpił błąd: \n #{e}&quot;</span>
+  <span class="ruby-keyword">end</span>
+<span class="ruby-keyword">end</span></pre>
+          </div>
+          
+        </div>
+
+        
+
+        
+      </div>
+
+    
+      <div id="method-i-encrypt" class="method-detail ">
+        
+        <div class="method-heading">
+          <span class="method-name">encrypt</span><span
+            class="method-args">(file, pass)</span>
+          
+          <span class="method-click-advice">click to toggle source</span>
+          
+        </div>
+        
+
+        <div class="method-description">
+          
+          
+          
+          
+
+          
+          <div class="method-source-code" id="encrypt-source">
+            <pre><span class="ruby-comment"># File fileSecurity.rb, line 26</span>
+<span class="ruby-keyword">def</span> <span class="ruby-identifier">encrypt</span>(<span class="ruby-identifier">file</span>, <span class="ruby-identifier">pass</span>)
+  <span class="ruby-identifier">c</span> = <span class="ruby-node">&quot;Z_#{file}&quot;</span>
+  <span class="ruby-keyword">if</span> <span class="ruby-constant">File</span>.<span class="ruby-identifier">exists?</span>(<span class="ruby-identifier">c</span>)
+    <span class="ruby-identifier">puts</span> <span class="ruby-string">&quot;\nPlik już istnieje.&quot;</span>
+        <span class="ruby-identifier">exit</span>
+  <span class="ruby-keyword">end</span>
+  
+  <span class="ruby-keyword">begin</span>
+    <span class="ruby-comment"># Inicjowanie metody szyfrującej przy użyciu klucza podanego przez użytkownika.</span>
+        <span class="ruby-identifier">blowfish</span> = <span class="ruby-constant">Crypt</span><span class="ruby-operator">::</span><span class="ruby-constant">Blowfish</span>.<span class="ruby-identifier">new</span>(<span class="ruby-identifier">pass</span>)
+        <span class="ruby-identifier">blowfish</span>.<span class="ruby-identifier">encrypt_file</span>(<span class="ruby-identifier">file</span>.<span class="ruby-identifier">to_s</span>, <span class="ruby-identifier">c</span>)
+        <span class="ruby-comment"># Szyfrowanie pliku.</span>
+        <span class="ruby-identifier">puts</span> <span class="ruby-string">&quot;\nSzyfrowanie zakończone sukcesem!&quot;</span>
+  <span class="ruby-keyword">rescue</span> <span class="ruby-constant">Exception</span> =<span class="ruby-operator">&gt;</span> <span class="ruby-identifier">e</span>
+    <span class="ruby-identifier">puts</span> <span class="ruby-node">&quot;W czasie szyfrowania wystąpił błąd: \n #{e}&quot;</span>
+  <span class="ruby-keyword">end</span>
+<span class="ruby-keyword">end</span></pre>
+          </div>
+          
+        </div>
+
+        
+
+        
+      </div>
+
+    
+      <div id="method-i-get_info" class="method-detail ">
+        
+        <div class="method-heading">
+          <span class="method-name">get_info</span><span
+            class="method-args">(stock_symbol)</span>
+          
+          <span class="method-click-advice">click to toggle source</span>
+          
+        </div>
+        
+
+        <div class="method-description">
+          
+          
+          
+          
+
+          
+          <div class="method-source-code" id="get_info-source">
+            <pre><span class="ruby-comment"># File stockGrep.rb, line 4</span>
+<span class="ruby-keyword">def</span> <span class="ruby-identifier">get_info</span> <span class="ruby-identifier">stock_symbol</span>
+  <span class="ruby-identifier">print</span> <span class="ruby-node">&quot;#{stock_symbol} - aktualne notowania akcji&quot;</span>
+  <span class="ruby-identifier">url</span> = <span class="ruby-string">&quot;http://download.finance.yahoo.com/d/quotes.csv&quot;</span> <span class="ruby-operator">+</span> <span class="ruby-node">&quot;?#{stock_symbol}&amp;f=sl1d1t1c1ohgv&amp;e=.csv&quot;</span>
+  <span class="ruby-identifier">print</span> <span class="ruby-node">&quot;Połączenie z #{url}\n\n\n&quot;</span>
+  
+  <span class="ruby-identifier">csv</span> = <span class="ruby-constant">CSV</span>.<span class="ruby-identifier">parse</span>(<span class="ruby-identifier">open</span>(<span class="ruby-identifier">url</span>).<span class="ruby-identifier">read</span>)
+  
+  <span class="ruby-identifier">csv</span>.<span class="ruby-identifier">each</span> <span class="ruby-keyword">do</span> <span class="ruby-operator">|</span><span class="ruby-identifier">row</span><span class="ruby-operator">|</span>
+    <span class="ruby-identifier">print</span> <span class="ruby-string">&quot;-------------------------&quot;</span>
+        <span class="ruby-identifier">print</span> <span class="ruby-node">&quot;Informacja z godz. #{row[3]} dnia #{row[2]}\n\n&quot;</span>
+        <span class="ruby-identifier">print</span> <span class="ruby-node">&quot;#{row[0]}, ostatnie notowanie to - $#{row[1]} (wzrost o #{row[4]})\n\n&quot;</span>
+        <span class="ruby-identifier">print</span> <span class="ruby-node">&quot;\tOtwarcie $#{row[5]}&quot;</span>
+        <span class="ruby-identifier">print</span> <span class="ruby-node">&quot;\tDzisiejszy zakres $#{row[7]} - ${row[6]}&quot;</span>
+  <span class="ruby-keyword">end</span>
+  <span class="ruby-identifier">print</span> <span class="ruby-string">&quot;-------------------------&quot;</span>
+<span class="ruby-keyword">end</span></pre>
+          </div>
+          
+        </div>
+
+        
+
+        
+      </div>
+
+    
+      <div id="method-i-heap_sort" class="method-detail ">
+        
+        <div class="method-heading">
+          <span class="method-name">heap_sort</span><span
+            class="method-args">(a)</span>
+          
+          <span class="method-click-advice">click to toggle source</span>
+          
+        </div>
+        
+
+        <div class="method-description">
+          
+          
+          
+          
+
+          
+          <div class="method-source-code" id="heap_sort-source">
+            <pre><span class="ruby-comment"># File heapSort.rb, line 3</span>
+<span class="ruby-keyword">def</span> <span class="ruby-identifier">heap_sort</span>(<span class="ruby-identifier">a</span>)
+  <span class="ruby-identifier">size</span> = <span class="ruby-identifier">a</span>.<span class="ruby-identifier">length</span>
+  <span class="ruby-identifier">i</span> = (<span class="ruby-identifier">size</span><span class="ruby-operator">/</span><span class="ruby-value">2</span>) <span class="ruby-operator">-</span> <span class="ruby-value">1</span>
+  
+  <span class="ruby-keyword">while</span> <span class="ruby-identifier">i</span><span class="ruby-operator">&gt;=</span><span class="ruby-value">0</span>
+    <span class="ruby-identifier">sift_down</span>(<span class="ruby-identifier">a</span>, <span class="ruby-identifier">i</span>, <span class="ruby-identifier">size</span>)
+        <span class="ruby-identifier">i</span><span class="ruby-operator">-=</span><span class="ruby-value">1</span>
+  <span class="ruby-keyword">end</span>
+  
+  <span class="ruby-identifier">i</span>=<span class="ruby-identifier">size</span><span class="ruby-operator">-</span><span class="ruby-value">1</span>
+  
+  <span class="ruby-keyword">while</span> <span class="ruby-identifier">i</span> <span class="ruby-operator">&gt;=</span> <span class="ruby-value">1</span>
+    <span class="ruby-identifier">a</span>[<span class="ruby-value">0</span>], <span class="ruby-identifier">a</span>[<span class="ruby-identifier">i</span>] = <span class="ruby-identifier">a</span>[<span class="ruby-identifier">i</span>], <span class="ruby-identifier">a</span>[<span class="ruby-value">0</span>]
+        <span class="ruby-identifier">sift_down</span>(<span class="ruby-identifier">a</span>, <span class="ruby-value">0</span>, <span class="ruby-identifier">i</span> <span class="ruby-value">-1</span>)
+        <span class="ruby-identifier">i</span> <span class="ruby-operator">-=</span> <span class="ruby-value">1</span>
+  <span class="ruby-keyword">end</span>
+  <span class="ruby-keyword">return</span> <span class="ruby-identifier">a</span>
+<span class="ruby-keyword">end</span></pre>
+          </div>
+          
+        </div>
+
+        
+
+        
+      </div>
+
+    
+      <div id="method-i-merge" class="method-detail ">
+        
+        <div class="method-heading">
+          <span class="method-name">merge</span><span
+            class="method-args">(a1, a2)</span>
+          
+          <span class="method-click-advice">click to toggle source</span>
+          
+        </div>
+        
+
+        <div class="method-description">
+          
+          
+          
+          
+
+          
+          <div class="method-source-code" id="merge-source">
+            <pre><span class="ruby-comment"># File mergeSort.rb, line 3</span>
+<span class="ruby-keyword">def</span> <span class="ruby-identifier">merge</span>(<span class="ruby-identifier">a1</span>, <span class="ruby-identifier">a2</span>)
+  <span class="ruby-identifier">ret</span> = []
+  
+  <span class="ruby-keyword">while</span> (<span class="ruby-keyword">true</span>)
+    <span class="ruby-keyword">if</span> <span class="ruby-identifier">a1</span>.<span class="ruby-identifier">empty?</span>
+          <span class="ruby-keyword">return</span> <span class="ruby-identifier">ret</span>.<span class="ruby-identifier">concat</span>(<span class="ruby-identifier">a2</span>)
+        <span class="ruby-keyword">end</span>
+        <span class="ruby-keyword">if</span> <span class="ruby-identifier">a2</span>.<span class="ruby-identifier">empty?</span>
+          <span class="ruby-keyword">return</span> <span class="ruby-identifier">ret</span>.<span class="ruby-identifier">concat</span>(<span class="ruby-identifier">a1</span>)
+        <span class="ruby-keyword">end</span>
+        
+        <span class="ruby-keyword">if</span> <span class="ruby-identifier">a1</span>[<span class="ruby-value">0</span>] <span class="ruby-operator">&lt;</span> <span class="ruby-identifier">a2</span>[<span class="ruby-value">0</span>]
+          <span class="ruby-identifier">ret</span> <span class="ruby-operator">&lt;&lt;</span> <span class="ruby-identifier">a1</span>[<span class="ruby-value">0</span>]
+          <span class="ruby-identifier">a1</span> = <span class="ruby-identifier">a1</span>[<span class="ruby-value">1</span><span class="ruby-operator">...</span><span class="ruby-identifier">a1</span>.<span class="ruby-identifier">size</span>]
+        <span class="ruby-keyword">else</span>
+          <span class="ruby-identifier">ret</span> <span class="ruby-operator">&lt;&lt;</span> <span class="ruby-identifier">a2</span>[<span class="ruby-value">0</span>]
+          <span class="ruby-identifier">a2</span> = <span class="ruby-identifier">a2</span>[<span class="ruby-value">1</span><span class="ruby-operator">...</span><span class="ruby-identifier">a2</span>.<span class="ruby-identifier">size</span>]
+        <span class="ruby-keyword">end</span>
+  <span class="ruby-keyword">end</span>
+<span class="ruby-keyword">end</span></pre>
+          </div>
+          
+        </div>
+
+        
+
+        
+      </div>
+
+    
+      <div id="method-i-merge_sort" class="method-detail ">
+        
+        <div class="method-heading">
+          <span class="method-name">merge_sort</span><span
+            class="method-args">(a)</span>
+          
+          <span class="method-click-advice">click to toggle source</span>
+          
+        </div>
+        
+
+        <div class="method-description">
+          
+          
+          
+          
+
+          
+          <div class="method-source-code" id="merge_sort-source">
+            <pre><span class="ruby-comment"># File mergeSort.rb, line 24</span>
+<span class="ruby-keyword">def</span> <span class="ruby-identifier">merge_sort</span>(<span class="ruby-identifier">a</span>)
+  <span class="ruby-keyword">if</span> <span class="ruby-identifier">a</span>.<span class="ruby-identifier">size</span> <span class="ruby-operator">==</span> <span class="ruby-value">1</span>
+    <span class="ruby-keyword">return</span> <span class="ruby-identifier">a</span>
+  <span class="ruby-keyword">elsif</span> <span class="ruby-identifier">a</span>.<span class="ruby-identifier">size</span> <span class="ruby-operator">==</span> <span class="ruby-value">2</span>
+    <span class="ruby-keyword">if</span> <span class="ruby-identifier">a</span>[<span class="ruby-value">0</span>] <span class="ruby-operator">&gt;</span> <span class="ruby-identifier">a</span>[<span class="ruby-value">1</span>]
+          <span class="ruby-identifier">a</span>[<span class="ruby-value">0</span>], <span class="ruby-identifier">a</span>[<span class="ruby-value">1</span>] = <span class="ruby-identifier">a</span>[<span class="ruby-value">1</span>], <span class="ruby-identifier">a</span>[<span class="ruby-value">0</span>]
+        <span class="ruby-keyword">end</span>
+        <span class="ruby-keyword">return</span> <span class="ruby-identifier">a</span>
+  <span class="ruby-keyword">end</span>
+  
+  <span class="ruby-identifier">size1</span> = (<span class="ruby-identifier">a</span>.<span class="ruby-identifier">size</span> <span class="ruby-operator">/</span> <span class="ruby-value">2</span>).<span class="ruby-identifier">to_i</span>
+  <span class="ruby-identifier">size2</span> = <span class="ruby-identifier">a</span>.<span class="ruby-identifier">size</span> <span class="ruby-operator">-</span> <span class="ruby-identifier">size1</span>
+  
+  <span class="ruby-identifier">a1</span> = <span class="ruby-identifier">a</span>[<span class="ruby-value">0</span><span class="ruby-operator">...</span><span class="ruby-identifier">size1</span>]
+  <span class="ruby-identifier">a2</span> = <span class="ruby-identifier">a</span>[<span class="ruby-identifier">size1</span><span class="ruby-operator">...</span><span class="ruby-identifier">a</span>.<span class="ruby-identifier">size</span>]
+  
+  <span class="ruby-identifier">a1</span> = <span class="ruby-identifier">merge_sort</span>(<span class="ruby-identifier">a1</span>)
+  <span class="ruby-identifier">a2</span> = <span class="ruby-identifier">merge_sort</span>(<span class="ruby-identifier">a2</span>)
+  
+  <span class="ruby-keyword">return</span> <span class="ruby-identifier">merge</span>(<span class="ruby-identifier">a1</span>, <span class="ruby-identifier">a2</span>)
+<span class="ruby-keyword">end</span></pre>
+          </div>
+          
+        </div>
+
+        
+
+        
+      </div>
+
+    
+      <div id="method-i-min" class="method-detail ">
+        
+        <div class="method-heading">
+          <span class="method-name">min</span><span
+            class="method-args">(subset, from)</span>
+          
+          <span class="method-click-advice">click to toggle source</span>
+          
+        </div>
+        
+
+        <div class="method-description">
+          
+          
+          
+          
+
+          
+          <div class="method-source-code" id="min-source">
+            <pre><span class="ruby-comment"># File selectionSort.rb, line 13</span>
+<span class="ruby-keyword">def</span> <span class="ruby-identifier">min</span>(<span class="ruby-identifier">subset</span>, <span class="ruby-identifier">from</span>)
+  <span class="ruby-identifier">min_value</span> = <span class="ruby-identifier">subset</span>[<span class="ruby-identifier">from</span><span class="ruby-operator">..</span><span class="ruby-value">-1</span>].<span class="ruby-identifier">min</span>
+  <span class="ruby-identifier">min_index</span> = <span class="ruby-identifier">subset</span>[<span class="ruby-identifier">from</span><span class="ruby-operator">..</span><span class="ruby-value">-1</span>].<span class="ruby-identifier">index</span>(<span class="ruby-identifier">min_value</span>) <span class="ruby-operator">+</span> <span class="ruby-identifier">from</span>
+  <span class="ruby-keyword">return</span> <span class="ruby-identifier">min_index</span>
+<span class="ruby-keyword">end</span></pre>
+          </div>
+          
+        </div>
+
+        
+
+        
+      </div>
+
+    
+      <div id="method-i-quick_sort" class="method-detail ">
+        
+        <div class="method-heading">
+          <span class="method-name">quick_sort</span><span
+            class="method-args">(f, aArray)</span>
+          
+          <span class="method-click-advice">click to toggle source</span>
+          
+        </div>
+        
+
+        <div class="method-description">
+          
+          
+          
+          
+
+          
+          <div class="method-source-code" id="quick_sort-source">
+            <pre><span class="ruby-comment"># File quickSort.rb, line 3</span>
+<span class="ruby-keyword">def</span> <span class="ruby-identifier">quick_sort</span>(<span class="ruby-identifier">f</span>, <span class="ruby-identifier">aArray</span>)
+  <span class="ruby-keyword">return</span> [] <span class="ruby-keyword">if</span> <span class="ruby-identifier">aArray</span>.<span class="ruby-identifier">empty?</span>
+  <span class="ruby-identifier">pivot</span> = <span class="ruby-identifier">aArray</span>[<span class="ruby-value">0</span>]
+  <span class="ruby-identifier">before</span> = <span class="ruby-identifier">quick_sort</span>(<span class="ruby-identifier">f</span>, <span class="ruby-identifier">aArray</span>[<span class="ruby-value">1</span><span class="ruby-operator">..</span><span class="ruby-value">-1</span>].<span class="ruby-identifier">delete_if</span> {<span class="ruby-operator">|</span><span class="ruby-identifier">x</span><span class="ruby-operator">|</span> <span class="ruby-keyword">not</span> <span class="ruby-identifier">f</span>.<span class="ruby-identifier">call</span>(<span class="ruby-identifier">x</span>, <span class="ruby-identifier">pivot</span>)})
+  <span class="ruby-identifier">after</span> = <span class="ruby-identifier">quick_sort</span>(<span class="ruby-identifier">f</span>, <span class="ruby-identifier">aArray</span>[<span class="ruby-value">1</span><span class="ruby-operator">..</span><span class="ruby-value">-1</span>].<span class="ruby-identifier">delete_if</span> {<span class="ruby-operator">|</span><span class="ruby-identifier">x</span><span class="ruby-operator">|</span> <span class="ruby-identifier">f</span>.<span class="ruby-identifier">call</span>(<span class="ruby-identifier">x</span>, <span class="ruby-identifier">pivot</span>) })
+  <span class="ruby-keyword">return</span> (<span class="ruby-identifier">before</span><span class="ruby-operator">&lt;&lt;</span><span class="ruby-identifier">pivot</span>).<span class="ruby-identifier">concat</span>(<span class="ruby-identifier">after</span>)
+<span class="ruby-keyword">end</span></pre>
+          </div>
+          
+        </div>
+
+        
+
+        
+      </div>
+
+    
+      <div id="method-i-selection_sort" class="method-detail ">
+        
+        <div class="method-heading">
+          <span class="method-name">selection_sort</span><span
+            class="method-args">(a)</span>
+          
+          <span class="method-click-advice">click to toggle source</span>
+          
+        </div>
+        
+
+        <div class="method-description">
+          
+          
+          
+          
+
+          
+          <div class="method-source-code" id="selection_sort-source">
+            <pre><span class="ruby-comment"># File selectionSort.rb, line 3</span>
+<span class="ruby-keyword">def</span> <span class="ruby-identifier">selection_sort</span>(<span class="ruby-identifier">a</span>)
+  
+  <span class="ruby-identifier">a</span>.<span class="ruby-identifier">each_index</span> <span class="ruby-keyword">do</span> <span class="ruby-operator">|</span><span class="ruby-identifier">i</span><span class="ruby-operator">|</span>
+    <span class="ruby-identifier">min_index</span> = <span class="ruby-identifier">min</span>(<span class="ruby-identifier">a</span>, <span class="ruby-identifier">i</span>)
+        
+        <span class="ruby-identifier">a</span>[<span class="ruby-identifier">i</span>], <span class="ruby-identifier">a</span>[<span class="ruby-identifier">min_index</span>] = <span class="ruby-identifier">a</span>[<span class="ruby-identifier">min_index</span>], <span class="ruby-identifier">a</span>[<span class="ruby-identifier">i</span>]
+  <span class="ruby-keyword">end</span>
+        <span class="ruby-identifier">a</span>
+<span class="ruby-keyword">end</span></pre>
+          </div>
+          
+        </div>
+
+        
+
+        
+      </div>
+
+    
+      <div id="method-i-shell_sort" class="method-detail ">
+        
+        <div class="method-heading">
+          <span class="method-name">shell_sort</span><span
+            class="method-args">(a)</span>
+          
+          <span class="method-click-advice">click to toggle source</span>
+          
+        </div>
+        
+
+        <div class="method-description">
+          
+          
+          
+          
+
+          
+          <div class="method-source-code" id="shell_sort-source">
+            <pre><span class="ruby-comment"># File shellSort.rb, line 3</span>
+<span class="ruby-keyword">def</span> <span class="ruby-identifier">shell_sort</span>(<span class="ruby-identifier">a</span>)
+  <span class="ruby-identifier">i</span> = <span class="ruby-value">0</span>
+  <span class="ruby-identifier">j</span>= <span class="ruby-value">0</span>
+  <span class="ruby-identifier">size</span> = <span class="ruby-identifier">a</span>.<span class="ruby-identifier">length</span>
+  <span class="ruby-identifier">increment</span> = <span class="ruby-identifier">size</span><span class="ruby-operator">/</span><span class="ruby-value">2</span>
+  <span class="ruby-identifier">temp</span> = <span class="ruby-value">0</span>
+  
+  <span class="ruby-keyword">while</span> <span class="ruby-identifier">increment</span><span class="ruby-operator">&gt;</span><span class="ruby-value">0</span>
+    <span class="ruby-identifier">i</span> = <span class="ruby-identifier">increment</span>
+        <span class="ruby-keyword">while</span> <span class="ruby-identifier">i</span><span class="ruby-operator">&lt;</span><span class="ruby-identifier">size</span>
+          <span class="ruby-identifier">j</span> = <span class="ruby-identifier">i</span>
+          <span class="ruby-identifier">temp</span> = <span class="ruby-identifier">a</span>[<span class="ruby-identifier">i</span>]
+          <span class="ruby-keyword">while</span> <span class="ruby-identifier">j</span><span class="ruby-operator">&gt;=</span><span class="ruby-identifier">increment</span> <span class="ruby-keyword">and</span> <span class="ruby-identifier">a</span>[<span class="ruby-identifier">j</span><span class="ruby-operator">-</span><span class="ruby-identifier">increment</span>]<span class="ruby-operator">&gt;</span><span class="ruby-identifier">temp</span>
+            <span class="ruby-identifier">a</span>[<span class="ruby-identifier">j</span>] = <span class="ruby-identifier">a</span>[<span class="ruby-identifier">j</span> <span class="ruby-operator">-</span> <span class="ruby-identifier">increment</span>]
+                <span class="ruby-identifier">j</span> = <span class="ruby-identifier">j</span><span class="ruby-operator">-</span><span class="ruby-identifier">increment</span>
+          <span class="ruby-keyword">end</span>
+          <span class="ruby-identifier">a</span>[<span class="ruby-identifier">j</span>] = <span class="ruby-identifier">temp</span>
+          <span class="ruby-identifier">i</span><span class="ruby-operator">+=</span><span class="ruby-value">1</span>
+    <span class="ruby-keyword">end</span>
+    <span class="ruby-keyword">if</span> <span class="ruby-identifier">increment</span> <span class="ruby-operator">==</span> <span class="ruby-value">2</span>
+      <span class="ruby-identifier">increment</span> = <span class="ruby-value">1</span>
+    <span class="ruby-keyword">else</span>
+      <span class="ruby-identifier">increment</span> = (<span class="ruby-identifier">increment</span><span class="ruby-operator">/</span><span class="ruby-value">2</span>).<span class="ruby-identifier">to_i</span>
+    <span class="ruby-keyword">end</span>
+  <span class="ruby-keyword">end</span>
+  <span class="ruby-keyword">return</span> <span class="ruby-identifier">a</span>
+<span class="ruby-keyword">end</span></pre>
+          </div>
+          
+        </div>
+
+        
+
+        
+      </div>
+
+    
+      <div id="method-i-sift_down" class="method-detail ">
+        
+        <div class="method-heading">
+          <span class="method-name">sift_down</span><span
+            class="method-args">(num, root, bottom)</span>
+          
+          <span class="method-click-advice">click to toggle source</span>
+          
+        </div>
+        
+
+        <div class="method-description">
+          
+          
+          
+          
+
+          
+          <div class="method-source-code" id="sift_down-source">
+            <pre><span class="ruby-comment"># File heapSort.rb, line 22</span>
+<span class="ruby-keyword">def</span> <span class="ruby-identifier">sift_down</span>(<span class="ruby-identifier">num</span>, <span class="ruby-identifier">root</span>, <span class="ruby-identifier">bottom</span>)
+  <span class="ruby-identifier">done</span> = <span class="ruby-keyword">false</span>
+  <span class="ruby-identifier">max_child</span> = <span class="ruby-value">0</span> 
+  
+  <span class="ruby-keyword">while</span> <span class="ruby-identifier">root</span><span class="ruby-operator">*</span><span class="ruby-value">2</span> <span class="ruby-operator">&lt;</span> <span class="ruby-identifier">bottom</span> <span class="ruby-keyword">and</span> <span class="ruby-operator">!</span><span class="ruby-identifier">done</span>
+    <span class="ruby-keyword">if</span> <span class="ruby-identifier">root</span><span class="ruby-operator">*</span><span class="ruby-value">2</span> <span class="ruby-operator">==</span> <span class="ruby-identifier">bottom</span>
+          <span class="ruby-identifier">max_child</span> = <span class="ruby-identifier">root</span><span class="ruby-operator">*</span><span class="ruby-value">2</span>
+        <span class="ruby-keyword">elsif</span> <span class="ruby-identifier">num</span>[<span class="ruby-identifier">root</span><span class="ruby-operator">*</span><span class="ruby-value">2</span>].<span class="ruby-identifier">to_i</span> <span class="ruby-operator">&gt;</span> <span class="ruby-identifier">num</span>[<span class="ruby-identifier">root</span><span class="ruby-operator">*</span><span class="ruby-value">2</span><span class="ruby-operator">+</span><span class="ruby-value">1</span>].<span class="ruby-identifier">to_i</span>
+          <span class="ruby-identifier">max_child</span> = <span class="ruby-identifier">root</span><span class="ruby-operator">*</span><span class="ruby-value">2</span>
+        <span class="ruby-keyword">else</span>
+          <span class="ruby-identifier">max_child</span> = <span class="ruby-identifier">root</span><span class="ruby-operator">*</span><span class="ruby-value">2</span><span class="ruby-operator">+</span><span class="ruby-value">1</span>
+        <span class="ruby-keyword">end</span>
+    <span class="ruby-keyword">if</span> <span class="ruby-identifier">num</span>[<span class="ruby-identifier">root</span>] <span class="ruby-operator">&lt;</span> <span class="ruby-identifier">num</span>[<span class="ruby-identifier">max_child</span>]
+          <span class="ruby-identifier">num</span>[<span class="ruby-identifier">root</span>], <span class="ruby-identifier">num</span>[<span class="ruby-identifier">max_child</span>] = <span class="ruby-identifier">num</span>[<span class="ruby-identifier">max_child</span>], <span class="ruby-identifier">num</span>[<span class="ruby-identifier">root</span>]
+          <span class="ruby-identifier">root</span> = <span class="ruby-identifier">max_child</span>
+        <span class="ruby-keyword">else</span>
+          <span class="ruby-identifier">done</span> = <span class="ruby-keyword">true</span>
+        <span class="ruby-keyword">end</span>
+  <span class="ruby-keyword">end</span>
+<span class="ruby-keyword">end</span></pre>
+          </div>
+          
+        </div>
+
+        
+
+        
+      </div>
+
+    
+      <div id="method-i-sortowanie_babelkowe" class="method-detail ">
+        
+        <div class="method-heading">
+          <span class="method-name">sortowanie_babelkowe</span><span
+            class="method-args">(tablica)</span>
+          
+          <span class="method-click-advice">click to toggle source</span>
+          
+        </div>
+        
+
+        <div class="method-description">
+          
+          
+          
+          
+
+          
+          <div class="method-source-code" id="sortowanie_babelkowe-source">
+            <pre><span class="ruby-comment"># File bubbleSort.rb, line 3</span>
+<span class="ruby-keyword">def</span> <span class="ruby-identifier">sortowanie_babelkowe</span>(<span class="ruby-identifier">tablica</span>)
+  <span class="ruby-identifier">loop</span> <span class="ruby-keyword">do</span>
+  <span class="ruby-identifier">i</span>, <span class="ruby-identifier">x</span> = <span class="ruby-value">0</span>, <span class="ruby-value">0</span> <span class="ruby-comment">#x to zmienna pomocnicza</span>
+    <span class="ruby-keyword">while</span> <span class="ruby-identifier">i</span> <span class="ruby-operator">&lt;</span> <span class="ruby-identifier">tablica</span>.<span class="ruby-identifier">length</span> <span class="ruby-operator">-</span> <span class="ruby-value">1</span>
+          <span class="ruby-keyword">if</span> <span class="ruby-identifier">tablica</span>[<span class="ruby-identifier">i</span> <span class="ruby-operator">+</span> <span class="ruby-value">1</span>] <span class="ruby-operator">&lt;</span> <span class="ruby-identifier">tablica</span>[<span class="ruby-identifier">i</span>]
+      <span class="ruby-identifier">tablica</span>[<span class="ruby-identifier">i</span>], <span class="ruby-identifier">tablica</span>[<span class="ruby-identifier">i</span> <span class="ruby-operator">+</span> <span class="ruby-value">1</span>] = <span class="ruby-identifier">tablica</span>[<span class="ruby-identifier">i</span> <span class="ruby-operator">+</span> <span class="ruby-value">1</span>], <span class="ruby-identifier">tablica</span>[<span class="ruby-identifier">i</span>]
+      <span class="ruby-identifier">x</span> <span class="ruby-operator">+=</span> <span class="ruby-value">1</span> <span class="ruby-comment">#służąca za znacznik przebiegu sortowania</span>
+          <span class="ruby-keyword">end</span>
+      <span class="ruby-identifier">i</span> <span class="ruby-operator">+=</span> <span class="ruby-value">1</span>
+    <span class="ruby-keyword">end</span>
+    <span class="ruby-keyword">break</span> <span class="ruby-keyword">if</span> <span class="ruby-identifier">x</span> <span class="ruby-operator">==</span> <span class="ruby-value">0</span> <span class="ruby-comment"># i wyłączy pętle, jeżeli tablica jest, bądź była posortowana</span>
+  <span class="ruby-keyword">end</span>
+  <span class="ruby-identifier">tablica</span>
+<span class="ruby-keyword">end</span></pre>
+          </div>
+          
+        </div>
+
+        
+
+        
+      </div>
+
+    
+      <div id="method-i-sortowanie_poprzez" class="method-detail ">
+        
+        <div class="method-heading">
+          <span class="method-name">sortowanie_poprzez</span><span
+            class="method-args">(tablica) { |tablica, tablica| ... }</span>
+          
+          <span class="method-click-advice">click to toggle source</span>
+          
+        </div>
+        
+
+        <div class="method-description">
+          
+          
+          
+          
+
+          
+          <div class="method-source-code" id="sortowanie_poprzez-source">
+            <pre><span class="ruby-comment"># File bubbleSort.rb, line 18</span>
+<span class="ruby-keyword">def</span> <span class="ruby-identifier">sortowanie_poprzez</span>(<span class="ruby-identifier">tablica</span>)
+  <span class="ruby-identifier">loop</span> <span class="ruby-keyword">do</span>
+  <span class="ruby-identifier">i</span>, <span class="ruby-identifier">x</span> = <span class="ruby-value">0</span>, <span class="ruby-value">0</span>
+    <span class="ruby-keyword">while</span> <span class="ruby-identifier">i</span> <span class="ruby-operator">&lt;</span> <span class="ruby-identifier">tablica</span>.<span class="ruby-identifier">length</span> <span class="ruby-operator">-</span> <span class="ruby-value">1</span>
+      <span class="ruby-keyword">if</span> <span class="ruby-keyword">yield</span>(<span class="ruby-identifier">tablica</span>[<span class="ruby-identifier">i</span>], <span class="ruby-identifier">tablica</span>[<span class="ruby-identifier">i</span> <span class="ruby-operator">+</span> <span class="ruby-value">1</span>]) <span class="ruby-operator">&gt;</span> <span class="ruby-value">0</span>
+      <span class="ruby-identifier">tablica</span>[<span class="ruby-identifier">i</span>], <span class="ruby-identifier">tablica</span>[<span class="ruby-identifier">i</span> <span class="ruby-operator">+</span> <span class="ruby-value">1</span>] = <span class="ruby-identifier">tablica</span>[<span class="ruby-identifier">i</span> <span class="ruby-operator">+</span> <span class="ruby-value">1</span>], <span class="ruby-identifier">tablica</span>[<span class="ruby-identifier">i</span>]
+      <span class="ruby-identifier">x</span> <span class="ruby-operator">+=</span> <span class="ruby-value">1</span>
+      <span class="ruby-keyword">end</span>
+      <span class="ruby-identifier">i</span> <span class="ruby-operator">+=</span> <span class="ruby-value">1</span>
+    <span class="ruby-keyword">end</span>
+    <span class="ruby-keyword">break</span> <span class="ruby-keyword">if</span> <span class="ruby-identifier">x</span> <span class="ruby-operator">==</span> <span class="ruby-value">0</span>
+  <span class="ruby-keyword">end</span>
+  <span class="ruby-identifier">tablica</span>
+<span class="ruby-keyword">end</span></pre>
+          </div>
+          
+        </div>
+
+        
+
+        
+      </div>
+
+    
+    </section>
+  
+  </section>
+</main>
+
+
+<footer id="validator-badges" role="contentinfo">
+  <p><a href="http://validator.w3.org/check/referer">Validate</a>
+  <p>Generated by <a href="http://docs.seattlerb.org/rdoc/">RDoc</a> 4.2.0.
+  <p>Based on <a href="http://deveiate.org/projects/Darkfish-RDoc/">Darkfish</a> by <a href="http://deveiate.org">Michael Granger</a>.
+</footer>
+

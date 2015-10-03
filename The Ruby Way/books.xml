@@ -1,0 +1,36 @@
+<library shelf="Ostatnie nabytki">
+  <section name="Ruby">
+    <book isbn="0662328844">
+	  <title>The Ruby Way</title>
+	  <author>Fulton Hal</author>
+	  <description>Second edition. The book I am writing this from. Ain't recursion grand?</description>
+    </book>
+	<book isbn="9788324616886">
+	  <title>Design Patterns in Ruby</title>
+	  <author>Olsen Russ</author>
+	  <description>Zwiększ elastyczność swojego kodu dzięki wzorcom projektowym!</description>
+	</book>
+	<book isbn="9788324622542">
+	  <title>Wicked Cool Ruby Scripts</title>
+	  <author>Pugh Steve</author>
+	  <description>Useful Scripts that Solve Difficult Problems.</description>
+	</book>
+	<book isbn="9788324610532">
+	  <title>Ruby Phrasebook</title>
+	  <author>Clinton Jason D.</author>
+	  <description>Naucz się prostej składni, poznaj właściwy kod i twórz w języku Ruby</description>
+	</book>
+	<book isbn="9788324606610">
+	  <title>Ruby on Rails</title>
+	  <author>Sobczak Michał</author>
+	  <description>Stwórz aplikacje internetowe za pomocą nowoczesnego narzędzia</description>
+	</book>
+  </section>
+  <section name="Agile Programming">
+    <book isbn="9788324634835">
+      <title>The Agile Samurai</title>
+      <author>Rasmusson Jonathan</author>
+      <description>How Agile Masters Deliver Great Software</description>
+    </book>
+  </section>
+</library>  
